@@ -1,0 +1,137 @@
+
+ - filename: aster.fasta
+   origin: Biopython
+   tags: protein
+ - filename: centaurea.fasta
+   origin: Biopython
+   tags: dna
+ - filename: elderberry.fasta
+   origin: Biopython
+   tags: dna
+ - filename: f001.fasta
+   origin: Biopython
+   tags: protein
+ - filename: f002.fasta
+   origin: Biopython
+   tags: dna multi
+ - filename: f003.fasta
+   origin: Biopython
+   tags: dna multi comments
+ - filename: fa01.fasta
+   origin: Biopython
+   tags: protein gaps
+ - filename: lavender.fasta
+   origin: Biopython
+   tags: dna
+ - filename: loveliesbleeding.fasta
+   origin: Biopython
+   tags: protein
+ - filename: lupine.fasta
+   origin: Biopython
+   tags: dna
+ - filename: phlox.fasta
+   origin: Biopython
+   tags: dna
+ - filename: rose.fasta
+   origin: Biopython
+   tags: protein
+ - filename: rosemary.fasta
+   origin: Biopython
+   tags: protein
+ - filename: sweetpea.fasta
+   origin: Biopython
+   tags: dna
+ - filename: wisteria.fasta
+   origin: Biopython
+   tags: dna
+ - filename: alnfile.fasta
+   origin: BioPerl
+   tags: protein
+ - filename: genomic-seq.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: hs_owlmonkey.fasta
+   origin: BioPerl
+   tags: dna gaps
+ - filename: test.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: testaln.fasta
+   origin: BioPerl
+   tags: protein multi gaps
+ - filename: testaln2.fasta
+   origin: BioPerl
+   tags: protein multi gaps
+
+ - filename: ACC12660.fasta
+   origin: BioPerl
+   tags: protein
+ - filename: HUMBETGLOA.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: amino.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: amino.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: badfasta.fasta
+   origin: BioPerl
+   tags: dna multi
+   comments: BioPerl suggests that this is invalid due to blank lines.
+ - filename: bug2901.fasta
+   origin: BioPerl
+   tags: dna gaps
+ - filename: cysprot.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: cysprot1.fasta
+   origin: BioPerl
+   tags: protein
+ - filename: cysprot1a.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: cysprot1b.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: dna.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: dna2.fasta
+   origin: BioPerl
+   tags: dna multi
+ - filename: dnaE-bsub-prot.fasta
+   origin: BioPerl
+   tags: protein
+ - filename: dnaE-bsub.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: ecolitst.fasta
+   origin: BioPerl
+   tags: protein
+ - filename: forward_primer.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: forward_reverse_primers.fasta
+   origin: BioPerl
+   tags: dna ambiguity
+ - filename: multi_1.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: multi_2.fasta
+   origin: BioPerl
+   tags: protein multi
+ - filename: pictogram.fasta
+   origin: BioPerl
+   tags: dna multi
+ - filename: primedseq.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: spaced_fasta.fasta
+   origin: BioPerl
+   tags: dna
+ - filename: spaced_fasta.fasta
+   origin: BioPerl
+   tags: dna
+
+
