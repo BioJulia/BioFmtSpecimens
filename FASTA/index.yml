@@ -5,6 +5,17 @@
  - filename: centaurea.fasta
    origin: Biopython
    tags: dna
+ - filename: EFTU_BASCU.fasta
+   origin: Bioruby
+   tags: protein
+ - filename: example1.txt
+   origin: Bioruby
+   tags: dna
+   comments: some sequences contain gaps (labelled as 'cutpoints')
+ - filename: example2.txt
+   origin: Bioruby
+   tags: dna
+   comments: masked sequence delineated by upper/lowercase
  - filename: elderberry.fasta
    origin: Biopython
    tags: dna
