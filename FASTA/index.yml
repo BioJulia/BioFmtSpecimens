@@ -5,7 +5,7 @@
  - filename: centaurea.fasta
    origin: Biopython
    tags: dna
- - filename: EFTU_BASCU.fasta
+ - filename: EFTU_BACSU.fasta
    origin: Bioruby
    tags: protein
  - filename: example1.txt
@@ -73,8 +73,7 @@
  - filename: testaln2.fasta
    origin: BioPerl
    tags: protein multi gaps
-
- - filename: ACC12660.fasta
+ - filename: AAC12660.fasta
    origin: BioPerl
    tags: protein
  - filename: HUMBETGLOA.fasta
@@ -105,7 +104,7 @@
  - filename: cysprot1b.fasta
    origin: BioPerl
    tags: protein multi
- - filename: dna.fasta
+ - filename: dna1.fasta
    origin: BioPerl
    tags: dna
  - filename: dna2.fasta
@@ -144,5 +143,4 @@
  - filename: spaced_fasta.fasta
    origin: BioPerl
    tags: dna
-
 
