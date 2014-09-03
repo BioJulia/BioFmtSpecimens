@@ -19,9 +19,10 @@ contain format specimens along with a file `index.yml`. This is a
 the directory. Each entry has the following fields:
 
   * **filename** Specimen filename.
-  * **description** (Optional) Short (typically, single sentence) description of the
-    specimen.
+  * **valid** True or false, annotating whether the example is considered to
+    conform to the format.
   * **origin** The contributor or source from which a specimen was taken.
   * **tags** Zero or more words used to group specimens by shared features.
-
+  * **comments** (Optional) Any additional information that might be of
+    interest.
 

@@ -1,146 +1,193 @@
 
  - filename: aster.fasta
+   valid: true
    origin: Biopython
    tags: protein
  - filename: centaurea.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: EFTU_BACSU.fasta
+   valid: true
    origin: Bioruby
    tags: protein
  - filename: example1.txt
+   valid: true
    origin: Bioruby
    tags: dna
    comments: some sequences contain gaps (labelled as 'cutpoints')
  - filename: example2.txt
+   valid: true
    origin: Bioruby
    tags: dna
    comments: masked sequence delineated by upper/lowercase
  - filename: elderberry.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: f001.fasta
+   valid: true
    origin: Biopython
    tags: protein
  - filename: f002.fasta
+   valid: true
    origin: Biopython
    tags: dna multi
  - filename: f003.fasta
+   valid: true
    origin: Biopython
    tags: dna multi comments
  - filename: fa01.fasta
+   valid: true
    origin: Biopython
    tags: protein gaps
  - filename: lavender.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: loveliesbleeding.fasta
+   valid: true
    origin: Biopython
    tags: protein
  - filename: lupine.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: phlox.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: rose.fasta
+   valid: true
    origin: Biopython
    tags: protein
  - filename: rosemary.fasta
+   valid: true
    origin: Biopython
    tags: protein
  - filename: sweetpea.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: wisteria.fasta
+   valid: true
    origin: Biopython
    tags: dna
  - filename: alnfile.fasta
+   valid: true
    origin: BioPerl
    tags: protein
  - filename: genomic-seq.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: hs_owlmonkey.fasta
+   valid: true
    origin: BioPerl
    tags: dna gaps
  - filename: test.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: testaln.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi gaps
  - filename: testaln2.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi gaps
  - filename: AAC12660.fasta
+   valid: true
    origin: BioPerl
    tags: protein
  - filename: HUMBETGLOA.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: amino.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: amino.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: badfasta.fasta
+   valid: true
    origin: BioPerl
    tags: dna multi
    comments: BioPerl suggests that this is invalid due to blank lines.
  - filename: bug2901.fasta
+   valid: true
    origin: BioPerl
    tags: dna gaps
  - filename: cysprot.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: cysprot1.fasta
+   valid: true
    origin: BioPerl
    tags: protein
  - filename: cysprot1a.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: cysprot1b.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: dna1.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: dna2.fasta
+   valid: true
    origin: BioPerl
    tags: dna multi
  - filename: dnaE-bsub-prot.fasta
+   valid: true
    origin: BioPerl
    tags: protein
  - filename: dnaE-bsub.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: ecolitst.fasta
+   valid: true
    origin: BioPerl
    tags: protein
  - filename: forward_primer.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: forward_reverse_primers.fasta
+   valid: true
    origin: BioPerl
    tags: dna ambiguity
  - filename: multi_1.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: multi_2.fasta
+   valid: true
    origin: BioPerl
    tags: protein multi
  - filename: pictogram.fasta
+   valid: true
    origin: BioPerl
    tags: dna multi
  - filename: primedseq.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: spaced_fasta.fasta
+   valid: true
    origin: BioPerl
    tags: dna
  - filename: spaced_fasta.fasta
+   valid: true
    origin: BioPerl
    tags: dna
 
