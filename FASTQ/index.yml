@@ -97,25 +97,33 @@
   valid: true
 - filename: misc_dna_as_illumina.fastq
   origin: Biopython
+  tags: dna ambiguity
 - filename: misc_dna_as_sanger.fastq
   valid: true
   origin: Biopython
+  tags: dna ambiguity
 - filename: misc_dna_as_solexa.fastq
   origin: Biopython
   valid: true
+  tags: dna ambiguity
 - filename: misc_dna_original_sanger.fastq
   origin: Biopython
+  tags: dna ambiguity
 - filename: misc_rna_as_illumina.fastq
   valid: true
   origin: Biopython
+  tags: rna ambiguity
 - filename: misc_rna_as_sanger.fastq
   origin: Biopython
   valid: true
+  tags: rna ambiguity
 - filename: misc_rna_as_solexa.fastq
   origin: Biopython
+  tags: rna ambiguity
 - filename: misc_rna_original_sanger.fastq
   valid: true
   origin: Biopython
+  tags: rna ambiguity
 - filename: sanger_93.fastq
   origin: Biopython
   valid: true
