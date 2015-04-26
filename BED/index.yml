@@ -32,7 +32,7 @@
   valid: true
   origin: kent
 - filename: overlapSelect-wideIn.bed
-  valid: true
+  valid: false
   origin: kent
 - filename: overlapSelect-wideSelect.bed
   valid: true
