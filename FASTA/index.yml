@@ -190,4 +190,7 @@
    valid: true
    origin: BioPerl
    tags: dna
-
+ - filename: P02456.fasta
+   valid: true
+   origin: UniProt
+   tags: protein ambiguity
