@@ -1,0 +1,21 @@
+ - filename: 1AKE.pdb
+   valid: true
+   origin: PDB
+ - filename: 1AKE_err_a.pdb
+   valid: false
+   origin: PDB modified
+ - filename: 1AKE_err_b.pdb
+   valid: false
+   origin: PDB modified
+ - filename: 1AKE_err_c.pdb
+   valid: false
+   origin: PDB modified
+ - filename: 1EN2.pdb
+   valid: true
+   origin: PDB
+ - filename: 1SSU.pdb
+   valid: true
+   origin: PDB
+ - filename: 1SSU_err.pdb
+   valid: false
+   origin: PDB modified
