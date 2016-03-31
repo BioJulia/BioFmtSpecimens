@@ -1,0 +1,11 @@
+
+- filename: cysprot*
+  valid: true
+  origin: Biopython
+  tags: protein
+  comments: made with BLAST v2.3.0+ from ../FASTA/cysprot.fasta, requires 3 files (.pin, .phr, .psq)
+- filename: f002*
+  valid: true
+  origin: Biopython
+  tags: dna
+  comments: made with BLAST v2.3.0+ from ../FASTA/f002.fasta, requires 3 files (.nin, .nhr, .nsq)
