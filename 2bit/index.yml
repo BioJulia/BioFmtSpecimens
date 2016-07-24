@@ -1,0 +1,12 @@
+- filename: testN.2bit
+  valid: true
+  origin: kent
+  tags:
+- filename: testMask.2bit
+  valid: true
+  origin: kent
+  tags:
+- filename: eboVir3.2bit
+  valid: true
+  origin: UCSC
+  tags:
