@@ -1,0 +1,16 @@
+ - filename: ints.tab
+   valid: true
+   origin: BioJulia
+   tags: []
+ - filename: commented.tab
+   valid: true
+   origin: BioJulia
+   tags: []
+ - filename: NUC.4.4
+   valid: true
+   origin: NCBI
+   tags: substmat
+ - filename: BLOSUM62
+   valid: true
+   origin: NCBI
+   tags: substmat
