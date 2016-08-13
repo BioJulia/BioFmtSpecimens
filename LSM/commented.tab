@@ -1,0 +1,6 @@
+# This is a comment that gets ignored. So does the blank line below.
+
+	A	B	C
+A	1	2	4
+B	2	1	2
+C	4	2	1
