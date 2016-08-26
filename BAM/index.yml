@@ -1,0 +1,45 @@
+- filename: ce#1.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#1.sam >ce\#1.bam
+- filename: ce#2.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#2.sam >ce\#2.bam
+- filename: ce#5.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#5.sam >ce\#5.bam
+- filename: ce#5b.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#5b.sam >ce\#5b.bam
+- filename: ce#unmap.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#unmap.sam >ce\#unmap.bam
+- filename: ce#unmap1.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#unmap1.sam >ce\#unmap1.bam
+- filename: ce#unmap2.bam
+  valid: true
+  origin: htslib
+  comment: samtools view -b ../SAM/ce\#unmap2.sam >ce\#unmap2.bam
+- filename: bam1.bam
+  valid: true
+  origin: Biopython
+- filename: bam2.bam
+  valid: true
+  origin: Biopython
+- filename: ex1.bam
+  valid: true
+  origin: Biopython
+- filename: ex1_header.bam
+  valid: true
+  origin: Biopython
+- filename: GSE25840_GSM424320_GM06985_gencode_spliced.head.bam
+  valid: true
+  origin: Gene Expression Omnibus
+  tags: bai
+  comment: the first 10,000 lines were extracted using samtools
