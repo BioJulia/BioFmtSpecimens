@@ -1,0 +1,100 @@
+##gff-version 3
+##sequence-region chr04 1 66795179
+chr04	EuGene	gene	12512	12955	.	+	.	ID=gene:chr04.1;Name=chr04.1;length=444	
+chr04	EuGene	mRNA	12512	12955	.	+	.	ID=mRNA:chr04.1;Name=chr04.1;Parent=gene:chr04.1;nb_exon=1;length=444	
+chr04	EuGene	exon	12512	12955	.	+	0	ID=exon:chr04.1.1;Parent=mRNA:chr04.1;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	12512	12955	.	+	0	ID=CDS:chr04.1.1;Parent=mRNA:chr04.1;Ontology_term=SO:0005845;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	15510	21687	.	+	.	ID=gene:chr04.2;Name=chr04.2;length=6178	
+chr04	EuGene	mRNA	15510	21687	.	+	.	ID=mRNA:chr04.2;Name=chr04.2;Parent=gene:chr04.2;nb_exon=3;length=2799	
+chr04	EuGene	exon	15510	15947	.	+	0	ID=exon:chr04.2.1;Parent=mRNA:chr04.2;Ontology_term=SO:0000200	
+chr04	EuGene	exon	18837	21038	.	+	0	ID=exon:chr04.2.2;Parent=mRNA:chr04.2;Ontology_term=SO:0000004	
+chr04	EuGene	exon	21529	21687	.	+	0	ID=exon:chr04.2.3;Parent=mRNA:chr04.2;Ontology_term=SO:0000202	
+chr04	EuGene	CDS	15510	15947	.	+	0	ID=CDS:chr04.2.1;Parent=mRNA:chr04.2;Ontology_term=SO:0000196;est_cons=72.4;est_incons=0.0	
+chr04	EuGene	CDS	18837	21038	.	+	0	ID=CDS:chr04.2.2;Parent=mRNA:chr04.2;Ontology_term=SO:0000004;est_cons=42.9;est_incons=0.0	
+chr04	EuGene	CDS	21529	21687	.	+	0	ID=CDS:chr04.2.3;Parent=mRNA:chr04.2;Ontology_term=SO:0000197;est_cons=13.2;est_incons=0.0	
+###
+chr04	EuGene	gene	31909	33004	.	-	.	ID=gene:chr04.3;Name=chr04.3;length=1096	
+chr04	EuGene	mRNA	31909	33004	.	-	.	ID=mRNA:chr04.3;Name=chr04.3;Parent=gene:chr04.3;nb_exon=2;length=1011	
+chr04	EuGene	exon	31909	32480	.	-	2	ID=exon:chr04.3.2;Parent=mRNA:chr04.3;Ontology_term=SO:0000202	
+chr04	EuGene	exon	32566	33004	.	-	0	ID=exon:chr04.3.1;Parent=mRNA:chr04.3;Ontology_term=SO:0000200	
+chr04	EuGene	CDS	31909	32480	.	-	2	ID=CDS:chr04.3.2;Parent=mRNA:chr04.3;Ontology_term=SO:0000197;est_cons=0.0;est_incons=0.0	
+chr04	EuGene	CDS	32566	33004	.	-	0	ID=CDS:chr04.3.1;Parent=mRNA:chr04.3;Ontology_term=SO:0000196;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	87944	89482	.	+	.	ID=gene:chr04.4;Name=chr04.4;length=1539	
+chr04	EuGene	mRNA	87944	89482	.	+	.	ID=mRNA:chr04.4;Name=chr04.4;Parent=gene:chr04.4;nb_exon=1;length=1539	
+chr04	EuGene	exon	87944	89482	.	+	0	ID=exon:chr04.4.1;Parent=mRNA:chr04.4;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	87944	89482	.	+	0	ID=CDS:chr04.4.1;Parent=mRNA:chr04.4;Ontology_term=SO:0005845;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	90341	95662	.	-	.	ID=gene:chr04.5;Name=chr04.5;length=5322	
+chr04	EuGene	mRNA	90341	95662	.	-	.	ID=mRNA:chr04.5;Name=chr04.5;Parent=gene:chr04.5;nb_exon=8;length=1851	
+chr04	EuGene	exon	90341	90490	.	-	0	ID=exon:chr04.5.8;Parent=mRNA:chr04.5;Ontology_term=SO:0000202	
+chr04	EuGene	exon	91259	91391	.	-	1	ID=exon:chr04.5.7;Parent=mRNA:chr04.5;Ontology_term=SO:0000004	
+chr04	EuGene	exon	91984	92287	.	-	2	ID=exon:chr04.5.6;Parent=mRNA:chr04.5;Ontology_term=SO:0000004	
+chr04	EuGene	exon	92404	92555	.	-	1	ID=exon:chr04.5.5;Parent=mRNA:chr04.5;Ontology_term=SO:0000004	
+chr04	EuGene	exon	93604	93829	.	-	2	ID=exon:chr04.5.4;Parent=mRNA:chr04.5;Ontology_term=SO:0000004	
+chr04	EuGene	exon	94415	94655	.	-	0	ID=exon:chr04.5.3;Parent=mRNA:chr04.5;Ontology_term=SO:0000004	
+chr04	EuGene	exon	94822	94957	.	-	1	ID=exon:chr04.5.2;Parent=mRNA:chr04.5;Ontology_term=SO:0000004	
+chr04	EuGene	exon	95154	95662	.	-	0	ID=exon:chr04.5.1;Parent=mRNA:chr04.5;Ontology_term=SO:0000200	
+chr04	EuGene	CDS	90341	90490	.	-	0	ID=CDS:chr04.5.8;Parent=mRNA:chr04.5;Ontology_term=SO:0000197;est_cons=14.0;est_incons=0.0	
+chr04	EuGene	CDS	91259	91391	.	-	1	ID=CDS:chr04.5.7;Parent=mRNA:chr04.5;Ontology_term=SO:0000004;est_cons=32.3;est_incons=0.0	
+chr04	EuGene	CDS	91984	92287	.	-	2	ID=CDS:chr04.5.6;Parent=mRNA:chr04.5;Ontology_term=SO:0000004;est_cons=39.5;est_incons=0.0	
+chr04	EuGene	CDS	92404	92555	.	-	1	ID=CDS:chr04.5.5;Parent=mRNA:chr04.5;Ontology_term=SO:0000004;est_cons=100.0;est_incons=0.0	
+chr04	EuGene	CDS	93604	93829	.	-	2	ID=CDS:chr04.5.4;Parent=mRNA:chr04.5;Ontology_term=SO:0000004;est_cons=100.0;est_incons=0.0	
+chr04	EuGene	CDS	94415	94655	.	-	0	ID=CDS:chr04.5.3;Parent=mRNA:chr04.5;Ontology_term=SO:0000004;est_cons=100.0;est_incons=0.0	
+chr04	EuGene	CDS	94822	94957	.	-	1	ID=CDS:chr04.5.2;Parent=mRNA:chr04.5;Ontology_term=SO:0000004;est_cons=59.6;est_incons=0.0	
+chr04	EuGene	CDS	95154	95662	.	-	0	ID=CDS:chr04.5.1;Parent=mRNA:chr04.5;Ontology_term=SO:0000196;est_cons=3.9;est_incons=0.0	
+###
+chr04	EuGene	gene	101240	102928	.	+	.	ID=gene:chr04.6;Name=chr04.6;length=1689	
+chr04	EuGene	mRNA	101240	102928	.	+	.	ID=mRNA:chr04.6;Name=chr04.6;Parent=gene:chr04.6;nb_exon=1;length=1689	
+chr04	EuGene	exon	101240	102928	.	+	0	ID=exon:chr04.6.1;Parent=mRNA:chr04.6;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	101240	102928	.	+	0	ID=CDS:chr04.6.1;Parent=mRNA:chr04.6;Ontology_term=SO:0005845;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	104938	107850	.	-	.	ID=gene:chr04.7;Name=chr04.7;length=2913	
+chr04	EuGene	mRNA	104938	107850	.	-	.	ID=mRNA:chr04.7;Name=chr04.7;Parent=gene:chr04.7;nb_exon=2;length=1947	
+chr04	EuGene	exon	104938	106191	.	-	0	ID=exon:chr04.7.2;Parent=mRNA:chr04.7;Ontology_term=SO:0000202	
+chr04	EuGene	exon	107158	107850	.	-	0	ID=exon:chr04.7.1;Parent=mRNA:chr04.7;Ontology_term=SO:0000200	
+chr04	EuGene	CDS	104938	106191	.	-	0	ID=CDS:chr04.7.2;Parent=mRNA:chr04.7;Ontology_term=SO:0000197;est_cons=100.0;est_incons=0.0	
+chr04	EuGene	CDS	107158	107850	.	-	0	ID=CDS:chr04.7.1;Parent=mRNA:chr04.7;Ontology_term=SO:0000196;est_cons=100.0;est_incons=0.0	
+###
+chr04	EuGene	gene	109590	110087	.	-	.	ID=gene:chr04.8;Name=chr04.8;length=498	
+chr04	EuGene	mRNA	109590	110087	.	-	.	ID=mRNA:chr04.8;Name=chr04.8;Parent=gene:chr04.8;nb_exon=1;length=498	
+chr04	EuGene	exon	109590	110087	.	-	0	ID=exon:chr04.8.1;Parent=mRNA:chr04.8;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	109590	110087	.	-	0	ID=CDS:chr04.8.1;Parent=mRNA:chr04.8;Ontology_term=SO:0005845;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	122437	122712	.	-	.	ID=gene:chr04.9;Name=chr04.9;length=276	
+chr04	EuGene	mRNA	122437	122712	.	-	.	ID=mRNA:chr04.9;Name=chr04.9;Parent=gene:chr04.9;nb_exon=1;length=276	
+chr04	EuGene	exon	122437	122712	.	-	0	ID=exon:chr04.9.1;Parent=mRNA:chr04.9;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	122437	122712	.	-	0	ID=CDS:chr04.9.1;Parent=mRNA:chr04.9;Ontology_term=SO:0005845;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	124972	126564	.	-	.	ID=gene:chr04.10;Name=chr04.10;length=1593	
+chr04	EuGene	mRNA	124972	126564	.	-	.	ID=mRNA:chr04.10;Name=chr04.10;Parent=gene:chr04.10;nb_exon=1;length=1593	
+chr04	EuGene	exon	124972	126564	.	-	0	ID=exon:chr04.10.1;Parent=mRNA:chr04.10;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	124972	126564	.	-	0	ID=CDS:chr04.10.1;Parent=mRNA:chr04.10;Ontology_term=SO:0005845;est_cons=0.0;est_incons=0.0	
+###
+chr04	EuGene	gene	131205	131711	.	-	.	ID=gene:chr04.11;Name=chr04.11;length=507	
+chr04	EuGene	mRNA	131205	131711	.	-	.	ID=mRNA:chr04.11;Name=chr04.11;Parent=gene:chr04.11;nb_exon=1;length=507	
+chr04	EuGene	exon	131205	131711	.	-	0	ID=exon:chr04.11.1;Parent=mRNA:chr04.11;Ontology_term=SO:0000147	
+chr04	EuGene	CDS	131205	131711	.	-	0	ID=CDS:chr04.11.1;Parent=mRNA:chr04.11;Ontology_term=SO:0005845;est_cons=100.0;est_incons=0.0	
+###
+chr04	EuGene	gene	135560	141572	.	+	.	ID=gene:chr04.12;Name=chr04.12;length=6013	
+chr04	EuGene	mRNA	135560	141572	.	+	.	ID=mRNA:chr04.12;Name=chr04.12;Parent=gene:chr04.12;nb_exon=14;length=1671	
+chr04	EuGene	exon	135560	135862	.	+	0	ID=exon:chr04.12.1;Parent=mRNA:chr04.12;Ontology_term=SO:0000200	
+chr04	EuGene	exon	136536	136613	.	+	0	ID=exon:chr04.12.2;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	136797	136852	.	+	0	ID=exon:chr04.12.3;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	137895	138014	.	+	1	ID=exon:chr04.12.4;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	138379	138449	.	+	1	ID=exon:chr04.12.5;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	138663	138756	.	+	2	ID=exon:chr04.12.6;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	138884	139090	.	+	1	ID=exon:chr04.12.7;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	139471	139722	.	+	1	ID=exon:chr04.12.8;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	139957	140065	.	+	1	ID=exon:chr04.12.9;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	140219	140286	.	+	0	ID=exon:chr04.12.10;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	140539	140608	.	+	1	ID=exon:chr04.12.11;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	140722	140796	.	+	0	ID=exon:chr04.12.12;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	140912	141003	.	+	0	ID=exon:chr04.12.13;Parent=mRNA:chr04.12;Ontology_term=SO:0000004	
+chr04	EuGene	exon	141497	141572	.	+	1	ID=exon:chr04.12.14;Parent=mRNA:chr04.12;Ontology_term=SO:0000202	
+chr04	EuGene	CDS	135560	135862	.	+	0	ID=CDS:chr04.12.1;Parent=mRNA:chr04.12;Ontology_term=SO:0000196;est_cons=95.4;est_incons=0.0	
+chr04	EuGene	CDS	136536	136613	.	+	0	ID=CDS:chr04.12.2;Parent=mRNA:chr04.12;Ontology_term=SO:0000004;est_cons=56.4;est_incons=0.0	
+chr04	EuGene	CDS	136797	136852	.	+	0	ID=CDS:chr04.12.3;Parent=mRNA:chr04.12;Ontology_term=SO:0000004;est_cons=71.4;est_incons=0.0	
+chr04	EuGene	CDS	137895	138014	.	+	1	ID=CDS:chr04.12.4;Parent=mRNA:chr04.12;Ontology_term=SO:0000004;est_cons=27.5;est_incons=0.0	
+chr04	EuGene	CDS	138379	138449	.	+	1	ID=CDS:chr04.12.5;Parent=mRNA:chr04.12;Ontology_term=SO:0000004;est_cons=56.3;est_incons=0.0	

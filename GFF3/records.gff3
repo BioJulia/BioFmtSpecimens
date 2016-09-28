@@ -1,0 +1,26 @@
+ENSRNOG00000019422	Ensembl	gene	27333567	27357352	1.0	+	2	ID=ENSRNOG00000019422;Dbxref=taxon:10116;organism=Rattus norvegicus;chromosome=18;name=EGR1_RAT;source=UniProtKB/Swiss-Prot;Is_circular=true
+.	.	.	.	.	.	.	.	.
+EXON%3D00000131935	ASTD%25	exon%26	27344088	27344141	.	+	.	ID=EXON%3D00000131935;Parent=TRAN%3B00000017239
+# This is a comment, the parser should ignore it
+
+
+##FASTA
+>ctg123
+cttctgggcgtacccgattctcggagaacttgccgcaccattccgccttg
+tgttcattgctgcctgcatgttcattgtctacctcggctacgtgtggcta
+tctttcctcggtgccctcgtgcacggagtcgagaaaccaaagaacaaaaa
+aagaaattaaaatatttattttgctgtggtttttgatgtgtgttttttat
+aatgatttttgatgtgaccaattgtacttttcctttaaatgaaatgtaat
+cttaaatgtatttccgacgaattcgaggcctgaaaagtgtgacgccattc
+gtatttgatttgggtttactatcgaataatgagaattttcaggcttaggc
+ttaggcttaggcttaggcttaggcttaggcttaggcttaggcttaggctt
+aggcttaggcttaggcttaggcttaggcttaggcttaggcttaggcttag
+aatctagctagctatccgaaattcgaggcctgaaaagtgtgacgccattc
+>cnda0123
+ttcaagtgctcagtcaatgtgattcacagtatgtcaccaaatattttggc
+agctttctcaagggatcaaaattatggatcattatggaatacctcggtgg
+aggctcagcgctcgatttaactaaaagtggaaagctggacgaaagtcata
+tcgctgtgattcttcgcgaaattttgaaaggtctcgagtatctgcatagt
+gaaagaaaaatccacagagatattaaaggagccaacgttttgttggaccg
+tcaaacagcggctgtaaaaatttgtgattatggttaaagg
+

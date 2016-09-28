@@ -1,0 +1,49 @@
+-filename: Homo_sapiens.GRCh38.85.n1000.gff3
+ valid: true
+ origin: Ensembl
+-filename: au9_scaffold_subset.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: directives.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: gff3_with_syncs.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: hybrid1.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: hybrid2.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: knownGene2.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: knownGene.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: knownGene_out_of_order.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: messy_protein_domains.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: mm9_sample_ensembl.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: records.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: spec_eden.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: spec_match.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: tomato_chr4_head.gff3
+ valid: true
+ origin: gff3-pltools
+-filename: tomato_test.gff3
+ valid: true
+ origin: gff3-pltools
+

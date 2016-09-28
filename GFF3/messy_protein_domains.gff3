@@ -1,0 +1,1010 @@
+##gff-version 3
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	262	283	0.038	.	.	Dbxref=PFAM:PF00560;Name=Solyc00g007300.1.1-PF00560-0;Note=LRR_1;database=PFAM;length=22
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	285	306	0.0029	.	.	Dbxref=PFAM:PF00560;Name=Solyc00g007300.1.1-PF00560-1;Note=LRR_1;database=PFAM;length=22
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	308	329	0.0045	.	.	Dbxref=PFAM:PF00560;Name=Solyc00g007300.1.1-PF00560-2;Note=LRR_1;database=PFAM;length=22
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	331	352	0.035	.	.	Dbxref=PFAM:PF00560;Name=Solyc00g007300.1.1-PF00560-3;Note=LRR_1;database=PFAM;length=22
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	423	444	1.1	.	.	Dbxref=PFAM:PF00560;Name=Solyc00g007300.1.1-PF00560-4;Note=LRR_1;database=PFAM;length=22
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	471	492	0.003	.	.	Dbxref=PFAM:PF00560;Name=Solyc00g007300.1.1-PF00560-5;Note=LRR_1;database=PFAM;length=22
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	260	282	0.72	.	.	Dbxref=SMART:SM00369;Name=Solyc00g007300.1.1-SM00369-0;Note=no description;database=SMART;length=23
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	283	305	0.3	.	.	Dbxref=SMART:SM00369;Name=Solyc00g007300.1.1-SM00369-1;Note=no description;database=SMART;length=23
+Solyc00g007300.1.1	ITAG_interpro	polypeptide_region	306	328	12	.	.	Dbxref=SMART:SM00369;Name=Solyc00g007300.1.1-SM00369-2;Note=no description;database=SMART;length=23
+Solyc01g013860.1.1	ITAG_interpro	match	20	65	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g013850.1.1	ITAG_interpro	match	1	71	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g013840.1.1	ITAG_interpro	match	13	105	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g013830.1.1	ITAG_interpro	match	26	85	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g013780.1.1	ITAG_interpro	match	1	80	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012760.1.1	ITAG_interpro	match	2	142	.	+	.	Name=IPR016163;Note=Aldehyde dehydrogenase%2C C-terminal
+Solyc01g012750.1.1	ITAG_interpro	match	13	82	.	+	.	Name=IPR016162;Note=Aldehyde dehydrogenase%2C N-terminal
+Solyc01g012740.1.1	ITAG_interpro	match	1	124	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012700.1.1	ITAG_interpro	match	47	127	.	+	.	Name=IPR016163;Note=Aldehyde dehydrogenase%2C C-terminal
+Solyc01g012690.1.1	ITAG_interpro	match	55	75	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g012670.1.1	ITAG_interpro	match	1	183	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012650.1.1	ITAG_interpro	match	1	92	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012640.1.1	ITAG_interpro	match	84	177	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012630.1.1	ITAG_interpro	match	1	116	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012620.1.1	ITAG_interpro	match	4	15	.	+	.	Name=IPR022398;Note=Peptidase S8/S53%2C subtilisin%2C active site
+Solyc01g012610.1.1	ITAG_interpro	match	1	47	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012580.1.1	ITAG_interpro	match	1	84	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012550.1.1	ITAG_interpro	match	16	76	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g012540.1.1	ITAG_interpro	match	1	58	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g011540.1.1	ITAG_interpro	match	21	103	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g011520.1.1	ITAG_interpro	match	1	185	.	+	.	Name=IPR000999;Note=Ribonuclease III
+Solyc01g011510.1.1	ITAG_interpro	match	244	435	.	+	.	Name=IPR016163;Note=Aldehyde dehydrogenase%2C C-terminal
+Solyc01g011480.1.1	ITAG_interpro	match	3	74	.	+	.	Name=IPR000932;Note=Photosystem antenna protein-like
+Solyc01g011470.1.1	ITAG_interpro	match	4	77	.	+	.	Name=IPR000916;Note=Bet v I allergen
+Solyc01g011430.1.1	ITAG_interpro	match	41	284	.	+	.	Name=IPR004255;Note=O-acyltransferase%2C WSD1%2C N-terminal
+Solyc01g011410.1.1	ITAG_interpro	match	1	72	.	+	.	Name=IPR001135;Note=NADH-quinone oxidoreductase%2C subunit D
+Solyc01g011350.1.1	ITAG_interpro	match	231	265	.	+	.	Name=IPR022228;Note=Protein of unknown function DUF3755
+Solyc01g011340.1.1	ITAG_interpro	match	9	306	.	+	.	Name=IPR006186;Note=Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase
+Solyc01g011330.1.1	ITAG_interpro	match	4	157	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011320.1.1	ITAG_interpro	match	31	104	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011310.1.1	ITAG_interpro	match	33	233	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011300.1.1	ITAG_interpro	match	2	109	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011290.1.1	ITAG_hmmpanther	match	1	60	.	+	.	Name=PTHR11697;Note=GENERAL TRANSCRIPTION FACTOR 2-RELATED ZINC FINGER PROTEIN
+Solyc01g011260.1.1	ITAG_interpro	match	11	77	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011250.1.1	ITAG_interpro	match	1	25	.	+	.	Name=IPR015410;Note=Domain of unknown function DUF1985
+Solyc01g011220.1.1	ITAG_interpro	match	2	216	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011200.1.1	ITAG_interpro	match	58	149	.	+	.	Name=IPR001461;Note=Peptidase A1
+Solyc01g011150.1.1	ITAG_interpro	match	140	156	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc01g011130.1.1	ITAG_interpro	match	290	544	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc01g011100.1.1	ITAG_interpro	match	208	214	.	+	.	Name=IPR018303;Note=ATPase%2C P-type phosphorylation site
+Solyc01g011090.1.1	ITAG_interpro	match	42	241	.	+	.	Name=IPR001757;Note=ATPase%2C P-type%2C K/Mg/Cd/Cu/Zn/Na/Ca/Na/H-transporter
+Solyc01g011060.1.1	ITAG_interpro	match	19	61	.	+	.	Name=IPR002866;Note=Maturase%2C MatK
+Solyc01g011050.1.1	ITAG_interpro	match	135	154	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g011040.1.1	ITAG_interpro	match	104	124	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g011030.1.1	ITAG_interpro	match	39	103	.	+	.	Name=IPR013083;Note=Zinc finger%2C RING/FYVE/PHD-type
+Solyc01g011000.1.1	ITAG_interpro	match	29	49	.	+	.	Name=IPR005824;Note=KOW
+Solyc01g010970.1.1	ITAG_interpro	match	364	494	.	+	.	Name=IPR003100;Note=Argonaute/Dicer protein%2C PAZ
+Solyc01g010960.1.1	ITAG_interpro	match	2	53	.	+	.	Name=IPR001854;Note=Ribosomal protein L29
+Solyc01g010950.1.1	ITAG_interpro	match	63	95	.	+	.	Name=IPR002110;Note=Ankyrin repeat
+Solyc01g010940.1.1	ITAG_interpro	match	24	211	.	+	.	Name=IPR000348;Note=Emp24/Gp25L/p24
+Solyc01g010930.1.1	ITAG_interpro	match	1	254	.	+	.	Name=IPR019378;Note=GDP-fucose protein O-fucosyltransferase
+Solyc01g010920.1.1	ITAG_interpro	match	20	88	.	+	.	Name=IPR019378;Note=GDP-fucose protein O-fucosyltransferase
+Solyc01g010910.1.1	ITAG_interpro	match	9	61	.	+	.	Name=IPR017930;Note=HTH transcriptional regulator%2C Myb-type%2C DNA-binding
+Solyc01g010900.1.1	ITAG_interpro	match	307	324	.	+	.	Name=IPR002401;Note=Cytochrome P450%2C E-class%2C group I
+Solyc01g010890.1.1	ITAG_interpro	match	169	261	.	+	.	Name=IPR007117;Note=Pollen allergen/expansin%2C C-terminal
+Solyc01g010880.1.1	ITAG_interpro	match	68	128	.	+	.	Name=IPR011016;Note=Zinc finger%2C RING-CH-type
+Solyc01g010870.1.1	ITAG_gene3d	match	182	343	.	+	.	Name=G3DSA:3.40.50.150;Note=no description
+Solyc01g010860.1.1	ITAG_interpro	match	106	219	.	+	.	Name=IPR006694;Note=Fatty acid hydroxylase
+Solyc01g010830.1.1	ITAG_interpro	match	75	234	.	+	.	Name=IPR006439;Note=HAD-superfamily hydrolase%2C subfamily IA%2C variant 1
+Solyc01g010820.1.1	ITAG_interpro	match	26	377	.	+	.	Name=IPR016159;Note=Cullin repeat-like-containing domain
+Solyc01g010810.1.1	ITAG_interpro	match	6	198	.	+	.	Name=IPR016123;Note=Mog1/PsbP%2C alpha/beta/alpha sandwich
+Solyc01g010790.1.1	ITAG_interpro	match	102	315	.	+	.	Name=IPR017451;Note=F-box associated interaction domain
+Solyc01g010780.1.1	ITAG_interpro	match	91	409	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g010770.1.1	ITAG_interpro	match	5	182	.	+	.	Name=IPR001107;Note=Band 7 protein
+Solyc01g010760.1.1	ITAG_hmmpanther	match	1	276	.	+	.	Name=PTHR11743;Note=VOLTAGE-DEPENDENT ANION-SELECTIVE CHANNEL
+Solyc01g010750.1.1	ITAG_interpro	match	163	324	.	+	.	Name=IPR008997;Note=Ricin B-related lectin
+Solyc01g010740.1.1	ITAG_interpro	match	85	433	.	+	.	Name=IPR012334;Note=Pectin lyase fold
+Solyc01g010730.1.1	ITAG_gene3d	match	20	75	.	+	.	Name=G3DSA:3.40.50.1820;Note=no description
+Solyc01g010720.1.1	ITAG_interpro	match	80	87	.	+	.	Name=IPR018202;Note=Peptidase S10%2C serine carboxypeptidase%2C active site
+Solyc01g010710.1.1	ITAG_interpro	match	166	173	.	+	.	Name=IPR018202;Note=Peptidase S10%2C serine carboxypeptidase%2C active site
+Solyc01g010700.1.1	ITAG_interpro	match	51	117	.	+	.	Name=IPR000644;Note=Cystathionine beta-synthase%2C core
+Solyc01g010690.1.1	ITAG_interpro	match	6	354	.	+	.	Name=IPR011047;Note=Quinonprotein alcohol dehydrogenase-like
+Solyc01g010680.1.1	ITAG_interpro	match	126	168	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc01g010660.1.1	ITAG_interpro	match	214	226	.	+	.	Name=IPR008271;Note=Serine/threonine-protein kinase%2C active site
+Solyc01g010650.1.1	ITAG_hmmpanther	match	40	331	.	+	.	Name=PTHR10778;Note=UDP-GALACTOSE TRANSPORTER-RELATED
+Solyc01g010640.1.1	ITAG_interpro	match	130	190	.	+	.	Name=IPR001395;Note=Aldo/keto reductase
+Solyc01g010630.1.1	ITAG_superfamily	match	316	378	.	+	.	Name=SSF54001;Note=Cysteine proteinases
+Solyc01g010610.1.1	ITAG_interpro	match	2	59	.	+	.	Name=IPR003656;Note=Zinc finger%2C BED-type predicted
+Solyc01g010600.1.1	ITAG_interpro	match	45	131	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc01g010590.1.1	ITAG_hmmpanther	match	36	219	.	+	.	Name=PTHR11071;Note=CYCLOPHILIN
+Solyc01g010580.1.1	ITAG_interpro	match	109	180	.	+	.	Name=IPR002942;Note=RNA-binding S4
+Solyc01g010540.1.1	ITAG_interpro	match	109	180	.	+	.	Name=IPR002942;Note=RNA-binding S4
+Solyc01g010530.1.1	ITAG_interpro	match	1	472	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc01g010520.1.1	ITAG_interpro	match	57	113	.	+	.	Name=IPR006476;Note=Conserved hypothetical protein CHP01589%2C plant
+Solyc01g010510.1.1	ITAG_hmmpanther	match	31	591	.	+	.	Name=PTHR10483;Note=PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+Solyc01g010500.1.1	ITAG_hmmpanther	match	111	161	.	+	.	Name=PTHR23125;Note=F-BOX/LEUCINE RICH REPEAT PROTEIN
+Solyc01g010490.1.1	ITAG_interpro	match	56	75	.	+	.	Name=IPR002401;Note=Cytochrome P450%2C E-class%2C group I
+Solyc01g010480.1.1	ITAG_interpro	match	90	145	.	+	.	Name=IPR000700;Note=PAS-associated%2C C-terminal
+Solyc01g010470.1.1	ITAG_hmmpanther	match	142	164	.	+	.	Name=PTHR10343;Note=5'-AMP-ACTIVATED PROTEIN KINASE %2C BETA SUBUNIT
+Solyc01g010460.1.1	ITAG_hmmpanther	match	70	220	.	+	.	Name=PTHR10343;Note=5'-AMP-ACTIVATED PROTEIN KINASE %2C BETA SUBUNIT
+Solyc01g010430.1.1	ITAG_interpro	match	4	152	.	+	.	Name=IPR008999;Note=Actin cross-linking
+Solyc01g010420.1.1	ITAG_interpro	match	4	149	.	+	.	Name=IPR008999;Note=Actin cross-linking
+Solyc01g010410.1.1	ITAG_interpro	match	9	36	.	+	.	Name=IPR007087;Note=Zinc finger%2C C2H2-type
+Solyc01g010400.1.1	ITAG_interpro	match	2	134	.	+	.	Name=IPR009009;Note=Barwin-related endoglucanase
+Solyc01g010390.1.1	ITAG_interpro	match	29	504	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g010370.1.1	ITAG_hmmpanther	match	218	328	.	+	.	Name=PTHR10108;Note=METHYLTRANSFERASE
+Solyc01g010360.1.1	ITAG_interpro	match	5	251	.	+	.	Name=IPR000308;Note=14-3-3 protein
+Solyc01g010350.1.1	ITAG_interpro	match	102	400	.	+	.	Name=IPR004696;Note=Tpt phosphate/phosphoenolpyruvate translocator
+Solyc01g010340.1.1	ITAG_interpro	match	205	306	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc01g010320.1.1	ITAG_interpro	match	152	196	.	+	.	Name=IPR018289;Note=MULE transposase%2C conserved domain
+Solyc01g010310.1.1	ITAG_interpro	match	21	107	.	+	.	Name=IPR012946;Note=X8
+Solyc01g010300.1.1	ITAG_hmmpanther	match	46	82	.	+	.	Name=PTHR11945;Note=MADS BOX PROTEIN
+Solyc01g010290.1.1	ITAG_interpro	match	14	357	.	+	.	Name=IPR009834;Note=Ureide permease
+Solyc01g010260.1.1	ITAG_interpro	match	445	454	.	+	.	Name=IPR017972;Note=Cytochrome P450%2C conserved site
+Solyc01g010250.1.1	ITAG_interpro	match	1	259	.	+	.	Name=IPR005900;Note=6-phosphogluconolactonase%2C DevB-type
+Solyc01g010240.1.1	ITAG_interpro	match	23	157	.	+	.	Name=IPR006780;Note=YABBY protein
+Solyc01g010160.1.1	ITAG_interpro	match	2	91	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g010150.1.1	ITAG_interpro	match	38	96	.	+	.	Name=IPR002912;Note=Amino acid-binding ACT
+Solyc01g010130.1.1	ITAG_interpro	match	350	436	.	+	.	Name=IPR011598;Note=Helix-loop-helix DNA-binding
+Solyc01g010110.1.1	ITAG_interpro	match	45	83	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc01g010100.1.1	ITAG_interpro	match	155	373	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc01g010080.1.1	ITAG_interpro	match	561	628	.	+	.	Name=IPR021789;Note=Protein of unknown function DUF3354
+Solyc01g010050.1.1	ITAG_interpro	match	1	344	.	+	.	Name=IPR018167;Note=S-adenosylmethionine decarboxylase subgroup
+Solyc01g010040.1.1	ITAG_interpro	match	102	150	.	+	.	Name=IPR012511;Note=S-adenosyl-l-methionine decarboxylase leader peptide
+Solyc01g010030.1.1	ITAG_interpro	match	516	528	.	+	.	Name=IPR008271;Note=Serine/threonine-protein kinase%2C active site
+Solyc01g010020.1.1	ITAG_interpro	match	88	114	.	+	.	Name=IPR018248;Note=EF-hand
+Solyc01g010010.1.1	ITAG_interpro	match	104	166	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc01g010000.1.1	ITAG_interpro	match	37	83	.	+	.	Name=IPR002912;Note=Amino acid-binding ACT
+Solyc01g009990.1.1	ITAG_interpro	match	128	145	.	+	.	Name=IPR020892;Note=Peptidyl-prolyl cis-trans isomerase%2C cyclophilin-type%2C conserved site
+Solyc01g009970.1.1	ITAG_interpro	match	59	336	.	+	.	Name=IPR006992;Note=Amidohydrolase 2
+Solyc01g009960.1.1	ITAG_interpro	match	271	290	.	+	.	Name=IPR005803;Note=Stearoyl-ACP desaturase%2C conserved site
+Solyc01g009940.1.1	ITAG_interpro	match	12	256	.	+	.	Name=IPR006680;Note=Amidohydrolase 1
+Solyc01g009930.1.1	ITAG_interpro	match	75	91	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g009920.1.1	ITAG_interpro	match	134	266	.	+	.	Name=IPR003594;Note=ATPase-like%2C ATP-binding domain
+Solyc01g009910.1.1	ITAG_interpro	match	17	119	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc01g009900.1.1	ITAG_interpro	match	17	119	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc01g009890.1.1	ITAG_interpro	match	27	129	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc01g009880.1.1	ITAG_interpro	match	76	653	.	+	.	Name=IPR016159;Note=Cullin repeat-like-containing domain
+Solyc01g009870.1.1	ITAG_interpro	match	61	338	.	+	.	Name=IPR004129;Note=Glycerophosphoryl diester phosphodiesterase
+Solyc01g009860.1.1	ITAG_interpro	match	10	164	.	+	.	Name=IPR003441;Note=No apical meristem (NAM) protein
+Solyc01g009840.1.1	ITAG_interpro	match	1	251	.	+	.	Name=IPR005202;Note=Transcription factor GRAS
+Solyc01g009830.1.1	ITAG_interpro	match	193	332	.	+	.	Name=IPR004853;Note=Domain of unknown function DUF250
+Solyc01g009820.1.1	ITAG_superfamily	match	23	230	.	+	.	Name=SSF103657;Note=BAR/IMD domain-like
+Solyc01g009810.1.1	ITAG_interpro	match	21	60	.	+	.	Name=IPR013210;Note=Leucine-rich repeat-containing N-terminal domain%2C type 2
+Solyc01g009800.1.1	ITAG_interpro	match	149	213	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc01g009780.1.1	ITAG_interpro	match	63	131	.	+	.	Name=IPR006629;Note=LPS-induced tumor necrosis factor alpha factor
+Solyc01g009770.1.1	ITAG_interpro	match	100	141	.	+	.	Name=IPR001202;Note=WW/Rsp5/WWP
+Solyc01g009760.1.1	ITAG_interpro	match	106	184	.	+	.	Name=IPR004182;Note=GRAM
+Solyc01g009740.1.1	ITAG_interpro	match	85	101	.	+	.	Name=IPR018467;Note=CCT domain-like
+Solyc01g009730.1.1	ITAG_interpro	match	201	235	.	+	.	Name=IPR010399;Note=Tify
+Solyc01g009720.1.1	ITAG_hmmpanther	match	274	300	.	+	.	Name=PTHR10825;Note=RING FINGER PROTEIN
+Solyc01g009700.1.1	ITAG_interpro	match	117	135	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g009690.1.1	ITAG_interpro	match	116	134	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g009680.1.1	ITAG_interpro	match	34	58	.	+	.	Name=IPR001246;Note=Lipoxygenase%2C plant
+Solyc01g009670.1.1	ITAG_superfamily	match	68	214	.	+	.	Name=SSF81301;Note=Nucleotidyltransferase
+Solyc01g009650.1.1	ITAG_interpro	match	11	74	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc01g009640.1.1	ITAG_interpro	match	54	311	.	+	.	Name=IPR000743;Note=Glycoside hydrolase%2C family 28
+Solyc01g009630.1.1	ITAG_hmmpanther	match	1	200	.	+	.	Name=PTHR13047;Note=PRE-MRNA CLEAVAGE FACTOR IM%2C 25KD SUBUNIT
+Solyc01g009620.1.1	ITAG_hmmpanther	match	1	200	.	+	.	Name=PTHR13047;Note=PRE-MRNA CLEAVAGE FACTOR IM%2C 25KD SUBUNIT
+Solyc01g009600.1.1	ITAG_gene3d	match	204	368	.	+	.	Name=G3DSA:3.40.50.150;Note=no description
+Solyc01g009590.1.1	ITAG_interpro	match	41	99	.	+	.	Name=IPR003612;Note=Plant lipid transfer protein/seed storage/trypsin-alpha amylase inhibitor
+Solyc01g009580.1.1	ITAG_interpro	match	52	221	.	+	.	Name=IPR008914;Note=Phosphatidylethanolamine-binding protein PEBP
+Solyc01g009560.1.1	ITAG_interpro	match	7	174	.	+	.	Name=IPR008914;Note=Phosphatidylethanolamine-binding protein PEBP
+Solyc01g009540.1.1	ITAG_hmmpfam	match	1	85	.	+	.	Name=PF11443;Note=DUF2828
+Solyc01g009530.1.1	ITAG_hmmpfam	match	139	214	.	+	.	Name=PF11443;Note=DUF2828
+Solyc01g009520.1.1	ITAG_interpro	match	152	215	.	+	.	Name=IPR016094;Note=Ribosomal protein L1%2C 2-layer alpha/beta-sandwich
+Solyc01g009510.1.1	ITAG_interpro	match	112	155	.	+	.	Name=IPR011616;Note=bZIP transcription factor%2C bZIP-1
+Solyc01g009500.1.1	ITAG_interpro	match	89	318	.	+	.	Name=IPR000073;Note=Alpha/beta hydrolase fold-1
+Solyc01g009480.1.1	ITAG_interpro	match	67	295	.	+	.	Name=IPR000073;Note=Alpha/beta hydrolase fold-1
+Solyc01g009470.1.1	ITAG_interpro	match	179	274	.	+	.	Name=IPR001357;Note=BRCT
+Solyc01g009450.1.1	ITAG_hmmpanther	match	42	176	.	+	.	Name=PTHR21711;Note=KUB3-PROV PROTEIN
+Solyc01g009440.1.1	ITAG_interpro	match	53	116	.	+	.	Name=IPR001471;Note=Pathogenesis-related transcriptional factor/ERF%2C DNA-binding
+Solyc01g009420.1.1	ITAG_interpro	match	15	238	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc01g009410.1.1	ITAG_interpro	match	23	321	.	+	.	Name=IPR002016;Note=Haem peroxidase%2C plant/fungal/bacterial
+Solyc01g009400.1.1	ITAG_interpro	match	59	70	.	+	.	Name=IPR019794;Note=Peroxidase%2C active site
+Solyc01g009390.1.1	ITAG_interpro	match	13	365	.	+	.	Name=IPR010334;Note=Dcp1-like decapping
+Solyc01g009380.1.1	ITAG_gene3d	match	196	388	.	+	.	Name=G3DSA:3.40.630.10;Note=no description
+Solyc01g009370.1.1	ITAG_interpro	match	57	76	.	+	.	Name=IPR002401;Note=Cytochrome P450%2C E-class%2C group I
+Solyc01g009360.1.1	ITAG_interpro	match	3	273	.	+	.	Name=IPR012337;Note=Ribonuclease H-like
+Solyc01g009350.1.1	ITAG_interpro	match	3	273	.	+	.	Name=IPR012337;Note=Ribonuclease H-like
+Solyc01g009340.1.1	ITAG_interpro	match	92	122	.	+	.	Name=IPR000048;Note=IQ motif%2C EF-hand binding site
+Solyc01g009330.1.1	ITAG_interpro	match	93	404	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g009320.1.1	ITAG_interpro	match	130	394	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g009310.1.1	ITAG_interpro	match	65	434	.	+	.	Name=IPR001171;Note=Ergosterol biosynthesis ERG4/ERG24
+Solyc01g009300.1.1	ITAG_interpro	match	129	141	.	+	.	Name=IPR008271;Note=Serine/threonine-protein kinase%2C active site
+Solyc01g009290.1.1	ITAG_hmmpanther	match	10	439	.	+	.	Name=PTHR12755;Note=CLEAVAGE/POLYADENYLATION FACTOR IA SUBUNIT CLP1P
+Solyc01g009280.1.1	ITAG_interpro	match	644	978	.	+	.	Name=IPR006186;Note=Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase
+Solyc01g009270.1.1	ITAG_interpro	match	197	252	.	+	.	Name=IPR021410;Note=Protein of unknown function DUF3049
+Solyc01g009260.1.1	ITAG_interpro	match	193	248	.	+	.	Name=IPR021410;Note=Protein of unknown function DUF3049
+Solyc01g009240.1.1	ITAG_interpro	match	25	412	.	+	.	Name=IPR017853;Note=Glycoside hydrolase%2C catalytic core
+Solyc01g009230.1.1	ITAG_interpro	match	722	1357	.	+	.	Name=IPR008274;Note=Aldehyde oxidase/xanthine dehydrogenase%2C molybdopterin binding
+Solyc01g009220.1.1	ITAG_interpro	match	13	122	.	+	.	Name=IPR008978;Note=HSP20-like chaperone
+Solyc01g009200.1.1	ITAG_interpro	match	7	110	.	+	.	Name=IPR008978;Note=HSP20-like chaperone
+Solyc01g009190.1.1	ITAG_interpro	match	2	65	.	+	.	Name=IPR014720;Note=Double-stranded RNA-binding-like
+Solyc01g009180.1.1	ITAG_interpro	match	484	807	.	+	.	Name=IPR002629;Note=Methionine synthase%2C vitamin-B12 independent
+Solyc01g009170.1.1	ITAG_gene3d	match	171	308	.	+	.	Name=G3DSA:1.10.3180.10;Note=no description
+Solyc01g009160.1.1	ITAG_interpro	match	137	239	.	+	.	Name=IPR004864;Note=Late embryogenesis abundant protein%2C group 2
+Solyc01g009120.1.1	ITAG_interpro	match	116	202	.	+	.	Name=IPR000286;Note=Histone deacetylase superfamily
+Solyc01g009110.1.1	ITAG_interpro	match	2	262	.	+	.	Name=IPR000286;Note=Histone deacetylase superfamily
+Solyc01g009100.1.1	ITAG_interpro	match	24	48	.	+	.	Name=IPR022991;Note=Ribosomal protein L30e%2C conserved site
+Solyc01g009090.1.1	ITAG_interpro	match	519	542	.	+	.	Name=IPR007087;Note=Zinc finger%2C C2H2-type
+Solyc01g009080.1.1	ITAG_interpro	match	72	178	.	+	.	Name=IPR000253;Note=Forkhead-associated (FHA) domain
+Solyc01g009070.1.1	ITAG_interpro	match	33	90	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc01g009060.1.1	ITAG_interpro	match	27	168	.	+	.	Name=IPR013322;Note=TRAF-type
+Solyc01g009050.1.1	ITAG_interpro	match	176	356	.	+	.	Name=IPR001453;Note=Molybdopterin binding
+Solyc01g009040.1.1	ITAG_interpro	match	209	293	.	+	.	Name=IPR006670;Note=Cyclin
+Solyc01g009030.1.1	ITAG_interpro	match	307	585	.	+	.	Name=IPR013946;Note=Nuclear control of ATP synthase 2
+Solyc01g009020.1.1	ITAG_interpro	match	17	107	.	+	.	Name=IPR000010;Note=Proteinase inhibitor I25%2C cystatin
+Solyc01g009010.1.1	ITAG_interpro	match	89	244	.	+	.	Name=IPR014721;Note=Ribosomal protein S5 domain 2-type fold%2C subgroup
+Solyc01g009000.1.1	ITAG_interpro	match	188	235	.	+	.	Name=IPR013083;Note=Zinc finger%2C RING/FYVE/PHD-type
+Solyc01g008990.1.1	ITAG_interpro	match	27	164	.	+	.	Name=IPR008501;Note=Tho complex subunit 7/Mft1p
+Solyc01g008980.1.1	ITAG_interpro	match	78	135	.	+	.	Name=IPR011616;Note=bZIP transcription factor%2C bZIP-1
+Solyc01g008970.1.1	ITAG_interpro	match	147	233	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc01g008960.1.1	ITAG_interpro	match	278	416	.	+	.	Name=IPR003100;Note=Argonaute/Dicer protein%2C PAZ
+Solyc01g008950.1.1	ITAG_interpro	match	12	40	.	+	.	Name=IPR018248;Note=EF-hand
+Solyc01g008930.1.1	ITAG_interpro	match	64	288	.	+	.	Name=IPR009249;Note=Ferredoxin-dependent bilin reductase
+Solyc01g008920.1.1	ITAG_interpro	match	79	203	.	+	.	Name=IPR002225;Note=3-beta hydroxysteroid dehydrogenase/isomerase
+Solyc01g008910.1.1	ITAG_interpro	match	25	473	.	+	.	Name=IPR005202;Note=Transcription factor GRAS
+Solyc01g008900.1.1	ITAG_gene3d	match	242	436	.	+	.	Name=G3DSA:3.40.50.1100;Note=no description
+Solyc01g008890.1.1	ITAG_interpro	match	62	128	.	+	.	Name=IPR001471;Note=Pathogenesis-related transcriptional factor/ERF%2C DNA-binding
+Solyc01g008880.1.1	ITAG_interpro	match	126	190	.	+	.	Name=IPR001471;Note=Pathogenesis-related transcriptional factor/ERF%2C DNA-binding
+Solyc01g008870.1.1	ITAG_interpro	match	201	213	.	+	.	Name=IPR008271;Note=Serine/threonine-protein kinase%2C active site
+Solyc01g008860.1.1	ITAG_interpro	match	44	384	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g008850.1.1	ITAG_interpro	match	61	432	.	+	.	Name=IPR020636;Note=Calcium/calmodulin-dependent protein kinase-like
+Solyc01g008840.1.1	ITAG_interpro	match	165	339	.	+	.	Name=IPR013143;Note=PCI/PINT associated module
+Solyc01g008830.1.1	ITAG_interpro	match	156	318	.	+	.	Name=IPR001117;Note=Multicopper oxidase%2C type 1
+Solyc01g008820.1.1	ITAG_interpro	match	49	336	.	+	.	Name=IPR007369;Note=Peptidase A22B%2C signal peptide peptidase
+Solyc01g008810.1.1	ITAG_interpro	match	49	91	.	+	.	Name=IPR018957;Note=Zinc finger%2C C3HC4 RING-type
+Solyc01g008800.1.1	ITAG_interpro	match	9	167	.	+	.	Name=IPR000157;Note=Toll-Interleukin receptor
+Solyc01g008790.1.1	ITAG_interpro	match	42	402	.	+	.	Name=IPR007312;Note=Phosphoesterase
+Solyc01g008780.1.1	ITAG_interpro	match	88	199	.	+	.	Name=IPR016090;Note=Phospholipase A2
+Solyc01g008770.1.1	ITAG_interpro	match	18	127	.	+	.	Name=IPR001849;Note=Pleckstrin homology domain
+Solyc01g008750.1.1	ITAG_interpro	match	590	606	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc01g008740.1.1	ITAG_interpro	match	131	538	.	+	.	Name=IPR020636;Note=Calcium/calmodulin-dependent protein kinase-like
+Solyc01g008730.1.1	ITAG_interpro	match	41	83	.	+	.	Name=IPR011616;Note=bZIP transcription factor%2C bZIP-1
+Solyc01g008720.1.1	ITAG_interpro	match	33	400	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g008710.1.1	ITAG_interpro	match	31	398	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g008690.1.1	ITAG_hmmpanther	match	2	341	.	+	.	Name=PTHR11132;Note=SOLUTE CARRIER FAMILY 35
+Solyc01g008670.1.1	ITAG_interpro	match	426	435	.	+	.	Name=IPR017972;Note=Cytochrome P450%2C conserved site
+Solyc01g008660.1.1	ITAG_interpro	match	100	338	.	+	.	Name=IPR017451;Note=F-box associated interaction domain
+Solyc01g008650.1.1	ITAG_interpro	match	435	444	.	+	.	Name=IPR017972;Note=Cytochrome P450%2C conserved site
+Solyc01g008640.1.1	ITAG_interpro	match	63	82	.	+	.	Name=IPR002401;Note=Cytochrome P450%2C E-class%2C group I
+Solyc01g008620.1.1	ITAG_interpro	match	26	335	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g008610.1.1	ITAG_interpro	match	36	343	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g008600.1.1	ITAG_interpro	match	325	392	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc01g008590.1.1	ITAG_interpro	match	53	170	.	+	.	Name=IPR003689;Note=Zinc/iron permease
+Solyc01g008580.1.1	ITAG_interpro	match	3	150	.	+	.	Name=IPR003689;Note=Zinc/iron permease
+Solyc01g008570.1.1	ITAG_interpro	match	47	234	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g008560.1.1	ITAG_interpro	match	374	488	.	+	.	Name=IPR017437;Note=ATP-NAD kinase%2C PpnK-type%2C all-beta
+Solyc01g008550.1.1	ITAG_interpro	match	4	230	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc01g008540.1.1	ITAG_interpro	match	8	233	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc01g008530.1.1	ITAG_interpro	match	6	232	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc01g008520.1.1	ITAG_hmmpanther	match	54	331	.	+	.	Name=PTHR22942;Note=RECA/RAD51/RADA DNA STRAND-PAIRING FAMILY MEMBER
+Solyc01g008510.1.1	ITAG_blastprodom	match	73	113	.	+	.	Name=PD030057;Note=Q8LFE2_ARATH_Q8LFE2
+Solyc01g008500.1.1	ITAG_interpro	match	72	367	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g008490.1.1	ITAG_interpro	match	172	192	.	+	.	Name=IPR018362;Note=CCAAT-binding factor%2C conserved site
+Solyc01g008480.1.1	ITAG_interpro	match	138	174	.	+	.	Name=IPR002885;Note=Pentatricopeptide repeat
+Solyc01g008470.1.1	ITAG_interpro	match	117	345	.	+	.	Name=IPR004728;Note=Translocation protein Sec62
+Solyc01g008460.1.1	ITAG_interpro	match	128	138	.	+	.	Name=IPR018298;Note=Adrenodoxin%2C iron-sulphur binding site
+Solyc01g008440.1.1	ITAG_interpro	match	106	530	.	+	.	Name=IPR020636;Note=Calcium/calmodulin-dependent protein kinase-like
+Solyc01g008420.1.1	ITAG_interpro	match	54	536	.	+	.	Name=IPR002528;Note=Multi antimicrobial extrusion protein
+Solyc01g008410.1.1	ITAG_interpro	match	59	81	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g008390.1.1	ITAG_interpro	match	205	253	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g008380.1.1	ITAG_hmmpanther	match	12	142	.	+	.	Name=PTHR10483;Note=PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+Solyc01g008370.1.1	ITAG_hmmpanther	match	22	300	.	+	.	Name=PTHR10540;Note=EIF3F-RELATED
+Solyc01g008360.1.1	ITAG_interpro	match	18	108	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc01g008350.1.1	ITAG_interpro	match	87	195	.	+	.	Name=IPR022226;Note=Protein of unknown function DUF3752
+Solyc01g008340.1.1	ITAG_interpro	match	116	250	.	+	.	Name=IPR001857;Note=Ribosomal protein L19
+Solyc01g008330.1.1	ITAG_interpro	match	72	198	.	+	.	Name=IPR013817;Note=Pre-ATP-grasp fold
+Solyc01g008320.1.1	ITAG_hmmpanther	match	16	890	.	+	.	Name=PTHR15457;Note=SEC-23 INTERACTING PROTEIN P125
+Solyc01g008310.1.1	ITAG_interpro	match	119	281	.	+	.	Name=IPR005146;Note=B3/B4 tRNA-binding domain
+Solyc01g008300.1.1	ITAG_gene3d	match	219	268	.	+	.	Name=G3DSA:3.30.559.10;Note=no description
+Solyc01g008290.1.1	ITAG_interpro	match	124	440	.	+	.	Name=IPR012135;Note=Dihydroorotate dehydrogenase%2C class 1/ 2
+Solyc01g008280.1.1	ITAG_interpro	match	76	380	.	+	.	Name=IPR004327;Note=Phosphotyrosyl phosphatase activator%2C PTPA
+Solyc01g008270.1.1	ITAG_interpro	match	13	142	.	+	.	Name=IPR011599;Note=Prefoldin alpha subunit
+Solyc01g008260.1.1	ITAG_hmmpanther	match	15	164	.	+	.	Name=PTHR15967;Note=UNCHARACTERIZED
+Solyc01g008250.1.1	ITAG_interpro	match	69	178	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc01g008240.1.1	ITAG_interpro	match	77	482	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc01g008230.1.1	ITAG_interpro	match	37	91	.	+	.	Name=IPR017887;Note=Transcription factor TCP subgroup
+Solyc01g008220.1.1	ITAG_superfamily	match	1	129	.	+	.	Name=SSF50729;Note=PH domain-like
+Solyc01g008200.1.1	ITAG_prosite	match	1	21	.	+	.	Name=PS51257;Note=PROKAR_LIPOPROTEIN
+Solyc01g008180.1.1	ITAG_interpro	match	409	515	.	+	.	Name=IPR005516;Note=Remorin%2C C-terminal
+Solyc01g008170.1.1	ITAG_superfamily	match	120	148	.	+	.	Name=SSF90229;Note=CCCH zinc finger
+Solyc01g008160.1.1	ITAG_interpro	match	229	262	.	+	.	Name=IPR019734;Note=Tetratricopeptide repeat
+Solyc01g008140.1.1	ITAG_interpro	match	684	967	.	+	.	Name=IPR000719;Note=Protein kinase%2C catalytic domain
+Solyc01g008130.1.1	ITAG_interpro	match	223	296	.	+	.	Name=IPR000591;Note=DEP domain
+Solyc01g008120.1.1	ITAG_interpro	match	1014	1054	.	+	.	Name=IPR019787;Note=Zinc finger%2C PHD-finger
+Solyc01g008110.1.1	ITAG_interpro	match	423	432	.	+	.	Name=IPR017972;Note=Cytochrome P450%2C conserved site
+Solyc01g008090.1.1	ITAG_interpro	match	7	86	.	+	.	Name=IPR000592;Note=Ribosomal protein S27e
+Solyc01g008080.1.1	ITAG_gene3d	match	30	84	.	+	.	Name=G3DSA:2.20.25.100;Note=no description
+Solyc01g008070.1.1	ITAG_interpro	match	89	357	.	+	.	Name=IPR010765;Note=Protein of unknown function DUF1350
+Solyc01g008060.1.1	ITAG_interpro	match	160	291	.	+	.	Name=IPR002156;Note=Ribonuclease H domain
+Solyc01g008050.1.1	ITAG_interpro	match	232	409	.	+	.	Name=IPR004253;Note=Domain of unknown function DUF231%2C plant
+Solyc01g008040.1.1	ITAG_interpro	match	54	296	.	+	.	Name=IPR017451;Note=F-box associated interaction domain
+Solyc01g008020.1.1	ITAG_interpro	match	18	415	.	+	.	Name=IPR002259;Note=Delayed-early response protein/equilibrative nucleoside transporter
+Solyc01g008010.1.1	ITAG_interpro	match	140	211	.	+	.	Name=IPR003863;Note=Protein of unknown function DUF220
+Solyc01g008000.1.1	ITAG_interpro	match	1	177	.	+	.	Name=IPR006689;Note=ARF/SAR superfamily
+Solyc01g007990.1.1	ITAG_interpro	match	312	603	.	+	.	Name=IPR000719;Note=Protein kinase%2C catalytic domain
+Solyc01g007980.1.1	ITAG_prosite	match	137	242	.	+	.	Name=PS51473;Note=GNK2
+Solyc01g007970.1.1	ITAG_interpro	match	329	605	.	+	.	Name=IPR000719;Note=Protein kinase%2C catalytic domain
+Solyc01g007960.1.1	ITAG_prosite	match	138	243	.	+	.	Name=PS51473;Note=GNK2
+Solyc01g007950.1.1	ITAG_interpro	match	591	885	.	+	.	Name=IPR002016;Note=Haem peroxidase%2C plant/fungal/bacterial
+Solyc01g007940.1.1	ITAG_interpro	match	85	328	.	+	.	Name=IPR015421;Note=Pyridoxal phosphate-dependent transferase%2C major region%2C subdomain 1
+Solyc01g007930.1.1	ITAG_interpro	match	115	151	.	+	.	Name=IPR006597;Note=Sel1-like
+Solyc01g007920.1.1	ITAG_interpro	match	1	194	.	+	.	Name=IPR000868;Note=Isochorismatase-like
+Solyc01g007910.1.1	ITAG_interpro	match	160	327	.	+	.	Name=IPR016102;Note=Succinyl-CoA synthetase-like
+Solyc01g007900.1.1	ITAG_interpro	match	25	295	.	+	.	Name=IPR009457;Note=Domain of unknown function DUF1084
+Solyc01g007880.1.1	ITAG_interpro	match	642	665	.	+	.	Name=IPR003409;Note=MORN motif
+Solyc01g007860.1.1	ITAG_interpro	match	16	144	.	+	.	Name=IPR000608;Note=Ubiquitin-conjugating enzyme%2C E2
+Solyc01g007850.1.1	ITAG_interpro	match	501	515	.	+	.	Name=IPR019775;Note=WD40 repeat%2C conserved site
+Solyc01g007840.1.1	ITAG_interpro	match	11	284	.	+	.	Name=IPR012337;Note=Ribonuclease H-like
+Solyc01g007830.1.1	ITAG_hmmpanther	match	29	70	.	+	.	Name=PTHR13108;Note=FAMILY NOT NAMED
+Solyc01g007810.1.1	ITAG_interpro	match	143	207	.	+	.	Name=IPR006458;Note=Domain of unknown function DUF623
+Solyc01g007800.1.1	ITAG_interpro	match	96	160	.	+	.	Name=IPR006458;Note=Domain of unknown function DUF623
+Solyc01g007790.1.1	ITAG_interpro	match	38	286	.	+	.	Name=IPR019363;Note=Protein of unknown function DUF2305
+Solyc01g007780.1.1	ITAG_interpro	match	2	160	.	+	.	Name=IPR004345;Note=TB2/DP1/HVA22-related protein
+Solyc01g007760.1.1	ITAG_interpro	match	157	420	.	+	.	Name=IPR015633;Note=E2F Family
+Solyc01g007750.1.1	ITAG_interpro	match	54	289	.	+	.	Name=IPR003690;Note=Mitochodrial transcription termination factor-related
+Solyc01g007740.1.1	ITAG_interpro	match	70	267	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc01g007720.1.1	ITAG_interpro	match	21	76	.	+	.	Name=IPR022546;Note=Uncharacterised protein family Ycf68
+Solyc01g007670.1.1	ITAG_interpro	match	1	155	.	+	.	Name=IPR000235;Note=Ribosomal protein S7
+Solyc01g007660.1.1	ITAG_interpro	match	146	426	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc01g007650.1.1	ITAG_interpro	match	1	57	.	+	.	Name=IPR019645;Note=Uncharacterised protein family Ycf15
+Solyc01g007640.1.1	ITAG_interpro	match	1	1521	.	+	.	Name=IPR008543;Note=Uncharacterised protein family Ycf2
+Solyc01g007630.1.1	ITAG_interpro	match	1	80	.	+	.	Name=IPR013025;Note=Ribosomal protein L25/L23
+Solyc01g007620.1.1	ITAG_interpro	match	10	34	.	+	.	Name=IPR020934;Note=Ribosomal protein S19 conserved site
+Solyc01g007610.1.1	ITAG_interpro	match	146	352	.	+	.	Name=IPR005704;Note=Ribosomal protein S3%2C bacterial
+Solyc01g007600.1.1	ITAG_interpro	match	43	54	.	+	.	Name=IPR020798;Note=Ribosomal protein L16%2C conserved site
+Solyc01g007590.1.1	ITAG_interpro	match	60	86	.	+	.	Name=IPR019972;Note=Ribosomal protein L14 conserved site
+Solyc01g007580.1.1	ITAG_gene3d	match	1	71	.	+	.	Name=G3DSA:3.30.1370.30;Note=no description
+Solyc01g007570.1.1	ITAG_interpro	match	139	161	.	+	.	Name=IPR018102;Note=Ribosomal S11%2C conserved site
+Solyc01g007560.1.1	ITAG_interpro	match	10	233	.	+	.	Name=IPR009025;Note=DNA-directed RNA polymerase%2C RBP11-like
+Solyc01g007550.1.1	ITAG_gene3d	match	2	48	.	+	.	Name=G3DSA:1.10.150.20;Note=no description
+Solyc01g007540.1.1	ITAG_interpro	match	1	139	.	+	.	Name=IPR005870;Note=Cytochrome b6/f complex%2C subunit IV
+Solyc01g007530.1.1	ITAG_interpro	match	2	213	.	+	.	Name=IPR005797;Note=Cytochrome b/b6%2C N-terminal
+Solyc01g007520.1.1	ITAG_interpro	match	15	70	.	+	.	Name=IPR001056;Note=Photosystem II PsbH%2C phosphoprotein
+Solyc01g007510.1.1	ITAG_interpro	match	1	28	.	+	.	Name=IPR003398;Note=Photosystem II PsbN
+Solyc01g007500.1.1	ITAG_superfamily	match	1	507	.	+	.	Name=SSF81558;Note=Photosystem I subunits PsaA/PsaB
+Solyc01g007490.1.1	ITAG_interpro	match	19	194	.	+	.	Name=IPR001907;Note=Peptidase S14%2C ClpP
+Solyc01g007470.1.1	ITAG_interpro	match	1	120	.	+	.	Name=IPR005813;Note=Ribosomal protein L20
+Solyc01g007460.1.1	ITAG_interpro	match	2	97	.	+	.	Name=IPR001648;Note=Ribosomal protein S18
+Solyc01g007450.1.1	ITAG_interpro	match	33	52	.	+	.	Name=IPR018264;Note=Ribosomal protein L33%2C conserved site
+Solyc01g007440.1.1	ITAG_interpro	match	1	41	.	+	.	Name=IPR002615;Note=Photosystem I PsaJ%2C reaction centre subunit IX
+Solyc01g007430.1.1	ITAG_interpro	match	1	35	.	+	.	Name=IPR003683;Note=Cytochrome b6/f complex%2C subunit 5
+Solyc01g007420.1.1	ITAG_interpro	match	34	64	.	+	.	Name=IPR007802;Note=Cytochrome b6/f complex subunit VI
+Solyc01g007410.1.1	ITAG_interpro	match	9	23	.	+	.	Name=IPR006216;Note=Photosystem II cytochrome b559%2C conserved site
+Solyc01g007400.1.1	ITAG_interpro	match	1	40	.	+	.	Name=IPR002682;Note=Photosystem II PsbJ
+Solyc01g007380.1.1	ITAG_interpro	match	203	265	.	+	.	Name=IPR011054;Note=Rudiment single hybrid motif
+Solyc01g007370.1.1	ITAG_interpro	match	1	229	.	+	.	Name=IPR004282;Note=Chloroplast envelope membrane protein%2C CemA
+Solyc01g007360.1.1	ITAG_interpro	match	5	182	.	+	.	Name=IPR003359;Note=Photosystem I Ycf4%2C assembly
+Solyc01g007350.1.1	ITAG_interpro	match	33	72	.	+	.	Name=IPR001302;Note=Photosystem I PsaI%2C reaction centre subunit VIII
+Solyc01g007340.1.1	ITAG_interpro	match	222	500	.	+	.	Name=IPR000438;Note=Acetyl-CoA carboxylase carboxyl transferase%2C beta subunit
+Solyc01g007330.1.1	ITAG_interpro	match	196	204	.	+	.	Name=IPR020878;Note=Ribulose bisphosphate carboxylase%2C large chain%2C active site
+Solyc01g007320.1.1	ITAG_interpro	match	151	372	.	+	.	Name=IPR000194;Note=ATPase%2C alpha/beta subunit%2C nucleotide-binding domain
+Solyc01g007310.1.1	ITAG_interpro	match	13	120	.	+	.	Name=IPR000440;Note=NADH:ubiquinone/plastoquinone oxidoreductase%2C chain 3
+Solyc01g007300.1.1	ITAG_interpro	match	1	219	.	+	.	Name=IPR006138;Note=NADH-ubiquinone oxidoreductase%2C 20 Kd subunit
+Solyc01g007290.1.1	ITAG_interpro	match	111	132	.	+	.	Name=IPR020396;Note=NADH:ubiquinone oxidoreductase%2C 30kDa subunit%2C conserved site
+Solyc01g007280.1.1	ITAG_interpro	match	3	199	.	+	.	Name=IPR005709;Note=Ribosomal protein S4%2C bacterial-type
+Solyc01g007270.1.1	ITAG_superfamily	match	5	70	.	+	.	Name=SSF102405;Note=MoCo carrier protein-like
+Solyc01g007260.1.1	ITAG_interpro	match	24	53	.	+	.	Name=IPR004176;Note=Clp%2C N-terminal
+Solyc01g007250.1.1	ITAG_interpro	match	82	265	.	+	.	Name=IPR004154;Note=Anticodon-binding
+Solyc01g007240.1.1	ITAG_hmmpanther	match	76	159	.	+	.	Name=PTHR19957;Note=SYNTAXIN
+Solyc01g007230.1.1	ITAG_interpro	match	109	203	.	+	.	Name=IPR004864;Note=Late embryogenesis abundant protein%2C group 2
+Solyc01g007220.1.1	ITAG_interpro	match	77	177	.	+	.	Name=IPR004864;Note=Late embryogenesis abundant protein%2C group 2
+Solyc01g007170.1.1	ITAG_interpro	match	795	950	.	+	.	Name=IPR013583;Note=Phosphoribosyltransferase C-terminal
+Solyc01g007160.1.1	ITAG_interpro	match	88	229	.	+	.	Name=IPR001126;Note=DNA-repair protein%2C UmuC-like
+Solyc01g007150.1.1	ITAG_interpro	match	20	465	.	+	.	Name=IPR002553;Note=Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal
+Solyc01g007140.1.1	ITAG_interpro	match	10	819	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g007130.1.1	ITAG_interpro	match	742	754	.	+	.	Name=IPR008271;Note=Serine/threonine-protein kinase%2C active site
+Solyc01g007120.1.1	ITAG_interpro	match	92	272	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g007110.1.1	ITAG_interpro	match	103	167	.	+	.	Name=IPR007053;Note=NC
+Solyc01g007100.1.1	ITAG_interpro	match	532	634	.	+	.	Name=IPR001296;Note=Glycosyl transferase%2C group 1
+Solyc01g007090.1.1	ITAG_interpro	match	41	410	.	+	.	Name=IPR020966;Note=Malate transporter%2C aliminium toerance
+Solyc01g007080.1.1	ITAG_interpro	match	41	369	.	+	.	Name=IPR020966;Note=Malate transporter%2C aliminium toerance
+Solyc01g007070.1.1	ITAG_interpro	match	381	450	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc01g007050.1.1	ITAG_interpro	match	129	401	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g007040.1.1	ITAG_interpro	match	5	77	.	+	.	Name=IPR013083;Note=Zinc finger%2C RING/FYVE/PHD-type
+Solyc01g007030.1.1	ITAG_interpro	match	1	173	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g007020.1.1	ITAG_interpro	match	93	375	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g007010.1.1	ITAG_interpro	match	93	375	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g007000.1.1	ITAG_interpro	match	94	376	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g006990.1.1	ITAG_hmmpfam	match	51	123	.	+	.	Name=PF11543;Note=UN_NPL4
+Solyc01g006980.1.1	ITAG_interpro	match	184	257	.	+	.	Name=IPR016036;Note=Malonyl-CoA ACP transacylase%2C ACP-binding
+Solyc01g006970.1.1	ITAG_interpro	match	272	439	.	+	.	Name=IPR014021;Note=Helicase%2C superfamily 1/2%2C ATP-binding domain
+Solyc01g006960.1.1	ITAG_hmmpanther	match	1	1243	.	+	.	Name=PTHR12975;Note=TRANSPORT PROTEIN (TRAPP)
+Solyc01g006950.1.1	ITAG_interpro	match	29	155	.	+	.	Name=IPR006011;Note=Syntaxin%2C N-terminal
+Solyc01g006940.1.1	ITAG_interpro	match	116	203	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc01g006930.1.1	ITAG_interpro	match	98	309	.	+	.	Name=IPR001289;Note=CCAAT-binding transcription factor%2C subunit B
+Solyc01g006920.1.1	ITAG_interpro	match	84	116	.	+	.	Name=IPR002885;Note=Pentatricopeptide repeat
+Solyc01g006910.1.1	ITAG_interpro	match	114	160	.	+	.	Name=IPR013083;Note=Zinc finger%2C RING/FYVE/PHD-type
+Solyc01g006900.1.1	ITAG_interpro	match	27	146	.	+	.	Name=IPR003172;Note=MD-2-related lipid-recognition
+Solyc01g006880.1.1	ITAG_interpro	match	37	76	.	+	.	Name=IPR003169;Note=GYF
+Solyc01g006870.1.1	ITAG_gene3d	match	72	274	.	+	.	Name=G3DSA:3.30.530.20;Note=no description
+Solyc01g006860.1.1	ITAG_interpro	match	119	267	.	+	.	Name=IPR004640;Note=Co-chaperone Hsc20
+Solyc01g006850.1.1	ITAG_hmmpanther	match	241	1083	.	+	.	Name=PTHR10483;Note=PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+Solyc01g006840.1.1	ITAG_interpro	match	183	575	.	+	.	Name=IPR020636;Note=Calcium/calmodulin-dependent protein kinase-like
+Solyc01g006830.1.1	ITAG_interpro	match	233	289	.	+	.	Name=IPR009675;Note=Xklp2 targeting protein
+Solyc01g006810.1.1	ITAG_interpro	match	23	48	.	+	.	Name=IPR018957;Note=Zinc finger%2C C3HC4 RING-type
+Solyc01g006800.1.1	ITAG_interpro	match	132	145	.	+	.	Name=IPR001714;Note=Peptidase M24%2C methionine aminopeptidase
+Solyc01g006770.1.1	ITAG_interpro	match	218	471	.	+	.	Name=IPR006740;Note=Protein of unknown function DUF604
+Solyc01g006740.1.1	ITAG_interpro	match	9	271	.	+	.	Name=IPR012847;Note=Sucrose phosphatase%2C plant/cyanobacteria
+Solyc01g006730.1.1	ITAG_interpro	match	181	582	.	+	.	Name=IPR020636;Note=Calcium/calmodulin-dependent protein kinase-like
+Solyc01g006720.1.1	ITAG_interpro	match	274	288	.	+	.	Name=IPR017871;Note=ABC transporter%2C conserved site
+Solyc01g006710.1.1	ITAG_interpro	match	279	446	.	+	.	Name=IPR014021;Note=Helicase%2C superfamily 1/2%2C ATP-binding domain
+Solyc01g006700.1.1	ITAG_hmmpanther	match	16	516	.	+	.	Name=PTHR12972;Note=DOWNSTREAM NEIGHBOR OF SON
+Solyc01g006680.1.1	ITAG_superfamily	match	175	390	.	+	.	Name=SSF51197;Note=Clavaminate synthase-like
+Solyc01g006670.1.1	ITAG_gene3d	match	268	435	.	+	.	Name=G3DSA:3.40.50.2000;Note=no description
+Solyc01g006660.1.1	ITAG_interpro	match	28	99	.	+	.	Name=IPR010259;Note=Proteinase inhibitor I9%2C subtilisin propeptide
+Solyc01g006650.1.1	ITAG_gene3d	match	160	291	.	+	.	Name=G3DSA:1.10.3180.10;Note=no description
+Solyc01g006640.1.1	ITAG_interpro	match	1121	1200	.	+	.	Name=IPR009081;Note=Acyl carrier protein-like
+Solyc01g006630.1.1	ITAG_interpro	match	6	155	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc01g006620.1.1	ITAG_interpro	match	43	138	.	+	.	Name=IPR000008;Note=C2 calcium-dependent membrane targeting
+Solyc01g006610.1.1	ITAG_prosite	match	162	267	.	+	.	Name=PS51471;Note=FE2OG_OXY
+Solyc01g006600.1.1	ITAG_interpro	match	254	336	.	+	.	Name=IPR009081;Note=Acyl carrier protein-like
+Solyc01g006590.1.1	ITAG_interpro	match	358	494	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g006580.1.1	ITAG_prosite	match	161	266	.	+	.	Name=PS51471;Note=FE2OG_OXY
+Solyc01g006570.1.1	ITAG_interpro	match	8	57	.	+	.	Name=IPR000907;Note=Lipoxygenase
+Solyc01g006560.1.1	ITAG_interpro	match	175	193	.	+	.	Name=IPR001246;Note=Lipoxygenase%2C plant
+Solyc01g006550.1.1	ITAG_interpro	match	122	143	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g006540.1.1	ITAG_interpro	match	167	185	.	+	.	Name=IPR001246;Note=Lipoxygenase%2C plant
+Solyc01g006530.1.1	ITAG_interpro	match	499	805	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g006520.1.1	ITAG_interpro	match	238	330	.	+	.	Name=IPR000858;Note=S-locus glycoprotein
+Solyc01g006510.1.1	ITAG_interpro	match	19	355	.	+	.	Name=IPR002085;Note=Alcohol dehydrogenase superfamily%2C zinc-containing
+Solyc01g006500.1.1	ITAG_interpro	match	137	173	.	+	.	Name=IPR002885;Note=Pentatricopeptide repeat
+Solyc01g006490.1.1	ITAG_interpro	match	73	545	.	+	.	Name=IPR003846;Note=Uncharacterised protein family UPF0061
+Solyc01g006480.1.1	ITAG_interpro	match	23	116	.	+	.	Name=IPR000383;Note=Peptidase S9/S15
+Solyc01g006470.1.1	ITAG_interpro	match	129	261	.	+	.	Name=IPR001487;Note=Bromodomain
+Solyc01g006460.1.1	ITAG_interpro	match	19	288	.	+	.	Name=IPR014854;Note=Nse4
+Solyc01g006450.1.1	ITAG_interpro	match	64	368	.	+	.	Name=IPR014358;Note=Enoyl-[acyl-carrier-protein] reductase (NADH)
+Solyc01g006440.1.1	ITAG_interpro	match	13	590	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc01g006430.1.1	ITAG_interpro	match	84	344	.	+	.	Name=IPR005804;Note=Fatty acid desaturase%2C type 1
+Solyc01g006400.1.1	ITAG_fprintscan	match	164	181	.	+	.	Name=PR01217;Note=PRICHEXTENSN
+Solyc01g006370.1.1	ITAG_interpro	match	40	159	.	+	.	Name=IPR006745;Note=Protein of unknown function DUF605
+Solyc01g006350.1.1	ITAG_interpro	match	246	939	.	+	.	Name=IPR003440;Note=Glycosyl transferase%2C family 48
+Solyc01g006340.1.1	ITAG_interpro	match	149	325	.	+	.	Name=IPR014021;Note=Helicase%2C superfamily 1/2%2C ATP-binding domain
+Solyc01g006330.1.1	ITAG_interpro	match	60	235	.	+	.	Name=IPR006843;Note=Plastid lipid-associated protein/fibrillin
+Solyc01g006320.1.1	ITAG_interpro	match	24	160	.	+	.	Name=IPR010847;Note=Harpin-induced 1
+Solyc01g006310.1.1	ITAG_interpro	match	27	330	.	+	.	Name=IPR002016;Note=Haem peroxidase%2C plant/fungal/bacterial
+Solyc01g006300.1.1	ITAG_interpro	match	55	66	.	+	.	Name=IPR019794;Note=Peroxidase%2C active site
+Solyc01g006290.1.1	ITAG_interpro	match	26	327	.	+	.	Name=IPR002016;Note=Haem peroxidase%2C plant/fungal/bacterial
+Solyc01g006280.1.1	ITAG_interpro	match	15	634	.	+	.	Name=IPR000559;Note=Formate-tetrahydrofolate ligase%2C FTHFS
+Solyc01g006260.1.1	ITAG_interpro	match	16	107	.	+	.	Name=IPR002759;Note=Ribonuclease P/MRP protein subunit
+Solyc01g006250.1.1	ITAG_gene3d	match	25	64	.	+	.	Name=G3DSA:1.20.1280.50;Note=no description
+Solyc01g006240.1.1	ITAG_interpro	match	2	152	.	+	.	Name=IPR001229;Note=Mannose-binding lectin
+Solyc01g006230.1.1	ITAG_interpro	match	38	391	.	+	.	Name=IPR005078;Note=Peptidase C54
+Solyc01g006220.1.1	ITAG_interpro	match	129	178	.	+	.	Name=IPR006560;Note=AWS
+Solyc01g006210.1.1	ITAG_interpro	match	199	242	.	+	.	Name=IPR014857;Note=Zinc finger%2C RING-like
+Solyc01g006190.1.1	ITAG_interpro	match	176	301	.	+	.	Name=IPR013322;Note=TRAF-type
+Solyc01g006180.1.1	ITAG_superfamily	match	205	431	.	+	.	Name=SSF52540;Note=P-loop containing nucleoside triphosphate hydrolases
+Solyc01g006170.1.1	ITAG_interpro	match	7	283	.	+	.	Name=IPR008610;Note=Eukaryotic rRNA processing
+Solyc01g006150.1.1	ITAG_interpro	match	84	394	.	+	.	Name=IPR002524;Note=Cation efflux protein
+Solyc01g006140.1.1	ITAG_interpro	match	108	230	.	+	.	Name=IPR014939;Note=DNA replication factor CDT1-like
+Solyc01g006130.1.1	ITAG_interpro	match	103	166	.	+	.	Name=IPR001305;Note=Heat shock protein DnaJ%2C cysteine-rich domain
+Solyc01g006120.1.1	ITAG_interpro	match	118	409	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc01g006110.1.1	ITAG_interpro	match	8	405	.	+	.	Name=IPR007304;Note=TAP42-like protein
+Solyc01g006100.1.1	ITAG_interpro	match	356	415	.	+	.	Name=IPR000953;Note=Chromo domain
+Solyc01g006090.1.1	ITAG_interpro	match	17	277	.	+	.	Name=IPR008610;Note=Eukaryotic rRNA processing
+Solyc01g006080.1.1	ITAG_interpro	match	7	254	.	+	.	Name=IPR008507;Note=Protein of unknown function DUF789
+Solyc01g006070.1.1	ITAG_interpro	match	2	255	.	+	.	Name=IPR006904;Note=Protein of unknown function DUF716%2C TMEM45
+Solyc01g006060.1.1	ITAG_interpro	match	47	191	.	+	.	Name=IPR004265;Note=Plant disease resistance response protein
+Solyc01g006050.1.1	ITAG_interpro	match	2	258	.	+	.	Name=IPR006904;Note=Protein of unknown function DUF716%2C TMEM45
+Solyc01g006040.1.1	ITAG_hmmpanther	match	39	353	.	+	.	Name=PTHR23163;Note=RING FINGER PROTEIN-RELATED
+Solyc01g006030.1.1	ITAG_interpro	match	287	325	.	+	.	Name=IPR018957;Note=Zinc finger%2C C3HC4 RING-type
+Solyc01g006010.1.1	ITAG_hmmpanther	match	142	265	.	+	.	Name=PTHR11208;Note=RNA-BINDING PROTEIN RELATED
+Solyc01g006000.1.1	ITAG_interpro	match	249	514	.	+	.	Name=IPR007315;Note=Mannosyltransferase%2C PIG-V
+Solyc01g005990.1.1	ITAG_interpro	match	33	107	.	+	.	Name=IPR013770;Note=Plant lipid transfer protein/hydrophobic protein%2C helical domain
+Solyc01g005980.1.1	ITAG_interpro	match	102	229	.	+	.	Name=IPR007493;Note=Protein of unknown function DUF538
+Solyc01g005970.1.1	ITAG_interpro	match	147	305	.	+	.	Name=IPR013089;Note=Kelch-related
+Solyc01g005960.1.1	ITAG_interpro	match	175	358	.	+	.	Name=IPR014021;Note=Helicase%2C superfamily 1/2%2C ATP-binding domain
+Solyc01g005950.1.1	ITAG_interpro	match	16	313	.	+	.	Name=IPR006186;Note=Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase
+Solyc01g005940.1.1	ITAG_interpro	match	104	362	.	+	.	Name=IPR002060;Note=Squalene/phytoene synthase
+Solyc01g005930.1.1	ITAG_interpro	match	87	171	.	+	.	Name=IPR001024;Note=Lipoxygenase%2C LH2
+Solyc01g005920.1.1	ITAG_interpro	match	61	439	.	+	.	Name=IPR004841;Note=Amino acid permease domain
+Solyc01g005910.1.1	ITAG_interpro	match	68	169	.	+	.	Name=IPR003832;Note=Acid phosphatase/vanadium-dependent haloperoxidase-related
+Solyc01g005900.1.1	ITAG_interpro	match	28	98	.	+	.	Name=IPR002293;Note=Amino acid/polyamine transporter I
+Solyc01g005890.1.1	ITAG_fprintscan	match	179	195	.	+	.	Name=PR01217;Note=PRICHEXTENSN
+Solyc01g005880.1.1	ITAG_fprintscan	match	262	279	.	+	.	Name=PR01217;Note=PRICHEXTENSN
+Solyc01g005870.1.1	ITAG_interpro	match	109	125	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g005840.1.1	ITAG_interpro	match	38	181	.	+	.	Name=IPR000608;Note=Ubiquitin-conjugating enzyme%2C E2
+Solyc01g005830.1.1	ITAG_interpro	match	28	109	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc01g005820.1.1	ITAG_interpro	match	17	118	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc01g005810.1.1	ITAG_interpro	match	1	302	.	+	.	Name=IPR006958;Note=Mak16 protein
+Solyc01g005800.1.1	ITAG_interpro	match	113	135	.	+	.	Name=IPR000048;Note=IQ motif%2C EF-hand binding site
+Solyc01g005790.1.1	ITAG_hmmpanther	match	36	458	.	+	.	Name=PTHR10483;Note=PENTATRICOPEPTIDE REPEAT-CONTAINING PROTEIN
+Solyc01g005780.1.1	ITAG_interpro	match	314	333	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g005760.1.1	ITAG_interpro	match	109	129	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g005750.1.1	ITAG_interpro	match	23	92	.	+	.	Name=IPR000907;Note=Lipoxygenase
+Solyc01g005730.1.1	ITAG_interpro	match	353	374	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g005720.1.1	ITAG_interpro	match	96	118	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc01g005710.1.1	ITAG_interpro	match	31	47	.	+	.	Name=IPR013210;Note=Leucine-rich repeat-containing N-terminal domain%2C type 2
+Solyc01g005700.1.1	ITAG_interpro	match	730	747	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc01g005680.1.1	ITAG_superfamily	match	1	183	.	+	.	Name=SSF102405;Note=MoCo carrier protein-like
+Solyc01g005660.1.1	ITAG_interpro	match	21	85	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc01g005650.1.1	ITAG_interpro	match	498	522	.	+	.	Name=IPR001876;Note=Zinc finger%2C RanBP2-type
+Solyc01g005640.1.1	ITAG_interpro	match	14	70	.	+	.	Name=IPR006476;Note=Conserved hypothetical protein CHP01589%2C plant
+Solyc01g005630.1.1	ITAG_interpro	match	18	81	.	+	.	Name=IPR001471;Note=Pathogenesis-related transcriptional factor/ERF%2C DNA-binding
+Solyc01g005620.1.1	ITAG_interpro	match	11	92	.	+	.	Name=IPR018108;Note=Mitochondrial substrate/solute carrier
+Solyc01g005610.1.1	ITAG_interpro	match	38	349	.	+	.	Name=IPR001087;Note=Lipase%2C GDSL
+Solyc01g005600.1.1	ITAG_interpro	match	57	153	.	+	.	Name=IPR013766;Note=Thioredoxin domain
+Solyc01g005580.1.1	ITAG_interpro	match	70	119	.	+	.	Name=IPR012438;Note=Protein of unknown function DUF1639
+Solyc01g005570.1.1	ITAG_interpro	match	19	68	.	+	.	Name=IPR012438;Note=Protein of unknown function DUF1639
+Solyc01g005560.1.1	ITAG_interpro	match	273	292	.	+	.	Name=IPR019818;Note=Isocitrate/isopropylmalate dehydrogenase%2C conserved site
+Solyc01g005550.1.1	ITAG_interpro	match	190	379	.	+	.	Name=IPR004314;Note=Domain of unknown function DUF239%2C plant
+Solyc01g005540.1.1	ITAG_interpro	match	61	584	.	+	.	Name=IPR002313;Note=Lysyl-tRNA synthetase%2C class II
+Solyc01g005520.1.1	ITAG_interpro	match	212	282	.	+	.	Name=IPR013026;Note=Tetratricopeptide repeat-containing
+Solyc01g005510.1.1	ITAG_interpro	match	159	301	.	+	.	Name=IPR001117;Note=Multicopper oxidase%2C type 1
+Solyc01g005500.1.1	ITAG_interpro	match	9	260	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc01g005490.1.1	ITAG_interpro	match	34	439	.	+	.	Name=IPR017439;Note=Peptidase M20D%2C mername-AA028/carboxypeptidase Ss1
+Solyc01g005480.1.1	ITAG_interpro	match	106	366	.	+	.	Name=IPR007749;Note=Protein of unknown function DUF677
+Solyc01g005470.1.1	ITAG_interpro	match	29	132	.	+	.	Name=IPR006461;Note=Uncharacterised protein family Cys-rich
+Solyc01g005460.1.1	ITAG_interpro	match	13	124	.	+	.	Name=IPR001372;Note=Dynein light chain%2C type 1/2
+Solyc01g005450.1.1	ITAG_interpro	match	228	239	.	+	.	Name=IPR017900;Note=4Fe-4S ferredoxin%2C iron-sulphur binding%2C conserved site
+Solyc01g005440.1.1	ITAG_interpro	match	253	277	.	+	.	Name=IPR018467;Note=CCT domain-like
+Solyc01g005430.1.1	ITAG_interpro	match	169	236	.	+	.	Name=IPR006567;Note=PUG domain
+Solyc01g005420.1.1	ITAG_interpro	match	5	109	.	+	.	Name=IPR000008;Note=C2 calcium-dependent membrane targeting
+Solyc01g005410.1.1	ITAG_interpro	match	10	179	.	+	.	Name=IPR007736;Note=Caleosin
+Solyc01g005400.1.1	ITAG_interpro	match	16	187	.	+	.	Name=IPR007736;Note=Caleosin
+Solyc01g005390.1.1	ITAG_interpro	match	19	151	.	+	.	Name=IPR000086;Note=NUDIX hydrolase domain
+Solyc01g005380.1.1	ITAG_interpro	match	293	466	.	+	.	Name=IPR015353;Note=Rubisco LS methyltransferase%2C substrate-binding domain
+Solyc01g005370.1.1	ITAG_interpro	match	33	61	.	+	.	Name=IPR018248;Note=EF-hand
+Solyc01g005360.1.1	ITAG_interpro	match	49	341	.	+	.	Name=IPR005299;Note=SAM dependent carboxyl methyltransferase
+Solyc01g005350.1.1	ITAG_superfamily	match	1	330	.	+	.	Name=SSF53335;Note=S-adenosyl-L-methionine-dependent methyltransferases
+Solyc01g005340.1.1	ITAG_interpro	match	47	77	.	+	.	Name=IPR002110;Note=Ankyrin repeat
+Solyc01g005330.1.1	ITAG_interpro	match	226	577	.	+	.	Name=IPR009768;Note=Myosin II heavy chain-like
+Solyc01g005320.1.1	ITAG_interpro	match	63	303	.	+	.	Name=IPR010721;Note=Protein of unknown function DUF1295
+Solyc01g005310.1.1	ITAG_interpro	match	222	497	.	+	.	Name=IPR000375;Note=Dynamin central domain
+Solyc01g005300.1.1	ITAG_interpro	match	305	578	.	+	.	Name=IPR015915;Note=Kelch-type beta propeller
+Solyc01g005290.1.1	ITAG_interpro	match	2	68	.	+	.	Name=IPR011074;Note=Phosphatidylinositol transfer protein-like%2C N-terminal
+Solyc01g005280.1.1	ITAG_interpro	match	2	68	.	+	.	Name=IPR011074;Note=Phosphatidylinositol transfer protein-like%2C N-terminal
+Solyc01g005270.1.1	ITAG_interpro	match	2	68	.	+	.	Name=IPR011074;Note=Phosphatidylinositol transfer protein-like%2C N-terminal
+Solyc01g005260.1.1	ITAG_interpro	match	2	68	.	+	.	Name=IPR011074;Note=Phosphatidylinositol transfer protein-like%2C N-terminal
+Solyc01g005250.1.1	ITAG_interpro	match	41	381	.	+	.	Name=IPR012080;Note=Aspartate-semialdehyde dehydrogenase
+Solyc01g005240.1.1	ITAG_interpro	match	83	537	.	+	.	Name=IPR001341;Note=Aspartate kinase domain
+Solyc01g005230.1.1	ITAG_interpro	match	46	341	.	+	.	Name=IPR005299;Note=SAM dependent carboxyl methyltransferase
+Solyc01g005220.1.1	ITAG_interpro	match	1	323	.	+	.	Name=IPR020864;Note=Membrane attack complex component/perforin (MACPF) domain
+Solyc01g005210.1.1	ITAG_interpro	match	596	848	.	+	.	Name=IPR003337;Note=Trehalose-phosphatase
+Solyc01g005200.1.1	ITAG_interpro	match	95	129	.	+	.	Name=IPR013087;Note=Zinc finger%2C C2H2-type/integrase%2C DNA-binding
+Solyc01g005190.1.1	ITAG_interpro	match	96	124	.	+	.	Name=IPR013087;Note=Zinc finger%2C C2H2-type/integrase%2C DNA-binding
+Solyc01g005170.1.1	ITAG_interpro	match	31	303	.	+	.	Name=IPR011417;Note=ANTH
+Solyc01g005160.1.1	ITAG_interpro	match	114	438	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc01g005150.1.1	ITAG_interpro	match	19	219	.	+	.	Name=IPR006593;Note=Cytochrome b561/ferric reductase transmembrane
+Solyc01g005140.1.1	ITAG_interpro	match	21	220	.	+	.	Name=IPR006593;Note=Cytochrome b561/ferric reductase transmembrane
+Solyc01g005130.1.1	ITAG_interpro	match	97	124	.	+	.	Name=IPR007087;Note=Zinc finger%2C C2H2-type
+Solyc01g005120.1.1	ITAG_interpro	match	33	215	.	+	.	Name=IPR000757;Note=Glycoside hydrolase%2C family 16
+Solyc01g005110.1.1	ITAG_interpro	match	1	37	.	+	.	Name=IPR013174;Note=Dolichol-phosphate mannosyltransferase subunit 3
+Solyc01g005100.1.1	ITAG_prosite	match	72	177	.	+	.	Name=PS51471;Note=FE2OG_OXY
+Solyc01g005090.1.1	ITAG_interpro	match	16	332	.	+	.	Name=IPR005135;Note=Endonuclease/exonuclease/phosphatase
+Solyc01g005080.1.1	ITAG_blastprodom	match	1	347	.	+	.	Name=PD968187;Note=Q30KS2_CANFA_Q30KS2
+Solyc01g005070.1.1	ITAG_interpro	match	32	308	.	+	.	Name=IPR011417;Note=ANTH
+Solyc01g005060.1.1	ITAG_interpro	match	111	145	.	+	.	Name=IPR013087;Note=Zinc finger%2C C2H2-type/integrase%2C DNA-binding
+Solyc01g005050.1.1	ITAG_interpro	match	22	108	.	+	.	Name=IPR006702;Note=Uncharacterised protein family UPF0497%2C trans-membrane plant
+Solyc01g005040.1.1	ITAG_interpro	match	19	131	.	+	.	Name=IPR006702;Note=Uncharacterised protein family UPF0497%2C trans-membrane plant
+Solyc01g005030.1.1	ITAG_interpro	match	613	1152	.	+	.	Name=IPR004240;Note=Nonaspanin (TM9SF)
+Solyc01g005020.1.1	ITAG_interpro	match	278	864	.	+	.	Name=IPR018418;Note=Na+/H+ exchanger%2C isoforms 7/8
+Solyc01g005000.1.1	ITAG_interpro	match	72	309	.	+	.	Name=IPR015421;Note=Pyridoxal phosphate-dependent transferase%2C major region%2C subdomain 1
+Solyc00g324530.1.1	ITAG_superfamily	match	24	94	.	+	.	Name=SSF54001;Note=Cysteine proteinases
+Solyc00g323130.1.1	ITAG_interpro	match	2	151	.	+	.	Name=IPR000916;Note=Bet v I allergen
+Solyc00g322630.1.1	ITAG_interpro	match	12	97	.	+	.	Name=IPR004993;Note=GH3 auxin-responsive promoter
+Solyc00g318830.1.1	ITAG_hmmpanther	match	4	178	.	+	.	Name=PTHR21596;Note=RIBONUCLEASE P PROTEIN SUBUNIT P38-RELATED
+Solyc00g318130.1.1	ITAG_interpro	match	49	125	.	+	.	Name=IPR003822;Note=Paired amphipathic helix
+Solyc00g316730.1.1	ITAG_interpro	match	118	145	.	+	.	Name=IPR006564;Note=Zinc finger%2C PMZ-type
+Solyc00g316530.1.1	ITAG_interpro	match	56	65	.	+	.	Name=IPR020003;Note=ATPase%2C F1/V1/A1 complex%2C alpha/beta subunit%2C nucleotide-binding domain%2C active site
+Solyc00g316030.1.1	ITAG_interpro	match	164	191	.	+	.	Name=IPR006564;Note=Zinc finger%2C PMZ-type
+Solyc00g306830.1.1	ITAG_interpro	match	123	153	.	+	.	Name=IPR003953;Note=Fumarate reductase/succinate dehydrogenase flavoprotein%2C N-terminal
+Solyc00g306730.1.1	ITAG_interpro	match	23	74	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc00g304030.1.1	ITAG_interpro	match	370	384	.	+	.	Name=IPR017871;Note=ABC transporter%2C conserved site
+Solyc00g300730.1.1	ITAG_interpro	match	35	91	.	+	.	Name=IPR004162;Note=Seven in absentia protein
+Solyc00g294630.1.1	ITAG_interpro	match	44	79	.	+	.	Name=IPR018289;Note=MULE transposase%2C conserved domain
+Solyc00g294230.1.1	ITAG_interpro	match	3	55	.	+	.	Name=IPR000157;Note=Toll-Interleukin receptor
+Solyc00g289230.1.1	ITAG_interpro	match	173	185	.	+	.	Name=IPR008271;Note=Serine/threonine protein kinase%2C active site
+Solyc00g287330.1.1	ITAG_interpro	match	131	179	.	+	.	Name=IPR013699;Note=Signal recognition particle%2C SRP72 subunit%2C RNA-binding
+Solyc00g286030.1.1	ITAG_interpro	match	3	194	.	+	.	Name=IPR005090;Note=Replication protein C
+Solyc00g286020.1.1	ITAG_interpro	match	138	302	.	+	.	Name=IPR011111;Note=RepB plasmid partition
+Solyc00g283010.1.1	ITAG_interpro	match	567	581	.	+	.	Name=IPR017871;Note=ABC transporter%2C conserved site
+Solyc00g282510.1.1	ITAG_interpro	match	1	581	.	+	.	Name=IPR005922;Note=Phenylalanine ammonia-lyase
+Solyc00g280110.1.1	ITAG_interpro	match	14	48	.	+	.	Name=IPR006476;Note=Conserved hypothetical protein CHP01589%2C plant
+Solyc00g277510.1.1	ITAG_interpro	match	6	57	.	+	.	Name=IPR000484;Note=Photosynthetic reaction centre%2C L/M
+Solyc00g275310.1.1	ITAG_interpro	match	156	180	.	+	.	Name=IPR013101;Note=Leucine-rich repeat 2
+Solyc00g272810.1.1	ITAG_interpro	match	14	225	.	+	.	Name=IPR016181;Note=Acyl-CoA N-acyltransferase
+Solyc00g270510.1.1	ITAG_interpro	match	12	124	.	+	.	Name=IPR009072;Note=Histone-fold
+Solyc00g269810.1.1	ITAG_interpro	match	185	209	.	+	.	Name=IPR013101;Note=Leucine-rich repeat 2
+Solyc00g268310.1.1	ITAG_interpro	match	343	464	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g266110.1.1	ITAG_interpro	match	12	97	.	+	.	Name=IPR004993;Note=GH3 auxin-responsive promoter
+Solyc00g265110.1.1	ITAG_hmmpanther	match	5	86	.	+	.	Name=PTHR10288;Note=RNA-BINDING PROTEIN RELATED
+Solyc00g257110.1.1	ITAG_interpro	match	11	321	.	+	.	Name=IPR006534;Note=ATPase%2C P-type%2C plasma-membrane proton-efflux
+Solyc00g255510.1.1	ITAG_interpro	match	1	139	.	+	.	Name=IPR003441;Note=No apical meristem (NAM) protein
+Solyc00g254910.1.1	ITAG_interpro	match	1	246	.	+	.	Name=IPR004993;Note=GH3 auxin-responsive promoter
+Solyc00g249910.1.1	ITAG_hmmpanther	match	1	62	.	+	.	Name=PTHR22780;Note=ADAPTIN%2C ALPHA/GAMMA/EPSILON
+Solyc00g249900.1.1	ITAG_interpro	match	54	81	.	+	.	Name=IPR002553;Note=Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal
+Solyc00g247300.1.1	ITAG_interpro	match	58	77	.	+	.	Name=IPR002401;Note=Cytochrome P450%2C E-class%2C group I
+Solyc00g245200.1.1	ITAG_interpro	match	3	58	.	+	.	Name=IPR001280;Note=Photosystem I%2C PsaA/PsaB
+Solyc00g233480.1.1	ITAG_hmmpanther	match	62	169	.	+	.	Name=PTHR19241;Note=ATP-BINDING CASSETTE TRANSPORTER
+Solyc00g231780.1.1	ITAG_interpro	match	27	89	.	+	.	Name=IPR009051;Note=Alpha-helical ferredoxin
+Solyc00g231680.1.1	ITAG_interpro	match	25	389	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc00g230080.1.1	ITAG_interpro	match	1	118	.	+	.	Name=IPR000484;Note=Photosynthetic reaction centre%2C L/M
+Solyc00g230070.1.1	ITAG_superfamily	match	33	87	.	+	.	Name=SSF81558;Note=Photosystem I subunits PsaA/PsaB
+Solyc00g230060.1.1	ITAG_interpro	match	156	252	.	+	.	Name=IPR012337;Note=Polynucleotidyl transferase%2C ribonuclease H fold
+Solyc00g227960.1.1	ITAG_interpro	match	63	300	.	+	.	Name=IPR000863;Note=Sulfotransferase
+Solyc00g227860.1.1	ITAG_interpro	match	302	309	.	+	.	Name=IPR016160;Note=Aldehyde dehydrogenase%2C conserved site
+Solyc00g226760.1.1	ITAG_interpro	match	63	323	.	+	.	Name=IPR000863;Note=Sulfotransferase
+Solyc00g222460.1.1	ITAG_hmmpanther	match	1	92	.	+	.	Name=PTHR11439;Note=GAG-POL-RELATED RETROTRANSPOSON
+Solyc00g217960.1.1	ITAG_interpro	match	53	94	.	+	.	Name=IPR018957;Note=Zinc finger%2C C3HC4 RING-type
+Solyc00g217560.1.1	ITAG_interpro	match	45	103	.	+	.	Name=IPR017887;Note=Transcription factor TCP subgroup
+Solyc00g212260.1.1	ITAG_interpro	match	1	400	.	+	.	Name=IPR004993;Note=GH3 auxin-responsive promoter
+Solyc00g209560.1.1	ITAG_superfamily	match	79	160	.	+	.	Name=SSF54001;Note=Cysteine proteinases
+Solyc00g209460.1.1	ITAG_interpro	match	7	87	.	+	.	Name=IPR001087;Note=Lipase%2C GDSL
+Solyc00g207960.1.1	ITAG_interpro	match	71	147	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc00g206460.1.1	ITAG_hmmpanther	match	2	54	.	+	.	Name=PTHR10178;Note=GAG/POL/ENV POLYPROTEIN
+Solyc00g203660.1.1	ITAG_interpro	match	1	194	.	+	.	Name=IPR000685;Note=Ribulose bisphosphate carboxylase%2C large subunit%2C C-terminal
+Solyc00g202560.1.1	ITAG_interpro	match	7	303	.	+	.	Name=IPR013781;Note=Glycoside hydrolase%2C subgroup%2C catalytic core
+Solyc00g201160.1.1	ITAG_interpro	match	164	176	.	+	.	Name=IPR008271;Note=Serine/threonine protein kinase%2C active site
+Solyc00g198360.1.1	ITAG_interpro	match	185	211	.	+	.	Name=IPR000571;Note=Zinc finger%2C CCCH-type
+Solyc00g196060.1.1	ITAG_interpro	match	84	167	.	+	.	Name=IPR010525;Note=Auxin response factor
+Solyc00g195360.1.1	ITAG_interpro	match	1	225	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g195350.1.1	ITAG_interpro	match	84	104	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g192150.1.1	ITAG_interpro	match	151	178	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc00g188850.1.1	ITAG_interpro	match	4	204	.	+	.	Name=IPR008539;Note=Protein of unknown function DUF821%2C CAP10-like
+Solyc00g187050.1.1	ITAG_interpro	match	36	508	.	+	.	Name=IPR011356;Note=Peptidase M17%2C leucyl aminopeptidase
+Solyc00g185750.1.1	ITAG_interpro	match	3	145	.	+	.	Name=IPR020422;Note=Dual specificity phosphatase%2C subgroup%2C catalytic domain
+Solyc00g183050.1.1	ITAG_hmmpanther	match	10	38	.	+	.	Name=PTHR22835;Note=ZINC FINGER FYVE DOMAIN CONTAINING PROTEIN
+Solyc00g180440.1.1	ITAG_interpro	match	1	84	.	+	.	Name=IPR005813;Note=Ribosomal protein L20
+Solyc00g179240.1.1	ITAG_hmmpanther	match	3	54	.	+	.	Name=PTHR11945;Note=MADS BOX PROTEIN
+Solyc00g178340.1.1	ITAG_interpro	match	45	192	.	+	.	Name=IPR005786;Note=Branched-chain amino acid aminotransferase II
+Solyc00g175240.1.1	ITAG_interpro	match	67	100	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g174340.1.1	ITAG_interpro	match	25	159	.	+	.	Name=IPR014044;Note=SCP-like extracellular
+Solyc00g174330.1.1	ITAG_interpro	match	11	80	.	+	.	Name=IPR014044;Note=SCP-like extracellular
+Solyc00g173430.1.1	ITAG_hmmpanther	match	2	49	.	+	.	Name=PTHR10288;Note=RNA-BINDING PROTEIN RELATED
+Solyc00g173230.1.1	ITAG_interpro	match	21	186	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc00g172410.1.1	ITAG_interpro	match	172	249	.	+	.	Name=IPR013955;Note=Replication factor-A%2C C-terminal
+Solyc00g171810.1.1	ITAG_interpro	match	74	343	.	+	.	Name=IPR000568;Note=ATPase%2C F0 complex%2C subunit A
+Solyc00g171710.1.1	ITAG_interpro	match	87	304	.	+	.	Name=IPR017451;Note=F-box associated type 1
+Solyc00g170510.1.1	ITAG_interpro	match	22	292	.	+	.	Name=IPR012334;Note=Pectin lyase fold
+Solyc00g170200.1.1	ITAG_gene3d	match	39	125	.	+	.	Name=G3DSA:3.40.50.1820;Note=no description
+Solyc00g167290.1.1	ITAG_interpro	match	38	102	.	+	.	Name=IPR003156;Note=Phosphoesterase%2C DHHA1
+Solyc00g164680.1.1	ITAG_interpro	match	87	299	.	+	.	Name=IPR013525;Note=ABC-2 type transporter
+Solyc00g163580.1.1	ITAG_interpro	match	9	95	.	+	.	Name=IPR001077;Note=O-methyltransferase%2C family 2
+Solyc00g157180.1.1	ITAG_superfamily	match	176	269	.	+	.	Name=SSF54928;Note=RNA-binding domain%2C RBD
+Solyc00g157080.1.1	ITAG_hmmpanther	match	49	170	.	+	.	Name=PTHR23258;Note=SERINE-THREONINE PROTEIN KINASE%2C PLANT-TYPE
+Solyc00g156980.1.1	ITAG_superfamily	match	55	151	.	+	.	Name=SSF51905;Note=FAD/NAD(P)-binding domain
+Solyc00g154980.1.1	ITAG_gene3d	match	59	199	.	+	.	Name=G3DSA:1.10.3180.10;Note=no description
+Solyc00g154480.1.1	ITAG_interpro	match	218	520	.	+	.	Name=IPR008949;Note=Terpenoid synthase
+Solyc00g153680.1.1	ITAG_interpro	match	101	231	.	+	.	Name=IPR011009;Note=Protein kinase-like
+Solyc00g149970.1.1	ITAG_interpro	match	1	189	.	+	.	Name=IPR004331;Note=SPX%2C N-terminal
+Solyc00g147770.1.1	ITAG_interpro	match	4	41	.	+	.	Name=IPR007021;Note=Protein of unknown function DUF659
+Solyc00g147570.1.1	ITAG_interpro	match	115	160	.	+	.	Name=IPR007123;Note=Gelsolin region
+Solyc00g145170.1.1	ITAG_interpro	match	31	81	.	+	.	Name=IPR003465;Note=Proteinase inhibitor I20%2C Pin2
+Solyc00g144470.1.1	ITAG_interpro	match	71	407	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g142170.1.1	ITAG_interpro	match	237	305	.	+	.	Name=IPR008686;Note=RNA-dependent RNA polymerase%2C mitoviral
+Solyc00g141560.1.1	ITAG_interpro	match	1	116	.	+	.	Name=IPR016027;Note=Nucleic acid-binding%2C OB-fold-like
+Solyc00g141360.1.1	ITAG_superfamily	match	12	174	.	+	.	Name=SSF52047;Note=RNI-like
+Solyc00g140060.1.1	ITAG_interpro	match	62	126	.	+	.	Name=IPR015500;Note=Peptidase S8%2C subtilisin-related
+Solyc00g139760.1.1	ITAG_interpro	match	48	186	.	+	.	Name=IPR012334;Note=Pectin lyase fold
+Solyc00g138060.1.1	ITAG_hmmpanther	match	22	309	.	+	.	Name=PTHR10209;Note=IRON/ASCORBATE-DEPENDENT OXIDOREDUCTASE FAMILY MEMBER
+Solyc00g136560.1.1	ITAG_interpro	match	64	165	.	+	.	Name=IPR001441;Note=Di-trans-poly-cis-decaprenylcistransferase-like
+Solyc00g136260.1.1	ITAG_interpro	match	77	118	.	+	.	Name=IPR018957;Note=Zinc finger%2C C3HC4 RING-type
+Solyc00g135260.1.1	ITAG_interpro	match	4	59	.	+	.	Name=IPR003480;Note=Transferase
+Solyc00g135060.1.1	ITAG_interpro	match	18	335	.	+	.	Name=IPR002085;Note=Alcohol dehydrogenase superfamily%2C zinc-containing
+Solyc00g135050.1.1	ITAG_interpro	match	87	141	.	+	.	Name=IPR005119;Note=LysR%2C substrate-binding
+Solyc00g135040.1.1	ITAG_superfamily	match	136	229	.	+	.	Name=SSF46785;Note="Winged helix" DNA-binding domain
+Solyc00g134840.1.1	ITAG_interpro	match	1	105	.	+	.	Name=IPR004813;Note=Oligopeptide transporter OPT superfamily
+Solyc00g134830.1.1	ITAG_interpro	match	276	486	.	+	.	Name=IPR009777;Note=Protein of unknown function DUF1342
+Solyc00g134820.1.1	ITAG_interpro	match	106	123	.	+	.	Name=IPR014032;Note=Peptidase A24A%2C prepilin type IV%2C bacterial
+Solyc00g134620.1.1	ITAG_interpro	match	23	87	.	+	.	Name=IPR003480;Note=Transferase
+Solyc00g131710.1.1	ITAG_interpro	match	352	404	.	+	.	Name=IPR000953;Note=Chromo domain
+Solyc00g131610.1.1	ITAG_interpro	match	22	173	.	+	.	Name=IPR004265;Note=Plant disease resistance response protein
+Solyc00g130810.1.1	ITAG_interpro	match	1	134	.	+	.	Name=IPR005632;Note=Outer membrane chaperone Skp (OmpH)
+Solyc00g130800.1.1	ITAG_interpro	match	168	248	.	+	.	Name=IPR011600;Note=Peptidase C14%2C caspase catalytic
+Solyc00g130690.1.1	ITAG_superfamily	match	22	317	.	+	.	Name=SSF56935;Note=Porins
+Solyc00g130290.1.1	ITAG_interpro	match	1	261	.	+	.	Name=IPR017779;Note=ABC transporter%2C urea%2C permease protein%2C UrtB
+Solyc00g130190.1.1	ITAG_interpro	match	537	728	.	+	.	Name=IPR015977;Note=Nicotinate phosphoribosyltransferase-like
+Solyc00g130180.1.1	ITAG_interpro	match	126	174	.	+	.	Name=IPR003741;Note=Protein of unknown function DUF162
+Solyc00g128870.1.1	ITAG_interpro	match	20	138	.	+	.	Name=IPR000086;Note=NUDIX hydrolase domain
+Solyc00g127870.1.1	ITAG_interpro	match	1	168	.	+	.	Name=IPR016542;Note=Phosphatidylinositol N-acetylglucosaminyltransferase%2C GPI19/PIG-P subunit
+Solyc00g127560.1.1	ITAG_interpro	match	4	120	.	+	.	Name=IPR008926;Note=Ribonucleotide reductase R1 subunit%2C N-terminal
+Solyc00g127550.1.1	ITAG_interpro	match	5	138	.	+	.	Name=IPR000788;Note=Ribonucleotide reductase large subunit%2C C-terminal
+Solyc00g126430.1.1	ITAG_interpro	match	5	246	.	+	.	Name=IPR010044;Note=Methylthioadenosine phosphorylase
+Solyc00g126120.1.1	ITAG_interpro	match	11	190	.	+	.	Name=IPR015941;Note=Transketolase-like%2C C-terminal
+Solyc00g126110.1.1	ITAG_interpro	match	5	59	.	+	.	Name=IPR015517;Note=Cytidine deaminase
+Solyc00g125990.1.1	ITAG_interpro	match	1	170	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc00g125580.1.1	ITAG_interpro	match	24	215	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g125270.1.1	ITAG_interpro	match	223	268	.	+	.	Name=IPR002818;Note=ThiJ/PfpI
+Solyc00g125260.1.1	ITAG_hmmpanther	match	225	279	.	+	.	Name=PTHR10992;Note=ALPHA/BETA HYDROLASE RELATED
+Solyc00g124860.1.1	ITAG_interpro	match	19	286	.	+	.	Name=IPR004921;Note=Terminase-like
+Solyc00g124850.1.1	ITAG_interpro	match	2	97	.	+	.	Name=IPR009228;Note=Phage capsid scaffolding
+Solyc00g124840.1.1	ITAG_interpro	match	6	140	.	+	.	Name=IPR006441;Note=Phage major capsid protein%2C P2
+Solyc00g122530.1.1	ITAG_interpro	match	8	117	.	+	.	Name=IPR004837;Note=Sodium/calcium exchanger membrane region
+Solyc00g121730.1.1	ITAG_interpro	match	110	208	.	+	.	Name=IPR005162;Note=Retrotransposon gag protein
+Solyc00g120930.1.1	ITAG_interpro	match	11	39	.	+	.	Name=IPR018248;Note=EF hand
+Solyc00g120830.1.1	ITAG_interpro	match	26	219	.	+	.	Name=IPR012307;Note=Xylose isomerase%2C TIM barrel domain
+Solyc00g120820.1.1	ITAG_interpro	match	1	138	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g119610.1.1	ITAG_interpro	match	4	196	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc00g119010.1.1	ITAG_interpro	match	1	60	.	+	.	Name=IPR001789;Note=Signal transduction response regulator%2C receiver region
+Solyc00g119000.1.1	ITAG_interpro	match	6	122	.	+	.	Name=IPR001789;Note=Signal transduction response regulator%2C receiver region
+Solyc00g118990.1.1	ITAG_interpro	match	83	418	.	+	.	Name=IPR006143;Note=Secretion protein HlyD
+Solyc00g118690.1.1	ITAG_interpro	match	14	27	.	+	.	Name=IPR018086;Note=NADH:ubiquinone oxidoreductase%2C subunit 1%2C conserved site
+Solyc00g118280.1.1	ITAG_interpro	match	4	294	.	+	.	Name=IPR003726;Note=Homocysteine S-methyltransferase
+Solyc00g118270.1.1	ITAG_interpro	match	160	292	.	+	.	Name=IPR006158;Note=Cobalamin (vitamin B12)-binding
+Solyc00g117450.1.1	ITAG_interpro	match	111	153	.	+	.	Name=IPR006510;Note=Zinc finger%2C Lateral Root Primordium type 1
+Solyc00g114550.1.1	ITAG_interpro	match	1	241	.	+	.	Name=IPR008479;Note=Protein of unknown function DUF760
+Solyc00g113750.1.1	ITAG_interpro	match	10	126	.	+	.	Name=IPR010623;Note=Protein of unknown function DUF1215
+Solyc00g113730.1.1	ITAG_interpro	match	2	160	.	+	.	Name=IPR017734;Note=Type VI secretion system%2C lipoprotein VCA0113
+Solyc00g112930.1.1	ITAG_interpro	match	1	71	.	+	.	Name=IPR007781;Note=Alpha-N-acetylglucosaminidase
+Solyc00g112830.1.1	ITAG_interpro	match	6	140	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc00g112810.1.1	ITAG_interpro	match	1	313	.	+	.	Name=IPR004131;Note=Inorganic H+ pyrophosphatase
+Solyc00g112700.1.1	ITAG_fprintscan	match	239	264	.	+	.	Name=PR01217;Note=PRICHEXTENSN
+Solyc00g112600.1.1	ITAG_interpro	match	1	33	.	+	.	Name=IPR005828;Note=General substrate transporter
+Solyc00g112500.1.1	ITAG_interpro	match	1	183	.	+	.	Name=IPR005546;Note=Autotransporter beta-domain
+Solyc00g112490.1.1	ITAG_interpro	match	1	30	.	+	.	Name=IPR008009;Note=Putative Ig
+Solyc00g111170.1.1	ITAG_interpro	match	108	156	.	+	.	Name=IPR013699;Note=Signal recognition particle%2C SRP72 subunit%2C RNA-binding
+Solyc00g110870.1.1	ITAG_interpro	match	298	436	.	+	.	Name=IPR011009;Note=Protein kinase-like
+Solyc00g110370.1.1	ITAG_interpro	match	37	113	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc00g110070.1.1	ITAG_interpro	match	566	594	.	+	.	Name=IPR007087;Note=Zinc finger%2C C2H2-type
+Solyc00g107550.1.1	ITAG_hmmpanther	match	1	63	.	+	.	Name=PTHR10492;Note=HELICASE-RELATED
+Solyc00g107050.1.1	ITAG_interpro	match	54	131	.	+	.	Name=IPR009072;Note=Histone-fold
+Solyc00g105750.1.1	ITAG_interpro	match	220	282	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc00g105350.1.1	ITAG_interpro	match	311	387	.	+	.	Name=IPR004332;Note=Transposase%2C MuDR%2C plant
+Solyc00g105340.1.1	ITAG_interpro	match	111	125	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc00g104730.1.1	ITAG_interpro	match	49	197	.	+	.	Name=IPR000743;Note=Glycoside hydrolase%2C family 28
+Solyc00g104630.1.1	ITAG_interpro	match	1	163	.	+	.	Name=IPR018484;Note=Carbohydrate kinase%2C FGGY%2C N-terminal
+Solyc00g104200.1.1	ITAG_interpro	match	198	301	.	+	.	Name=IPR003115;Note=ParB-like nuclease
+Solyc00g102400.1.1	ITAG_interpro	match	540	555	.	+	.	Name=IPR000767;Note=Disease resistance protein
+Solyc00g101700.1.1	ITAG_interpro	match	40	150	.	+	.	Name=IPR011009;Note=Protein kinase-like
+Solyc00g101090.1.1	ITAG_interpro	match	53	206	.	+	.	Name=IPR005064;Note=Bordetella uptake gene
+Solyc00g100880.1.1	ITAG_interpro	match	24	203	.	+	.	Name=IPR007612;Note=Protein of unknown function DUF567
+Solyc00g099580.1.1	ITAG_interpro	match	29	118	.	+	.	Name=IPR012287;Note=Homeodomain-related
+Solyc00g098560.1.1	ITAG_interpro	match	47	242	.	+	.	Name=IPR013830;Note=Esterase%2C SGNH hydrolase-type
+Solyc00g096060.1.1	ITAG_interpro	match	6	97	.	+	.	Name=IPR000407;Note=Nucleoside phosphatase GDA1/CD39
+Solyc00g095860.1.1	ITAG_interpro	match	54	179	.	+	.	Name=IPR015422;Note=Pyridoxal phosphate-dependent transferase%2C major region%2C subdomain 2
+Solyc00g095760.1.1	ITAG_interpro	match	55	152	.	+	.	Name=IPR015421;Note=Pyridoxal phosphate-dependent transferase%2C major region%2C subdomain 1
+Solyc00g095460.1.1	ITAG_interpro	match	9	275	.	+	.	Name=IPR008030;Note=NmrA-like
+Solyc00g095450.1.1	ITAG_interpro	match	46	149	.	+	.	Name=IPR002110;Note=Ankyrin
+Solyc00g094530.1.1	ITAG_interpro	match	47	62	.	+	.	Name=IPR018086;Note=NADH:ubiquinone oxidoreductase%2C subunit 1%2C conserved site
+Solyc00g094020.1.1	ITAG_interpro	match	176	192	.	+	.	Name=IPR000923;Note=Blue (type 1) copper domain
+Solyc00g093300.1.1	ITAG_interpro	match	110	137	.	+	.	Name=IPR006564;Note=Zinc finger%2C PMZ-type
+Solyc00g093100.1.1	ITAG_interpro	match	43	194	.	+	.	Name=IPR002528;Note=Multi antimicrobial extrusion protein MatE
+Solyc00g091170.1.1	ITAG_superfamily	match	66	286	.	+	.	Name=SSF52540;Note=P-loop containing nucleoside triphosphate hydrolases
+Solyc00g090870.1.1	ITAG_interpro	match	22	112	.	+	.	Name=IPR006828;Note=5-AMP-activated protein kinase%2C beta subunit%2C complex-interacting region
+Solyc00g090860.1.1	ITAG_interpro	match	44	147	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g090650.1.1	ITAG_hmmpanther	match	309	339	.	+	.	Name=PTHR11600;Note=SUGAR TRANSPORTER
+Solyc00g090640.1.1	ITAG_hmmpanther	match	22	143	.	+	.	Name=PTHR11600;Note=SUGAR TRANSPORTER
+Solyc00g090630.1.1	ITAG_interpro	match	5	83	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g090430.1.1	ITAG_interpro	match	106	352	.	+	.	Name=IPR008507;Note=Protein of unknown function DUF789
+Solyc00g090130.1.1	ITAG_interpro	match	162	186	.	+	.	Name=IPR000185;Note=SecA protein
+Solyc00g090120.1.1	ITAG_interpro	match	92	136	.	+	.	Name=IPR007922;Note=Protein of unknown function DUF721
+Solyc00g090110.1.1	ITAG_interpro	match	128	282	.	+	.	Name=IPR011334;Note=UDP-3-O-acyl N-acetylglucosamine deacetylase%2C C-terminal
+Solyc00g088210.1.1	ITAG_interpro	match	1	122	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g088190.1.1	ITAG_interpro	match	192	255	.	+	.	Name=IPR011054;Note=Rudiment single hybrid motif
+Solyc00g088080.1.1	ITAG_gene3d	match	1	178	.	+	.	Name=G3DSA:3.40.50.2020;Note=no description
+Solyc00g085070.1.1	ITAG_superfamily	match	13	391	.	+	.	Name=SSF51905;Note=FAD/NAD(P)-binding domain
+Solyc00g084870.1.1	ITAG_interpro	match	42	96	.	+	.	Name=IPR017887;Note=Transcription factor TCP subgroup
+Solyc00g084770.1.1	ITAG_hmmpanther	match	1	96	.	+	.	Name=PTHR22930;Note=UNCHARACTERIZED
+Solyc00g084750.1.1	ITAG_interpro	match	125	159	.	+	.	Name=IPR002885;Note=Pentatricopeptide repeat
+Solyc00g084650.1.1	ITAG_interpro	match	1	4	.	+	.	Name=IPR013838;Note=Beta tubulin%2C autoregulation binding site
+Solyc00g082150.1.1	ITAG_interpro	match	16	49	.	+	.	Name=IPR019734;Note=Tetratricopeptide repeat
+Solyc00g080550.1.1	ITAG_prosite	match	1	20	.	+	.	Name=PS51257;Note=PROKAR_LIPOPROTEIN
+Solyc00g075040.1.1	ITAG_hmmpanther	match	133	632	.	+	.	Name=PTHR11439;Note=GAG-POL-RELATED RETROTRANSPOSON
+Solyc00g075030.1.1	ITAG_interpro	match	80	97	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc00g074830.1.1	ITAG_interpro	match	1	114	.	+	.	Name=IPR000825;Note=SUF system FeS cluster assembly%2C SufBD
+Solyc00g074810.1.1	ITAG_interpro	match	70	280	.	+	.	Name=IPR003488;Note=DNA recombination-mediator protein A
+Solyc00g074210.1.1	ITAG_interpro	match	19	145	.	+	.	Name=IPR005341;Note=Protein Transporter%2C Pam16
+Solyc00g072400.1.1	ITAG_interpro	match	25	318	.	+	.	Name=IPR002016;Note=Haem peroxidase%2C plant/fungal/bacterial
+Solyc00g071590.1.1	ITAG_interpro	match	1	93	.	+	.	Name=IPR000195;Note=RabGAP/TBC
+Solyc00g071180.1.1	ITAG_interpro	match	2	129	.	+	.	Name=IPR000010;Note=Proteinase inhibitor I25%2C cystatin
+Solyc00g066360.1.1	ITAG_interpro	match	2	246	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g066350.1.1	ITAG_interpro	match	33	94	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g066150.1.1	ITAG_interpro	match	142	339	.	+	.	Name=IPR001460;Note=Penicillin-binding protein%2C transpeptidase
+Solyc00g066140.1.1	ITAG_interpro	match	16	472	.	+	.	Name=IPR003846;Note=Uncharacterised protein family UPF0061
+Solyc00g065930.1.1	ITAG_interpro	match	472	551	.	+	.	Name=IPR015018;Note=Protein of unknown function DUF1905
+Solyc00g065630.1.1	ITAG_interpro	match	194	359	.	+	.	Name=IPR004015;Note=SKI-interacting protein SKIP%2C SNW domain
+Solyc00g063510.1.1	ITAG_interpro	match	44	173	.	+	.	Name=IPR011680;Note=FEZ-like
+Solyc00g063110.1.1	ITAG_interpro	match	30	122	.	+	.	Name=IPR013770;Note=Plant lipid transfer protein/hydrophobic protein%2C helical domain
+Solyc00g060810.1.1	ITAG_interpro	match	2	146	.	+	.	Name=IPR000916;Note=Bet v I allergen
+Solyc00g060710.1.1	ITAG_superfamily	match	1	132	.	+	.	Name=SSF52540;Note=P-loop containing nucleoside triphosphate hydrolases
+Solyc00g060700.1.1	ITAG_interpro	match	680	810	.	+	.	Name=IPR020568;Note=Ribosomal protein S5 domain 2-type fold
+Solyc00g059500.1.1	ITAG_hmmpanther	match	2	92	.	+	.	Name=PTHR10414;Note=ETHANOLAMINEPHOSPHOTRANSFERASE
+Solyc00g059100.1.1	ITAG_interpro	match	28	42	.	+	.	Name=IPR020472;Note=G-protein beta WD-40 repeat%2C region
+Solyc00g058900.1.1	ITAG_interpro	match	52	366	.	+	.	Name=IPR001087;Note=Lipase%2C GDSL
+Solyc00g058490.1.1	ITAG_interpro	match	26	241	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g058480.1.1	ITAG_interpro	match	28	84	.	+	.	Name=IPR003822;Note=Paired amphipathic helix
+Solyc00g057280.1.1	ITAG_interpro	match	19	115	.	+	.	Name=IPR003340;Note=Transcriptional factor B3
+Solyc00g056680.1.1	ITAG_gene3d	match	175	481	.	+	.	Name=G3DSA:3.40.50.1820;Note=no description
+Solyc00g055960.1.1	ITAG_interpro	match	342	356	.	+	.	Name=IPR004358;Note=Signal transduction histidine kinase-related protein%2C C-terminal
+Solyc00g055950.1.1	ITAG_interpro	match	151	225	.	+	.	Name=IPR001867;Note=Signal transduction response regulator%2C C-terminal
+Solyc00g055940.1.1	ITAG_interpro	match	26	69	.	+	.	Name=IPR005297;Note=Secreted repeat of unknown function
+Solyc00g053740.1.1	ITAG_interpro	match	17	101	.	+	.	Name=IPR008978;Note=HSP20-like chaperone
+Solyc00g053440.1.1	ITAG_interpro	match	3	123	.	+	.	Name=IPR006214;Note=Uncharacterised protein family UPF0005
+Solyc00g052940.1.1	ITAG_superfamily	match	130	240	.	+	.	Name=SSF103481;Note=Multidrug resistance efflux transporter EmrE
+Solyc00g050430.1.1	ITAG_interpro	match	167	251	.	+	.	Name=IPR011598;Note=Helix-loop-helix DNA-binding
+Solyc00g050130.1.1	ITAG_gene3d	match	257	436	.	+	.	Name=G3DSA:3.40.50.2000;Note=no description
+Solyc00g050030.1.1	ITAG_interpro	match	433	515	.	+	.	Name=IPR013708;Note=Shikimate dehydrogenase substrate binding%2C N-terminal
+Solyc00g050020.1.1	ITAG_interpro	match	233	292	.	+	.	Name=IPR001900;Note=Ribonuclease II/R
+Solyc00g049920.1.1	ITAG_interpro	match	3	229	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc00g049210.1.1	ITAG_interpro	match	1	589	.	+	.	Name=IPR003569;Note=Cytochrome c-type biogenesis protein CcbS
+Solyc00g047200.1.1	ITAG_interpro	match	1	69	.	+	.	Name=IPR016175;Note=Cytochrome b/b6
+Solyc00g046580.1.1	ITAG_interpro	match	69	426	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g044960.1.1	ITAG_interpro	match	185	237	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc00g044950.1.1	ITAG_interpro	match	3	105	.	+	.	Name=IPR014314;Note=Succinate dehydrogenase%2C cytochrome b556 subunit
+Solyc00g044750.1.1	ITAG_interpro	match	88	189	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc00g042850.1.1	ITAG_interpro	match	121	207	.	+	.	Name=IPR001087;Note=Lipase%2C GDSL
+Solyc00g042840.1.1	ITAG_interpro	match	290	329	.	+	.	Name=IPR005174;Note=Protein of unknown function DUF295
+Solyc00g042640.1.1	ITAG_interpro	match	405	621	.	+	.	Name=IPR010285;Note=Protein of unknown function DUF889%2C eukaryote
+Solyc00g042140.1.1	ITAG_interpro	match	288	397	.	+	.	Name=IPR000194;Note=ATPase%2C F1/V1/A1 complex%2C alpha/beta subunit%2C nucleotide-binding domain
+Solyc00g042130.1.1	ITAG_interpro	match	343	567	.	+	.	Name=IPR000194;Note=ATPase%2C F1/V1/A1 complex%2C alpha/beta subunit%2C nucleotide-binding domain
+Solyc00g042120.1.1	ITAG_interpro	match	201	274	.	+	.	Name=IPR003660;Note=HAMP linker domain
+Solyc00g041220.1.1	ITAG_interpro	match	212	261	.	+	.	Name=IPR014021;Note=Helicase%2C superfamily 1/2%2C ATP-binding domain
+Solyc00g041190.1.1	ITAG_interpro	match	32	47	.	+	.	Name=IPR006162;Note=Phosphopantetheine attachment site
+Solyc00g041090.1.1	ITAG_interpro	match	9	97	.	+	.	Name=IPR001096;Note=Peptidase C13%2C legumain
+Solyc00g040390.1.1	ITAG_interpro	match	35	374	.	+	.	Name=IPR003480;Note=Transferase
+Solyc00g040290.1.1	ITAG_interpro	match	35	224	.	+	.	Name=IPR003480;Note=Transferase
+Solyc00g039990.1.1	ITAG_interpro	match	36	46	.	+	.	Name=IPR019793;Note=Peroxidases heam-ligand binding site
+Solyc00g039290.1.1	ITAG_interpro	match	161	201	.	+	.	Name=IPR000315;Note=Zinc finger%2C B-box
+Solyc00g037280.1.1	ITAG_interpro	match	90	109	.	+	.	Name=IPR003918;Note=NADH:ubiquinone oxidoreductase%2C chain 4
+Solyc00g036760.1.1	ITAG_interpro	match	131	271	.	+	.	Name=IPR008979;Note=Galactose-binding like
+Solyc00g036540.1.1	ITAG_interpro	match	46	93	.	+	.	Name=IPR002171;Note=Ribosomal protein L2
+Solyc00g036320.1.1	ITAG_interpro	match	18	103	.	+	.	Name=IPR001606;Note=AT-rich interaction region
+Solyc00g034810.1.1	ITAG_interpro	match	79	114	.	+	.	Name=IPR018249;Note=EF-HAND 2
+Solyc00g034000.1.1	ITAG_interpro	match	54	443	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g033990.1.1	ITAG_interpro	match	1	232	.	+	.	Name=IPR016181;Note=Acyl-CoA N-acyltransferase
+Solyc00g033880.1.1	ITAG_superfamily	match	128	252	.	+	.	Name=SSF52343;Note=Ferredoxin reductase-like%2C C-terminal NADP-linked domain
+Solyc00g033860.1.1	ITAG_hmmpanther	match	118	353	.	+	.	Name=PTHR10584;Note=SUGAR KINASE RELATED
+Solyc00g033460.1.1	ITAG_superfamily	match	1	142	.	+	.	Name=SSF53335;Note=S-adenosyl-L-methionine-dependent methyltransferases
+Solyc00g032940.1.1	ITAG_superfamily	match	19	76	.	+	.	Name=SSF54001;Note=Cysteine proteinases
+Solyc00g032030.1.1	ITAG_interpro	match	5	138	.	+	.	Name=IPR004162;Note=Seven in absentia protein
+Solyc00g031730.1.1	ITAG_interpro	match	4	270	.	+	.	Name=IPR001757;Note=ATPase%2C P-type%2C K/Mg/Cd/Cu/Zn/Na/Ca/Na/H-transporter
+Solyc00g031720.1.1	ITAG_interpro	match	18	47	.	+	.	Name=IPR017969;Note=Heavy-metal-associated%2C conserved site
+Solyc00g031700.1.1	ITAG_interpro	match	1	312	.	+	.	Name=IPR001395;Note=Aldo/keto reductase
+Solyc00g031370.1.1	ITAG_interpro	match	91	303	.	+	.	Name=IPR005119;Note=LysR%2C substrate-binding
+Solyc00g031360.1.1	ITAG_interpro	match	109	147	.	+	.	Name=IPR011780;Note=D-serine ammonia-lyase
+Solyc00g031050.1.1	ITAG_interpro	match	1	457	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g031040.1.1	ITAG_gene3d	match	3	293	.	+	.	Name=G3DSA:3.20.20.140;Note=no description
+Solyc00g031030.1.1	ITAG_hmmpanther	match	17	315	.	+	.	Name=PTHR10209;Note=IRON/ASCORBATE-DEPENDENT OXIDOREDUCTASE FAMILY MEMBER
+Solyc00g030520.1.1	ITAG_interpro	match	69	221	.	+	.	Name=IPR012936;Note=Protein of unknown function DUF1692
+Solyc00g030510.1.1	ITAG_interpro	match	8	390	.	+	.	Name=IPR012334;Note=Pectin lyase fold
+Solyc00g030210.1.1	ITAG_interpro	match	750	1046	.	+	.	Name=IPR001460;Note=Penicillin-binding protein%2C transpeptidase
+Solyc00g030000.1.1	ITAG_interpro	match	17	142	.	+	.	Name=IPR005150;Note=Cellulose synthase
+Solyc00g029800.1.1	ITAG_interpro	match	112	160	.	+	.	Name=IPR013699;Note=Signal recognition particle%2C SRP72 subunit%2C RNA-binding
+Solyc00g029290.1.1	ITAG_interpro	match	162	255	.	+	.	Name=IPR000910;Note=High mobility group%2C HMG1/HMG2
+Solyc00g029190.1.1	ITAG_superfamily	match	11	309	.	+	.	Name=SSF53335;Note=S-adenosyl-L-methionine-dependent methyltransferases
+Solyc00g029080.1.1	ITAG_interpro	match	25	227	.	+	.	Name=IPR014808;Note=DNA replication factor Dna2
+Solyc00g028960.1.1	ITAG_interpro	match	1	102	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc00g028560.1.1	ITAG_interpro	match	51	330	.	+	.	Name=IPR005064;Note=Bordetella uptake gene
+Solyc00g028550.1.1	ITAG_superfamily	match	24	161	.	+	.	Name=SSF46785;Note="Winged helix" DNA-binding domain
+Solyc00g028540.1.1	ITAG_interpro	match	50	241	.	+	.	Name=IPR000873;Note=AMP-dependent synthetase/ligase
+Solyc00g028120.1.1	ITAG_interpro	match	136	424	.	+	.	Name=IPR018712;Note=Protein of unknown function DUF2235
+Solyc00g028110.1.1	ITAG_interpro	match	34	271	.	+	.	Name=IPR017847;Note=Rhs element Vgr protein%2C subgroup
+Solyc00g027990.1.1	ITAG_interpro	match	106	398	.	+	.	Name=IPR005150;Note=Cellulose synthase
+Solyc00g027980.1.1	ITAG_interpro	match	67	114	.	+	.	Name=IPR001007;Note=von Willebrand factor%2C type C
+Solyc00g027970.1.1	ITAG_interpro	match	106	188	.	+	.	Name=IPR000073;Note=Alpha/beta hydrolase fold-1
+Solyc00g027770.1.1	ITAG_interpro	match	4	313	.	+	.	Name=IPR012334;Note=Pectin lyase fold
+Solyc00g027670.1.1	ITAG_interpro	match	4	25	.	+	.	Name=IPR019781;Note=WD40 repeat%2C subgroup
+Solyc00g027640.1.1	ITAG_interpro	match	1	132	.	+	.	Name=IPR018618;Note=Vacuolar import/degradation protein Vid24
+Solyc00g027130.1.1	ITAG_interpro	match	94	335	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g027120.1.1	ITAG_interpro	match	269	284	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc00g026880.1.1	ITAG_interpro	match	1	88	.	+	.	Name=IPR001787;Note=Ribosomal protein L21
+Solyc00g026870.1.1	ITAG_interpro	match	34	48	.	+	.	Name=IPR018261;Note=Ribosomal protein L27%2C conserved site
+Solyc00g026860.1.1	ITAG_interpro	match	9	371	.	+	.	Name=IPR005715;Note=Glutamate 5-kinase%2C ProB-related
+Solyc00g026160.1.1	ITAG_interpro	match	1	32	.	+	.	Name=IPR013130;Note=Ferric reductase-like transmembrane component%2C N-terminal
+Solyc00g025650.1.1	ITAG_interpro	match	230	247	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc00g025540.1.1	ITAG_interpro	match	160	365	.	+	.	Name=IPR005119;Note=LysR%2C substrate-binding
+Solyc00g025530.1.1	ITAG_interpro	match	15	240	.	+	.	Name=IPR001303;Note=Class II aldolase/adducin%2C N-terminal
+Solyc00g025510.1.1	ITAG_interpro	match	1	45	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc00g025500.1.1	ITAG_interpro	match	68	135	.	+	.	Name=IPR000524;Note=Bacterial regulatory protein GntR%2C HTH
+Solyc00g025300.1.1	ITAG_blastprodom	match	1	26	.	+	.	Name=PD020792;Note=Q6YSP4_BRANA_Q6YSP4
+Solyc00g024680.1.1	ITAG_interpro	match	65	138	.	+	.	Name=IPR003851;Note=Zinc finger%2C Dof-type
+Solyc00g024670.1.1	ITAG_interpro	match	53	384	.	+	.	Name=IPR003406;Note=Glycosyl transferase%2C family 14
+Solyc00g024570.1.1	ITAG_interpro	match	150	174	.	+	.	Name=IPR013101;Note=Leucine-rich repeat 2
+Solyc00g024160.1.1	ITAG_hmmpanther	match	244	279	.	+	.	Name=PTHR14493;Note=UNCHARACTERIZED
+Solyc00g024150.1.1	ITAG_interpro	match	25	208	.	+	.	Name=IPR001533;Note=Transcriptional coactivator/pterin dehydratase
+Solyc00g024050.1.1	ITAG_interpro	match	110	162	.	+	.	Name=IPR001327;Note=Pyridine nucleotide-disulphide oxidoreductase%2C NAD-binding region
+Solyc00g024040.1.1	ITAG_interpro	match	139	470	.	+	.	Name=IPR006283;Note=Thiamine-monophosphate kinase
+Solyc00g024030.1.1	ITAG_interpro	match	218	332	.	+	.	Name=IPR011650;Note=Peptidase M20%2C dimerisation
+Solyc00g024020.1.1	ITAG_interpro	match	1	279	.	+	.	Name=IPR000891;Note=Pyruvate carboxyltransferase
+Solyc00g024010.1.1	ITAG_interpro	match	11	86	.	+	.	Name=IPR002744;Note=Protein of unknown function DUF59
+Solyc00g023470.1.1	ITAG_interpro	match	36	348	.	+	.	Name=IPR012334;Note=Pectin lyase fold
+Solyc00g023270.1.1	ITAG_interpro	match	80	178	.	+	.	Name=IPR007220;Note=Origin recognition complex subunit 2
+Solyc00g023260.1.1	ITAG_hmmpanther	match	5	246	.	+	.	Name=PTHR23180;Note=CENTAURIN/ARF
+Solyc00g023250.1.1	ITAG_interpro	match	6	294	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc00g023050.1.1	ITAG_interpro	match	127	147	.	+	.	Name=IPR006694;Note=Fatty acid hydroxylase
+Solyc00g023040.1.1	ITAG_interpro	match	11	109	.	+	.	Name=IPR006694;Note=Fatty acid hydroxylase
+Solyc00g023020.1.1	ITAG_interpro	match	55	145	.	+	.	Name=IPR011054;Note=Rudiment single hybrid motif
+Solyc00g022920.1.1	ITAG_interpro	match	87	145	.	+	.	Name=IPR013817;Note=Pre-ATP-grasp fold
+Solyc00g022110.1.1	ITAG_interpro	match	3	180	.	+	.	Name=IPR002171;Note=Ribosomal protein L2
+Solyc00g021660.1.1	ITAG_interpro	match	12	73	.	+	.	Name=IPR006937;Note=Plant neutral invertase
+Solyc00g021640.1.1	ITAG_interpro	match	153	223	.	+	.	Name=IPR002942;Note=RNA-binding S4
+Solyc00g021630.1.1	ITAG_interpro	match	9	170	.	+	.	Name=IPR001457;Note=NADH:ubiquinone/plastoquinone oxidoreductase%2C chain 6
+Solyc00g021530.1.1	ITAG_superfamily	match	285	645	.	+	.	Name=SSF56300;Note=Metallo-dependent phosphatases
+Solyc00g021520.1.1	ITAG_interpro	match	200	321	.	+	.	Name=IPR002917;Note=GTP-binding protein%2C HSR1-related
+Solyc00g021510.1.1	ITAG_interpro	match	44	227	.	+	.	Name=IPR006153;Note=Cation/H+ exchanger
+Solyc00g021500.1.1	ITAG_interpro	match	2	200	.	+	.	Name=IPR016024;Note=Armadillo-type fold
+Solyc00g020990.1.1	ITAG_interpro	match	275	332	.	+	.	Name=IPR006689;Note=ARF/SAR superfamily
+Solyc00g020970.1.1	ITAG_interpro	match	428	460	.	+	.	Name=IPR018957;Note=Zinc finger%2C C3HC4 RING-type
+Solyc00g020940.1.1	ITAG_interpro	match	69	279	.	+	.	Name=IPR015429;Note=Transcription regulator cyclin
+Solyc00g020840.1.1	ITAG_interpro	match	156	215	.	+	.	Name=IPR013130;Note=Ferric reductase-like transmembrane component%2C N-terminal
+Solyc00g020540.1.1	ITAG_interpro	match	96	277	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g020040.1.1	ITAG_interpro	match	1	206	.	+	.	Name=IPR003544;Note=Cytochrome c-type biogenesis protein CcmB
+Solyc00g020020.1.1	ITAG_interpro	match	1	103	.	+	.	Name=IPR010916;Note=TonB box%2C conserved site
+Solyc00g019950.1.1	ITAG_interpro	match	112	133	.	+	.	Name=IPR020396;Note=NADH:ubiquinone oxidoreductase%2C 30 kDa subunit%2C conserved site
+Solyc00g019740.1.1	ITAG_interpro	match	93	140	.	+	.	Name=IPR009455;Note=Protein of unknown function DUF1082%2C plant mitochondria
+Solyc00g019730.1.1	ITAG_interpro	match	2	147	.	+	.	Name=IPR000298;Note=Cytochrome c oxidase%2C subunit III
+Solyc00g019620.1.1	ITAG_interpro	match	477	594	.	+	.	Name=IPR001478;Note=PDZ/DHR/GLGF
+Solyc00g018770.1.1	ITAG_interpro	match	114	338	.	+	.	Name=IPR017451;Note=F-box associated type 1
+Solyc00g017930.1.1	ITAG_interpro	match	5	23	.	+	.	Name=IPR000438;Note=Acetyl-CoA carboxylase carboxyl transferase%2C beta subunit
+Solyc00g017920.1.1	ITAG_interpro	match	1	355	.	+	.	Name=IPR006411;Note=Fructose-bisphosphate aldolase%2C class II%2C yeast/E. coli subtype
+Solyc00g017910.1.1	ITAG_interpro	match	241	369	.	+	.	Name=IPR017437;Note=ATP-NAD kinase%2C PpnK-type%2C all-beta
+Solyc00g017900.1.1	ITAG_superfamily	match	1	141	.	+	.	Name=SSF75217;Note=alpha/beta knot
+Solyc00g017890.1.1	ITAG_interpro	match	1	265	.	+	.	Name=IPR007913;Note=Uncharacterised protein family UPF0187
+Solyc00g017880.1.1	ITAG_interpro	match	326	396	.	+	.	Name=IPR007695;Note=DNA mismatch repair protein MutS-like%2C N-terminal
+Solyc00g017870.1.1	ITAG_superfamily	match	29	142	.	+	.	Name=SSF74653;Note=TolA/TonB C-terminal domain
+Solyc00g017860.1.1	ITAG_interpro	match	2	80	.	+	.	Name=IPR004792;Note=HI0933-like protein
+Solyc00g017550.1.1	ITAG_hmmpanther	match	8	98	.	+	.	Name=PTHR14094;Note=SIGNAL RECOGNITION PARTICLE 72
+Solyc00g017540.1.1	ITAG_hmmpanther	match	8	98	.	+	.	Name=PTHR14094;Note=SIGNAL RECOGNITION PARTICLE 72
+Solyc00g017530.1.1	ITAG_hmmpanther	match	1	54	.	+	.	Name=PTHR11439;Note=GAG-POL-RELATED RETROTRANSPOSON
+Solyc00g017230.1.1	ITAG_interpro	match	165	259	.	+	.	Name=IPR007117;Note=Pollen allergen/expansin%2C C-terminal
+Solyc00g017210.1.1	ITAG_interpro	match	85	441	.	+	.	Name=IPR004000;Note=Actin/actin-like
+Solyc00g016490.1.1	ITAG_superfamily	match	35	143	.	+	.	Name=SSF81383;Note=F-box domain
+Solyc00g016480.1.1	ITAG_hmmpanther	match	50	182	.	+	.	Name=PTHR11697;Note=GENERAL TRANSCRIPTION FACTOR 2-RELATED ZINC FINGER PROTEIN
+Solyc00g015770.1.1	ITAG_interpro	match	42	59	.	+	.	Name=IPR018170;Note=Aldo/keto reductase%2C conserved site
+Solyc00g015760.1.1	ITAG_interpro	match	25	53	.	+	.	Name=IPR011424;Note=C1-like
+Solyc00g015750.1.1	ITAG_interpro	match	42	59	.	+	.	Name=IPR018170;Note=Aldo/keto reductase%2C conserved site
+Solyc00g015740.1.1	ITAG_interpro	match	38	55	.	+	.	Name=IPR018170;Note=Aldo/keto reductase%2C conserved site
+Solyc00g015730.1.1	ITAG_interpro	match	39	66	.	+	.	Name=IPR007087;Note=Zinc finger%2C C2H2-type
+Solyc00g015720.1.1	ITAG_interpro	match	230	478	.	+	.	Name=IPR006740;Note=Protein of unknown function DUF604
+Solyc00g015000.1.1	ITAG_hmmpanther	match	18	158	.	+	.	Name=PTHR23068;Note=DNA (CYTOSINE-5-)-METHYLTRANSFERASE 3-RELATED
+Solyc00g014990.1.1	ITAG_interpro	match	25	97	.	+	.	Name=IPR007749;Note=Protein of unknown function DUF677
+Solyc00g014980.1.1	ITAG_interpro	match	366	469	.	+	.	Name=IPR016040;Note=NAD(P)-binding domain
+Solyc00g014970.1.1	ITAG_interpro	match	57	295	.	+	.	Name=IPR010285;Note=Protein of unknown function DUF889%2C eukaryote
+Solyc00g014960.1.1	ITAG_interpro	match	333	575	.	+	.	Name=IPR017451;Note=F-box associated type 1
+Solyc00g014830.1.1	ITAG_interpro	match	47	58	.	+	.	Name=IPR014029;Note=NADH:ubiquinone oxidoreductase%2C 49kDa subunit%2C conserved site
+Solyc00g014800.1.1	ITAG_interpro	match	48	75	.	+	.	Name=IPR007087;Note=Zinc finger%2C C2H2-type
+Solyc00g013180.1.1	ITAG_interpro	match	35	112	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc00g013140.1.1	ITAG_interpro	match	1	16	.	+	.	Name=IPR001516;Note=NADH:ubiquinone oxidoreductase%2C chain 5/L%2C N-terminal
+Solyc00g013130.1.1	ITAG_interpro	match	1	222	.	+	.	Name=IPR001750;Note=NADH:ubiquinone/plastoquinone oxidoreductase
+Solyc00g012700.1.1	ITAG_interpro	match	92	170	.	+	.	Name=IPR004330;Note=Transcription factor%2C FAR1-related
+Solyc00g012690.1.1	ITAG_interpro	match	439	488	.	+	.	Name=IPR003323;Note=Ovarian tumour%2C otubain
+Solyc00g012660.1.1	ITAG_superfamily	match	16	126	.	+	.	Name=SSF81383;Note=F-box domain
+Solyc00g012640.1.1	ITAG_interpro	match	97	143	.	+	.	Name=IPR009060;Note=UBA-like
+Solyc00g012310.1.1	ITAG_interpro	match	4	357	.	+	.	Name=IPR015706;Note=RNA-directed DNA polymerase (reverse transcriptase)%2C related
+Solyc00g011890.1.1	ITAG_interpro	match	905	1003	.	+	.	Name=IPR013750;Note=GHMP kinase%2C C-terminal
+Solyc00g011880.1.1	ITAG_interpro	match	13	112	.	+	.	Name=IPR009288;Note=AIG2-like
+Solyc00g011870.1.1	ITAG_interpro	match	44	100	.	+	.	Name=IPR014045;Note=Protein phosphatase 2C%2C N-terminal
+Solyc00g011660.1.1	ITAG_interpro	match	38	100	.	+	.	Name=IPR003340;Note=Transcriptional factor B3
+Solyc00g011560.1.1	ITAG_interpro	match	14	185	.	+	.	Name=IPR004162;Note=Seven in absentia protein
+Solyc00g011550.1.1	ITAG_interpro	match	18	113	.	+	.	Name=IPR003340;Note=Transcriptional factor B3
+Solyc00g011180.1.1	ITAG_interpro	match	8	35	.	+	.	Name=IPR018378;Note=C-type lectin%2C conserved site
+Solyc00g010930.1.1	ITAG_prosite	match	1	17	.	+	.	Name=PS51257;Note=PROKAR_LIPOPROTEIN
+Solyc00g010760.1.1	ITAG_interpro	match	12	98	.	+	.	Name=IPR010285;Note=Protein of unknown function DUF889%2C eukaryote
+Solyc00g010750.1.1	ITAG_superfamily	match	3	219	.	+	.	Name=SSF52540;Note=P-loop containing nucleoside triphosphate hydrolases
+Solyc00g010540.1.1	ITAG_interpro	match	15	196	.	+	.	Name=IPR000477;Note=RNA-directed DNA polymerase (reverse transcriptase)
+Solyc00g010210.1.1	ITAG_hmmpanther	match	64	162	.	+	.	Name=PTHR11439;Note=GAG-POL-RELATED RETROTRANSPOSON
+Solyc00g009540.1.1	ITAG_interpro	match	7	85	.	+	.	Name=IPR010285;Note=Protein of unknown function DUF889%2C eukaryote
+Solyc00g009140.1.1	ITAG_interpro	match	38	182	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc00g009130.1.1	ITAG_interpro	match	25	66	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc00g009120.1.1	ITAG_interpro	match	38	182	.	+	.	Name=IPR002198;Note=Short-chain dehydrogenase/reductase SDR
+Solyc00g009110.1.1	ITAG_interpro	match	73	632	.	+	.	Name=IPR005135;Note=Endonuclease/exonuclease/phosphatase
+Solyc00g009100.1.1	ITAG_interpro	match	288	360	.	+	.	Name=IPR003029;Note=Ribosomal protein S1%2C RNA binding domain
+Solyc00g009090.1.1	ITAG_interpro	match	132	155	.	+	.	Name=IPR003591;Note=Leucine-rich repeat%2C typical subtype
+Solyc00g009060.1.1	ITAG_hmmpanther	match	3	199	.	+	.	Name=PTHR22573;Note=PHOSPHOHEXOMUTASE FAMILY MEMBER
+Solyc00g009040.1.1	ITAG_interpro	match	137	209	.	+	.	Name=IPR003954;Note=RNA recognition%2C region 1
+Solyc00g009030.1.1	ITAG_interpro	match	1	382	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g008680.1.1	ITAG_interpro	match	287	315	.	+	.	Name=IPR018248;Note=EF hand
+Solyc00g008120.1.1	ITAG_interpro	match	97	107	.	+	.	Name=IPR000169;Note=Peptidase%2C cysteine peptidase active site
+Solyc00g007600.1.1	ITAG_gene3d	match	12	69	.	+	.	Name=G3DSA:1.10.150.20;Note=no description
+Solyc00g007570.1.1	ITAG_interpro	match	3	76	.	+	.	Name=IPR000743;Note=Glycoside hydrolase%2C family 28
+Solyc00g007560.1.1	ITAG_interpro	match	84	184	.	+	.	Name=IPR019557;Note=Aminotransferase-like%2C plant mobile domain
+Solyc00g007450.1.1	ITAG_interpro	match	180	208	.	+	.	Name=IPR000571;Note=Zinc finger%2C CCCH-type
+Solyc00g007330.1.1	ITAG_interpro	match	254	282	.	+	.	Name=IPR000571;Note=Zinc finger%2C CCCH-type
+Solyc00g007300.1.1	ITAG_interpro	match	262	282	.	+	.	Name=IPR001611;Note=Leucine-rich repeat
+Solyc00g007290.1.1	ITAG_interpro	match	1	160	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g007270.1.1	ITAG_interpro	match	1	245	.	+	.	Name=IPR002769;Note=Translation initiation factor IF6
+Solyc00g007260.1.1	ITAG_interpro	match	214	409	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g007250.1.1	ITAG_interpro	match	2	112	.	+	.	Name=IPR012337;Note=Ribonuclease H-like
+Solyc00g007230.1.1	ITAG_interpro	match	1	154	.	+	.	Name=IPR000477;Note=Reverse transcriptase
+Solyc00g007220.1.1	ITAG_interpro	match	106	154	.	+	.	Name=IPR013083;Note=Zinc finger%2C RING/FYVE/PHD-type
+Solyc00g007200.1.1	ITAG_interpro	match	9	453	.	+	.	Name=IPR004326;Note=Mlo-related protein
+Solyc00g007190.1.1	ITAG_interpro	match	102	347	.	+	.	Name=IPR014045;Note=Protein phosphatase 2C%2C N-terminal
+Solyc00g007180.1.1	ITAG_prosite	match	199	302	.	+	.	Name=PS51471;Note=FE2OG_OXY
+Solyc00g007130.1.1	ITAG_interpro	match	32	413	.	+	.	Name=IPR013057;Note=Amino acid transporter%2C transmembrane
+Solyc00g007120.1.1	ITAG_interpro	match	9	56	.	+	.	Name=IPR011992;Note=EF-hand-like domain
+Solyc00g007110.1.1	ITAG_interpro	match	9	87	.	+	.	Name=IPR011992;Note=EF-hand-like domain
+Solyc00g007100.1.1	ITAG_interpro	match	26	417	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc00g007090.1.1	ITAG_interpro	match	91	155	.	+	.	Name=IPR019328;Note=GPI-GlcNAc transferase complex%2C PIG-H component
+Solyc00g007080.1.1	ITAG_interpro	match	34	155	.	+	.	Name=IPR007514;Note=CHD5-like protein
+Solyc00g007070.1.1	ITAG_interpro	match	64	261	.	+	.	Name=IPR012677;Note=Nucleotide-binding%2C alpha-beta plait
+Solyc00g007060.1.1	ITAG_interpro	match	57	390	.	+	.	Name=IPR011009;Note=Protein kinase-like domain
+Solyc00g007040.1.1	ITAG_interpro	match	31	113	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc00g007030.1.1	ITAG_interpro	match	26	108	.	+	.	Name=IPR012336;Note=Thioredoxin-like fold
+Solyc00g007010.1.1	ITAG_interpro	match	52	445	.	+	.	Name=IPR002013;Note=Synaptojanin%2C N-terminal
+Solyc00g006820.1.1	ITAG_interpro	match	72	627	.	+	.	Name=IPR016196;Note=Major facilitator superfamily%2C general substrate transporter
+Solyc00g006810.1.1	ITAG_interpro	match	113	208	.	+	.	Name=IPR001179;Note=Peptidyl-prolyl cis-trans isomerase%2C FKBP-type
+Solyc00g006800.1.1	ITAG_interpro	match	102	424	.	+	.	Name=IPR001585;Note=Transaldolase
+Solyc00g006680.1.1	ITAG_prosite	match	1	27	.	+	.	Name=PS51257;Note=PROKAR_LIPOPROTEIN
+Solyc00g006600.1.1	ITAG_interpro	match	33	150	.	+	.	Name=IPR007021;Note=Domain of unknown function DUF659
+Solyc00g006560.1.1	ITAG_gene3d	match	273	415	.	+	.	Name=G3DSA:3.40.50.2000;Note=no description
+Solyc00g006550.1.1	ITAG_interpro	match	13	175	.	+	.	Name=IPR002213;Note=UDP-glucuronosyl/UDP-glucosyltransferase
+Solyc00g006490.1.1	ITAG_interpro	match	131	849	.	+	.	Name=IPR007587;Note=SIT4 phosphatase-associated protein
+Solyc00g006480.1.1	ITAG_interpro	match	5	157	.	+	.	Name=IPR002213;Note=UDP-glucuronosyl/UDP-glucosyltransferase
+Solyc00g006050.1.1	ITAG_interpro	match	11	130	.	+	.	Name=IPR001457;Note=NADH:ubiquinone/plastoquinone oxidoreductase%2C chain 6
+Solyc00g005900.1.1	ITAG_interpro	match	36	98	.	+	.	Name=IPR002628;Note=Photosystem II PsbO%2C manganese-stabilising
+Solyc00g005870.1.1	ITAG_interpro	match	193	209	.	+	.	Name=IPR001878;Note=Zinc finger%2C CCHC-type
+Solyc00g005860.1.1	ITAG_interpro	match	8	51	.	+	.	Name=IPR010666;Note=Zinc finger%2C GRF-type
+Solyc00g005840.1.1	ITAG_interpro	match	115	133	.	+	.	Name=IPR017937;Note=Thioredoxin%2C conserved site
+Solyc00g005480.1.1	ITAG_hmmpanther	match	4	49	.	+	.	Name=PTHR11621;Note=UBIQUITIN-CONJUGATING ENZYME E2
+Solyc00g005470.1.1	ITAG_interpro	match	51	118	.	+	.	Name=IPR022801;Note=Ribosomal protein S4/S9
+Solyc00g005460.1.1	ITAG_interpro	match	1	51	.	+	.	Name=IPR022801;Note=Ribosomal protein S4/S9
+Solyc00g005440.1.1	ITAG_interpro	match	96	139	.	+	.	Name=IPR002942;Note=RNA-binding S4
+Solyc00g005150.1.1	ITAG_interpro	match	47	162	.	+	.	Name=IPR007021;Note=Domain of unknown function DUF659
+Solyc00g005130.1.1	ITAG_interpro	match	26	90	.	+	.	Name=IPR003653;Note=Peptidase C48%2C SUMO/Sentrin/Ubl1
+Solyc00g005050.1.1	ITAG_superfamily	match	1	129	.	+	.	Name=SSF50729;Note=PH domain-like
+Solyc00g005040.1.1	ITAG_interpro	match	1	101	.	+	.	Name=IPR014710;Note=RmlC-like jelly roll fold
+Solyc00g005000.1.1	ITAG_interpro	match	98	466	.	+	.	Name=IPR001461;Note=Peptidase A1

@@ -1,0 +1,267 @@
+##gff-version 3
+##sequence-region SL2.40ch01 1 90304244
+SL2.40ch01	ITAG_eugene	gene	80999140	81004317	.	+	.	Alias=Solyc01g098840;ID=gene:Solyc01g098840.2;Name=Solyc01g098840.2;from_BOGAS=1;length=5178
+SL2.40ch01	ITAG_eugene	mRNA	80999140	81004317	.	+	.	ID=mRNA:Solyc01g098840.2.1;Name=Solyc01g098840.2.1;Note=Mevalonate kinase (AHRD V1 **** Q944G2_HEVBR)%3B contains Interpro domain(s)  IPR006205  Mevalonate kinase;Ontology_term=GO:0004496;Parent=gene:Solyc01g098840.2;from_BOGAS=1;interpro2go_term=GO:0016310,GO:0005524,GO:0005737;length=5178;nb_exon=5;sifter_term=GO:0004496
+SL2.40ch01	ITAG_eugene	exon	80999140	80999496	.	+	.	ID=exon:Solyc01g098840.2.1.1;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	five_prime_UTR	80999140	80999363	.	+	.	ID=five_prime_UTR:Solyc01g098840.2.1.0;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	80999364	80999496	.	+	0	ID=CDS:Solyc01g098840.2.1.1;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	80999497	81000282	.	+	.	ID=intron:Solyc01g098840.2.1.1;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81000283	81000520	.	+	0	ID=exon:Solyc01g098840.2.1.2;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81000283	81000520	.	+	2	ID=CDS:Solyc01g098840.2.1.2;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81000521	81000612	.	+	.	ID=intron:Solyc01g098840.2.1.2;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81000613	81000866	.	+	2	ID=exon:Solyc01g098840.2.1.3;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81000613	81000866	.	+	1	ID=CDS:Solyc01g098840.2.1.3;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81000867	81002583	.	+	.	ID=intron:Solyc01g098840.2.1.3;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81002584	81002997	.	+	1	ID=exon:Solyc01g098840.2.1.4;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81002584	81002997	.	+	2	ID=CDS:Solyc01g098840.2.1.4;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81002998	81003923	.	+	.	ID=intron:Solyc01g098840.2.1.4;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81003924	81004317	.	+	2	ID=exon:Solyc01g098840.2.1.5;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81003924	81004063	.	+	2	ID=CDS:Solyc01g098840.2.1.5;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	three_prime_UTR	81004064	81004317	.	+	.	ID=three_prime_UTR:Solyc01g098840.2.1.0;Parent=mRNA:Solyc01g098840.2.1;from_BOGAS=1
+###
+SL2.40ch01	ITAG_eugene	gene	81004479	81006268	.	-	.	Alias=Solyc01g098850;ID=gene:Solyc01g098850.2;Name=Solyc01g098850.2;from_BOGAS=1;length=1790
+SL2.40ch01	ITAG_eugene	mRNA	81004479	81006268	.	-	.	ID=mRNA:Solyc01g098850.2.1;Name=Solyc01g098850.2.1;Note=Short-chain dehydrogenase/reductase family protein (AHRD V1 ***- D7L3S3_ARALY)%3B contains Interpro domain(s)  IPR002347  Glucose/ribitol dehydrogenase;Ontology_term=GO:0008152,GO:0055114;Parent=gene:Solyc01g098850.2;from_BOGAS=1;interpro2go_term=GO:0008152,GO:0055114;length=1790;nb_exon=4
+SL2.40ch01	ITAG_eugene	exon	81004479	81004659	.	-	.	ID=exon:Solyc01g098850.2.1.4;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	three_prime_UTR	81004479	81004636	.	-	.	ID=three_prime_UTR:Solyc01g098850.2.1.0;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81004637	81004659	.	-	2	ID=CDS:Solyc01g098850.2.1.4;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81004660	81004760	.	-	.	ID=intron:Solyc01g098850.2.1.4;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81004761	81005119	.	-	2	ID=exon:Solyc01g098850.2.1.3;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81004761	81005119	.	-	1	ID=CDS:Solyc01g098850.2.1.3;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81005120	81005212	.	-	.	ID=intron:Solyc01g098850.2.1.3;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81005213	81005589	.	-	1	ID=exon:Solyc01g098850.2.1.2;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81005213	81005589	.	-	0	ID=CDS:Solyc01g098850.2.1.2;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81005590	81005960	.	-	.	ID=intron:Solyc01g098850.2.1.2;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81005961	81006268	.	-	0	ID=exon:Solyc01g098850.2.1.1;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81005961	81006224	.	-	0	ID=CDS:Solyc01g098850.2.1.1;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	five_prime_UTR	81006225	81006268	.	-	.	ID=five_prime_UTR:Solyc01g098850.2.1.0;Parent=mRNA:Solyc01g098850.2.1;from_BOGAS=1
+###
+SL2.40ch01	ITAG_eugene	gene	81006669	81008534	.	+	.	Alias=Solyc01g098860;ID=gene:Solyc01g098860.2;Name=Solyc01g098860.2;from_BOGAS=1;length=1866
+SL2.40ch01	ITAG_eugene	mRNA	81006669	81008534	.	+	.	ID=mRNA:Solyc01g098860.2.1;Name=Solyc01g098860.2.1;Note=Uncharacterized GPI-anchored protein At3g06035 (AHRD V1 ***- UGPI4_ARATH);Parent=gene:Solyc01g098860.2;from_BOGAS=1;length=1866;nb_exon=2
+SL2.40ch01	ITAG_eugene	exon	81006669	81006873	.	+	.	ID=exon:Solyc01g098860.2.1.1;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	five_prime_UTR	81006669	81006791	.	+	.	ID=five_prime_UTR:Solyc01g098860.2.1.0;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81006792	81006873	.	+	0	ID=CDS:Solyc01g098860.2.1.1;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	intron	81006874	81007940	.	+	.	ID=intron:Solyc01g098860.2.1.1;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	exon	81007941	81008534	.	+	0	ID=exon:Solyc01g098860.2.1.2;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	CDS	81007941	81008440	.	+	2	ID=CDS:Solyc01g098860.2.1.2;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+SL2.40ch01	ITAG_eugene	three_prime_UTR	81008441	81008534	.	+	.	ID=three_prime_UTR:Solyc01g098860.2.1.0;Parent=mRNA:Solyc01g098860.2.1;from_BOGAS=1
+###
+##sequence-region SL2.40ch02 1 49918294
+SL2.40ch02	ITAG_eugene	gene	32160671	32162251	.	+	.	Alias=Solyc02g067380;ID=gene:Solyc02g067380.2;Name=Solyc02g067380.2;from_BOGAS=1;length=1581
+SL2.40ch02	ITAG_eugene	mRNA	32160671	32162251	.	+	.	ID=mRNA:Solyc02g067380.2.1;Name=Solyc02g067380.2.1;Note=Transcription factor style2.1 (AHRD V1 **-* B6CG45_SOLPN)%3B contains Interpro domain(s)  IPR001092  Basic helix-loop-helix dimerisation region bHLH;Ontology_term=GO:0003700;Parent=gene:Solyc02g067380.2;from_BOGAS=1;interpro2go_term=GO:0045449;length=1581;nb_exon=2;sifter_term=GO:0003700
+SL2.40ch02	ITAG_eugene	exon	32160671	32160802	.	+	0	ID=exon:Solyc02g067380.2.1.1;Parent=mRNA:Solyc02g067380.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32160671	32160802	.	+	0	ID=CDS:Solyc02g067380.2.1.1;Parent=mRNA:Solyc02g067380.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32160803	32161879	.	+	.	ID=intron:Solyc02g067380.2.1.1;Parent=mRNA:Solyc02g067380.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32161880	32162251	.	+	0	ID=exon:Solyc02g067380.2.1.2;Parent=mRNA:Solyc02g067380.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32161880	32162032	.	+	0	ID=CDS:Solyc02g067380.2.1.2;Parent=mRNA:Solyc02g067380.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	three_prime_UTR	32162033	32162251	.	+	.	ID=three_prime_UTR:Solyc02g067380.2.1.0;Parent=mRNA:Solyc02g067380.2.1;from_BOGAS=1
+###
+SL2.40ch02	ITAG_eugene	gene	32170896	32174750	.	+	.	Alias=Solyc02g067390;ID=gene:Solyc02g067390.2;Name=Solyc02g067390.2;from_BOGAS=1;length=3855
+SL2.40ch02	ITAG_eugene	mRNA	32170896	32174750	.	+	.	ID=mRNA:Solyc02g067390.2.1;Name=Solyc02g067390.2.1;Note=RNA recognition motif containing protein (AHRD V1 **-- B6T581_MAIZE)%3B contains Interpro domain(s)  IPR001395  Aldo/keto reductase;Ontology_term=GO:0003676,GO:0000166,GO:0055114;Parent=gene:Solyc02g067390.2;from_BOGAS=1;interpro2go_term=GO:0003676,GO:0000166,GO:0055114;length=3855;nb_exon=4
+SL2.40ch02	ITAG_eugene	exon	32170896	32171011	.	+	0	ID=exon:Solyc02g067390.2.1.1;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32170896	32171011	.	+	0	ID=CDS:Solyc02g067390.2.1.1;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32171012	32171559	.	+	.	ID=intron:Solyc02g067390.2.1.1;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32171560	32171635	.	+	1	ID=exon:Solyc02g067390.2.1.2;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32171560	32171635	.	+	1	ID=CDS:Solyc02g067390.2.1.2;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32171636	32173118	.	+	.	ID=intron:Solyc02g067390.2.1.2;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32173119	32173232	.	+	0	ID=exon:Solyc02g067390.2.1.3;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32173119	32173232	.	+	0	ID=CDS:Solyc02g067390.2.1.3;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32173233	32173985	.	+	.	ID=intron:Solyc02g067390.2.1.3;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32173986	32174750	.	+	0	ID=exon:Solyc02g067390.2.1.4;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32173986	32174447	.	+	0	ID=CDS:Solyc02g067390.2.1.4;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	three_prime_UTR	32174448	32174750	.	+	.	ID=three_prime_UTR:Solyc02g067390.2.1.0;Parent=mRNA:Solyc02g067390.2.1;from_BOGAS=1
+###
+SL2.40ch02	ITAG_eugene	gene	32175252	32176230	.	-	.	Alias=Solyc02g067400;ID=gene:Solyc02g067400.1;Name=Solyc02g067400.1;from_BOGAS=1;length=979
+SL2.40ch02	ITAG_eugene	mRNA	32175252	32176230	.	-	.	ID=mRNA:Solyc02g067400.1.1;Name=Solyc02g067400.1.1;Note=Glutaredoxin family protein (AHRD V1 *-*- D7MJF8_ARALY)%3B contains Interpro domain(s)  IPR012335  Thioredoxin fold;Ontology_term=GO:0045454;Parent=gene:Solyc02g067400.1;eugene_evidence_code=10F0H1E0IEG;from_BOGAS=1;interpro2go_term=GO:0045454;length=979;nb_exon=3
+SL2.40ch02	ITAG_eugene	exon	32175252	32175480	.	-	1	ID=exon:Solyc02g067400.1.1.3;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32175252	32175480	.	-	1	ID=CDS:Solyc02g067400.1.1.3;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32175481	32175533	.	-	.	ID=intron:Solyc02g067400.1.1.3;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32175534	32175862	.	-	0	ID=exon:Solyc02g067400.1.1.2;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32175534	32175862	.	-	0	ID=CDS:Solyc02g067400.1.1.2;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32175863	32175933	.	-	.	ID=intron:Solyc02g067400.1.1.2;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32175934	32176230	.	-	0	ID=exon:Solyc02g067400.1.1.1;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32175934	32176230	.	-	0	ID=CDS:Solyc02g067400.1.1.1;Parent=mRNA:Solyc02g067400.1.1;from_BOGAS=1
+###
+SL2.40ch02	ITAG_eugene	gene	32180008	32182041	.	+	.	Alias=Solyc02g067410;ID=gene:Solyc02g067410.1;Name=Solyc02g067410.1;from_BOGAS=1;length=2034
+SL2.40ch02	ITAG_eugene	mRNA	32180008	32182041	.	+	.	ID=mRNA:Solyc02g067410.1.1;Name=Solyc02g067410.1.1;Note=Homeobox-leucine zipper-like protein (AHRD V1 *-*- Q3HRT1_PICGL)%3B contains Interpro domain(s)  IPR001356  Homeobox;Ontology_term=GO:0043565;Parent=gene:Solyc02g067410.1;eugene_evidence_code=10F0H1E1IEG;from_BOGAS=1;interpro2go_term=GO:0005634,GO:0006355,GO:0045449;length=2034;nb_exon=3;sifter_term=GO:0043565
+SL2.40ch02	ITAG_eugene	exon	32180008	32180089	.	+	0	ID=exon:Solyc02g067410.1.1.1;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32180008	32180089	.	+	0	ID=CDS:Solyc02g067410.1.1.1;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32180090	32180532	.	+	.	ID=intron:Solyc02g067410.1.1.1;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32180533	32180909	.	+	2	ID=exon:Solyc02g067410.1.1.2;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32180533	32180909	.	+	2	ID=CDS:Solyc02g067410.1.1.2;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32180910	32181708	.	+	.	ID=intron:Solyc02g067410.1.1.2;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32181709	32182041	.	+	0	ID=exon:Solyc02g067410.1.1.3;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32181709	32182041	.	+	0	ID=CDS:Solyc02g067410.1.1.3;Parent=mRNA:Solyc02g067410.1.1;from_BOGAS=1
+###
+SL2.40ch02	ITAG_eugene	gene	32182792	32187156	.	-	.	Alias=Solyc02g067420;ID=gene:Solyc02g067420.2;Name=Solyc02g067420.2;from_BOGAS=1;length=4365
+SL2.40ch02	ITAG_eugene	mRNA	32182792	32187156	.	-	.	ID=mRNA:Solyc02g067420.2.1;Name=Solyc02g067420.2.1;Note=Ubiquitin-conjugating enzyme E2 2 (AHRD V1 ***- UBC2_WHEAT)%3B contains Interpro domain(s)  IPR000608  Ubiquitin-conjugating enzyme%2C E2;Ontology_term=GO:0043687;Parent=gene:Solyc02g067420.2;from_BOGAS=1;interpro2go_term=GO:0043687;length=4365;nb_exon=6
+SL2.40ch02	ITAG_eugene	exon	32182792	32183187	.	-	.	ID=exon:Solyc02g067420.2.1.6;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	three_prime_UTR	32182792	32183058	.	-	.	ID=three_prime_UTR:Solyc02g067420.2.1.0;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32183059	32183187	.	-	0	ID=CDS:Solyc02g067420.2.1.6;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32183188	32183980	.	-	.	ID=intron:Solyc02g067420.2.1.6;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32183981	32184069	.	-	0	ID=exon:Solyc02g067420.2.1.5;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32183981	32184069	.	-	2	ID=CDS:Solyc02g067420.2.1.5;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32184070	32184982	.	-	.	ID=intron:Solyc02g067420.2.1.5;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32184983	32185072	.	-	2	ID=exon:Solyc02g067420.2.1.4;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32184983	32185072	.	-	2	ID=CDS:Solyc02g067420.2.1.4;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32185073	32185713	.	-	.	ID=intron:Solyc02g067420.2.1.4;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32185714	32185739	.	-	2	ID=exon:Solyc02g067420.2.1.3;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32185714	32185739	.	-	1	ID=CDS:Solyc02g067420.2.1.3;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32185740	32185862	.	-	.	ID=intron:Solyc02g067420.2.1.3;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32185863	32186000	.	-	1	ID=exon:Solyc02g067420.2.1.2;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32185863	32185987	.	-	0	ID=CDS:Solyc02g067420.2.1.2;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	five_prime_UTR	32185988	32186000	.	-	.	ID=five_prime_UTR:Solyc02g067420.2.1.0;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32186001	32186977	.	-	.	ID=intron:Solyc02g067420.2.1.2;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32186978	32187156	.	-	0	ID=exon:Solyc02g067420.2.1.1;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	five_prime_UTR	32186978	32187156	.	-	.	ID=five_prime_UTR:Solyc02g067420.2.1.1;Parent=mRNA:Solyc02g067420.2.1;from_BOGAS=1
+###
+SL2.40ch02	ITAG_eugene	gene	32190832	32193017	.	-	.	Alias=Solyc02g067430;ID=gene:Solyc02g067430.2;Name=Solyc02g067430.2;from_BOGAS=1;length=2186
+SL2.40ch02	ITAG_eugene	mRNA	32190832	32193017	.	-	.	ID=mRNA:Solyc02g067430.2.1;Name=Solyc02g067430.2.1;Note=WRKY transcription factor 73 (AHRD V1 *-*- Q6IEK8_ORYSI)%3B contains Interpro domain(s)  IPR003657  DNA-binding WRKY;Ontology_term=GO:0045449;Parent=gene:Solyc02g067430.2;from_BOGAS=1;interpro2go_term=GO:0045449;length=2186;nb_exon=3
+SL2.40ch02	ITAG_eugene	exon	32190832	32191589	.	-	.	ID=exon:Solyc02g067430.2.1.3;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	three_prime_UTR	32190832	32190875	.	-	.	ID=three_prime_UTR:Solyc02g067430.2.1.0;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32190876	32191589	.	-	0	ID=CDS:Solyc02g067430.2.1.3;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32191590	32191908	.	-	.	ID=intron:Solyc02g067430.2.1.3;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32191909	32192442	.	-	0	ID=exon:Solyc02g067430.2.1.2;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32191909	32192442	.	-	0	ID=CDS:Solyc02g067430.2.1.2;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32192443	32192942	.	-	.	ID=intron:Solyc02g067430.2.1.2;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32192943	32193017	.	-	0	ID=exon:Solyc02g067430.2.1.1;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32192943	32193017	.	-	0	ID=CDS:Solyc02g067430.2.1.1;Parent=mRNA:Solyc02g067430.2.1;from_BOGAS=1
+###
+SL2.40ch02	ITAG_eugene	gene	32204041	32207715	.	-	.	Alias=Solyc02g067440;ID=gene:Solyc02g067440.2;Name=Solyc02g067440.2;from_BOGAS=1;length=3675
+SL2.40ch02	ITAG_eugene	mRNA	32204041	32207715	.	-	.	ID=mRNA:Solyc02g067440.2.1;Name=Solyc02g067440.2.1;Note=Cupin RmlC-type (AHRD V1 **-- B4F886_MAIZE)%3B contains Interpro domain(s)  IPR012864  Protein of unknown function DUF1637;Ontology_term=GO:0055114;Parent=gene:Solyc02g067440.2;from_BOGAS=1;interpro2go_term=GO:0055114;length=3675;nb_exon=5
+SL2.40ch02	ITAG_eugene	exon	32204041	32204390	.	-	.	ID=exon:Solyc02g067440.2.1.5;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	three_prime_UTR	32204041	32204271	.	-	.	ID=three_prime_UTR:Solyc02g067440.2.1.0;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32204272	32204390	.	-	2	ID=CDS:Solyc02g067440.2.1.5;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32204391	32204935	.	-	.	ID=intron:Solyc02g067440.2.1.5;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32204936	32205154	.	-	2	ID=exon:Solyc02g067440.2.1.4;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32204936	32205154	.	-	2	ID=CDS:Solyc02g067440.2.1.4;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32205155	32205408	.	-	.	ID=intron:Solyc02g067440.2.1.4;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32205409	32205556	.	-	2	ID=exon:Solyc02g067440.2.1.3;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32205409	32205556	.	-	0	ID=CDS:Solyc02g067440.2.1.3;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32205557	32205715	.	-	.	ID=intron:Solyc02g067440.2.1.3;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32205716	32205834	.	-	0	ID=exon:Solyc02g067440.2.1.2;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32205716	32205834	.	-	2	ID=CDS:Solyc02g067440.2.1.2;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	intron	32205835	32207369	.	-	.	ID=intron:Solyc02g067440.2.1.2;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	exon	32207370	32207715	.	-	2	ID=exon:Solyc02g067440.2.1.1;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	CDS	32207370	32207553	.	-	0	ID=CDS:Solyc02g067440.2.1.1;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+SL2.40ch02	ITAG_eugene	five_prime_UTR	32207554	32207715	.	-	.	ID=five_prime_UTR:Solyc02g067440.2.1.0;Parent=mRNA:Solyc02g067440.2.1;from_BOGAS=1
+###
+###
+SL2.40ch03	ITAG_eugene	gene	64390438	64393324	.	+	.	Alias=Solyc03g123510;ID=gene:Solyc03g123510.1;Name=Solyc03g123510.1;from_BOGAS=1;length=2887
+SL2.40ch03	ITAG_eugene	mRNA	64390438	64393324	.	+	.	ID=mRNA:Solyc03g123510.1.1;Name=Solyc03g123510.1.1;Note=Harpin-induced protein (AHRD V1 *--- B4FP99_MAIZE)%3B contains Interpro domain(s)  IPR010847  Harpin-induced 1;Parent=gene:Solyc03g123510.1;eugene_evidence_code=10F0H0E0IEG;from_BOGAS=1;length=2887;nb_exon=4
+SL2.40ch03	ITAG_eugene	exon	64390438	64390971	.	+	0	ID=exon:Solyc03g123510.1.1.1;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64390438	64390971	.	+	0	ID=CDS:Solyc03g123510.1.1.1;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64390972	64391145	.	+	.	ID=intron:Solyc03g123510.1.1.1;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64391146	64391238	.	+	0	ID=exon:Solyc03g123510.1.1.2;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64391146	64391238	.	+	0	ID=CDS:Solyc03g123510.1.1.2;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64391239	64392122	.	+	.	ID=intron:Solyc03g123510.1.1.2;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64392123	64392215	.	+	0	ID=exon:Solyc03g123510.1.1.3;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64392123	64392215	.	+	0	ID=CDS:Solyc03g123510.1.1.3;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64392216	64393189	.	+	.	ID=intron:Solyc03g123510.1.1.3;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64393190	64393324	.	+	0	ID=exon:Solyc03g123510.1.1.4;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64393190	64393324	.	+	0	ID=CDS:Solyc03g123510.1.1.4;Parent=mRNA:Solyc03g123510.1.1;from_BOGAS=1
+###
+SL2.40ch03	ITAG_eugene	gene	64397000	64404700	.	+	.	Alias=Solyc03g123520;ID=gene:Solyc03g123520.2;Name=Solyc03g123520.2;from_BOGAS=1;length=7701
+SL2.40ch03	ITAG_eugene	mRNA	64397000	64404700	.	+	.	ID=mRNA:Solyc03g123520.2.1;Name=Solyc03g123520.2.1;Note=Polyphosphoinositide phosphatase (AHRD V1 ***- C1H752_PARBA)%3B contains Interpro domain(s)  IPR002013  Synaptojanin%2C N-terminal;Ontology_term=GO:0005515;Parent=gene:Solyc03g123520.2;from_BOGAS=1;length=7701;nb_exon=16;sifter_term=GO:0005515
+SL2.40ch03	ITAG_eugene	exon	64397000	64397392	.	+	.	ID=exon:Solyc03g123520.2.1.1;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	five_prime_UTR	64397000	64397296	.	+	.	ID=five_prime_UTR:Solyc03g123520.2.1.0;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64397297	64397392	.	+	0	ID=CDS:Solyc03g123520.2.1.1;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64397393	64398102	.	+	.	ID=intron:Solyc03g123520.2.1.1;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64398103	64398307	.	+	0	ID=exon:Solyc03g123520.2.1.2;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64398103	64398307	.	+	0	ID=CDS:Solyc03g123520.2.1.2;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64398308	64398400	.	+	.	ID=intron:Solyc03g123520.2.1.2;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64398401	64398566	.	+	0	ID=exon:Solyc03g123520.2.1.3;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64398401	64398566	.	+	2	ID=CDS:Solyc03g123520.2.1.3;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64398567	64399119	.	+	.	ID=intron:Solyc03g123520.2.1.3;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64399120	64399342	.	+	2	ID=exon:Solyc03g123520.2.1.4;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64399120	64399342	.	+	1	ID=CDS:Solyc03g123520.2.1.4;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64399343	64399497	.	+	.	ID=intron:Solyc03g123520.2.1.4;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64399498	64399574	.	+	1	ID=exon:Solyc03g123520.2.1.5;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64399498	64399574	.	+	0	ID=CDS:Solyc03g123520.2.1.5;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64399575	64399828	.	+	.	ID=intron:Solyc03g123520.2.1.5;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64399829	64400016	.	+	0	ID=exon:Solyc03g123520.2.1.6;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64399829	64400016	.	+	1	ID=CDS:Solyc03g123520.2.1.6;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64400017	64400090	.	+	.	ID=intron:Solyc03g123520.2.1.6;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64400091	64400188	.	+	1	ID=exon:Solyc03g123520.2.1.7;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64400091	64400188	.	+	2	ID=CDS:Solyc03g123520.2.1.7;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64400189	64400301	.	+	.	ID=intron:Solyc03g123520.2.1.7;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64400302	64400435	.	+	2	ID=exon:Solyc03g123520.2.1.8;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64400302	64400435	.	+	0	ID=CDS:Solyc03g123520.2.1.8;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64400436	64400539	.	+	.	ID=intron:Solyc03g123520.2.1.8;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64400540	64400668	.	+	0	ID=exon:Solyc03g123520.2.1.9;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64400540	64400668	.	+	1	ID=CDS:Solyc03g123520.2.1.9;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64400669	64400828	.	+	.	ID=intron:Solyc03g123520.2.1.9;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64400829	64401150	.	+	1	ID=exon:Solyc03g123520.2.1.10;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64400829	64401150	.	+	1	ID=CDS:Solyc03g123520.2.1.10;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64401151	64401459	.	+	.	ID=intron:Solyc03g123520.2.1.10;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64401460	64401581	.	+	1	ID=exon:Solyc03g123520.2.1.11;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64401460	64401581	.	+	0	ID=CDS:Solyc03g123520.2.1.11;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64401582	64401687	.	+	.	ID=intron:Solyc03g123520.2.1.11;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64401688	64401801	.	+	0	ID=exon:Solyc03g123520.2.1.12;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64401688	64401801	.	+	1	ID=CDS:Solyc03g123520.2.1.12;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64401802	64402308	.	+	.	ID=intron:Solyc03g123520.2.1.12;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64402309	64402500	.	+	1	ID=exon:Solyc03g123520.2.1.13;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64402309	64402500	.	+	1	ID=CDS:Solyc03g123520.2.1.13;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64402501	64402994	.	+	.	ID=intron:Solyc03g123520.2.1.13;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64402995	64403171	.	+	1	ID=exon:Solyc03g123520.2.1.14;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64402995	64403171	.	+	1	ID=CDS:Solyc03g123520.2.1.14;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64403172	64403753	.	+	.	ID=intron:Solyc03g123520.2.1.14;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64403754	64403859	.	+	1	ID=exon:Solyc03g123520.2.1.15;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64403754	64403859	.	+	1	ID=CDS:Solyc03g123520.2.1.15;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64403860	64404244	.	+	.	ID=intron:Solyc03g123520.2.1.15;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64404245	64404700	.	+	1	ID=exon:Solyc03g123520.2.1.16;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64404245	64404364	.	+	0	ID=CDS:Solyc03g123520.2.1.16;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	three_prime_UTR	64404365	64404700	.	+	.	ID=three_prime_UTR:Solyc03g123520.2.1.0;Parent=mRNA:Solyc03g123520.2.1;from_BOGAS=1
+###
+SL2.40ch03	ITAG_eugene	gene	64408487	64419085	.	+	.	Alias=Solyc03g123530;ID=gene:Solyc03g123530.2;Name=Solyc03g123530.2;from_BOGAS=1;length=10599
+SL2.40ch03	ITAG_eugene	mRNA	64408487	64419085	.	+	.	ID=mRNA:Solyc03g123530.2.1;Name=Solyc03g123530.2.1;Note=CCAAT-box-binding transcription factor-like protein (AHRD V1 **** Q6YU01_ORYSJ)%3B contains Interpro domain(s)  IPR005612  CCAAT-binding factor;Ontology_term=GO:0005515,GO:0003677;Parent=gene:Solyc03g123530.2;from_BOGAS=1;length=10599;nb_exon=16;sifter_term=GO:0005515,GO:0003677
+SL2.40ch03	ITAG_eugene	exon	64408487	64409263	.	+	.	ID=exon:Solyc03g123530.2.1.1;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	five_prime_UTR	64408487	64408605	.	+	.	ID=five_prime_UTR:Solyc03g123530.2.1.0;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64408606	64409263	.	+	0	ID=CDS:Solyc03g123530.2.1.1;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64409264	64410180	.	+	.	ID=intron:Solyc03g123530.2.1.1;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64410181	64410256	.	+	0	ID=exon:Solyc03g123530.2.1.2;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64410181	64410256	.	+	2	ID=CDS:Solyc03g123530.2.1.2;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64410257	64410347	.	+	.	ID=intron:Solyc03g123530.2.1.2;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64410348	64410467	.	+	2	ID=exon:Solyc03g123530.2.1.3;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64410348	64410467	.	+	1	ID=CDS:Solyc03g123530.2.1.3;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64410468	64411011	.	+	.	ID=intron:Solyc03g123530.2.1.3;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64411012	64411087	.	+	1	ID=exon:Solyc03g123530.2.1.4;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64411012	64411087	.	+	1	ID=CDS:Solyc03g123530.2.1.4;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64411088	64411898	.	+	.	ID=intron:Solyc03g123530.2.1.4;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64411899	64411967	.	+	1	ID=exon:Solyc03g123530.2.1.5;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64411899	64411967	.	+	0	ID=CDS:Solyc03g123530.2.1.5;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64411968	64412065	.	+	.	ID=intron:Solyc03g123530.2.1.5;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64412066	64412146	.	+	0	ID=exon:Solyc03g123530.2.1.6;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64412066	64412146	.	+	0	ID=CDS:Solyc03g123530.2.1.6;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64412147	64412738	.	+	.	ID=intron:Solyc03g123530.2.1.6;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64412739	64412810	.	+	0	ID=exon:Solyc03g123530.2.1.7;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64412739	64412810	.	+	0	ID=CDS:Solyc03g123530.2.1.7;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64412811	64413344	.	+	.	ID=intron:Solyc03g123530.2.1.7;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64413345	64413437	.	+	0	ID=exon:Solyc03g123530.2.1.8;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64413345	64413437	.	+	0	ID=CDS:Solyc03g123530.2.1.8;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64413438	64413605	.	+	.	ID=intron:Solyc03g123530.2.1.8;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64413606	64413758	.	+	0	ID=exon:Solyc03g123530.2.1.9;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64413606	64413758	.	+	0	ID=CDS:Solyc03g123530.2.1.9;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64413759	64414396	.	+	.	ID=intron:Solyc03g123530.2.1.9;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64414397	64414480	.	+	0	ID=exon:Solyc03g123530.2.1.10;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64414397	64414480	.	+	0	ID=CDS:Solyc03g123530.2.1.10;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64414481	64414578	.	+	.	ID=intron:Solyc03g123530.2.1.10;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64414579	64414722	.	+	0	ID=exon:Solyc03g123530.2.1.11;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64414579	64414722	.	+	0	ID=CDS:Solyc03g123530.2.1.11;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64414723	64416256	.	+	.	ID=intron:Solyc03g123530.2.1.11;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64416257	64416346	.	+	0	ID=exon:Solyc03g123530.2.1.12;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64416257	64416346	.	+	0	ID=CDS:Solyc03g123530.2.1.12;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64416347	64416855	.	+	.	ID=intron:Solyc03g123530.2.1.12;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64416856	64416938	.	+	0	ID=exon:Solyc03g123530.2.1.13;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64416856	64416938	.	+	0	ID=CDS:Solyc03g123530.2.1.13;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64416939	64417033	.	+	.	ID=intron:Solyc03g123530.2.1.13;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64417034	64417390	.	+	0	ID=exon:Solyc03g123530.2.1.14;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64417034	64417390	.	+	1	ID=CDS:Solyc03g123530.2.1.14;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64417391	64417771	.	+	.	ID=intron:Solyc03g123530.2.1.14;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64417772	64417994	.	+	1	ID=exon:Solyc03g123530.2.1.15;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64417772	64417994	.	+	1	ID=CDS:Solyc03g123530.2.1.15;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	intron	64417995	64418109	.	+	.	ID=intron:Solyc03g123530.2.1.15;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	exon	64418110	64419085	.	+	1	ID=exon:Solyc03g123530.2.1.16;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	CDS	64418110	64418880	.	+	0	ID=CDS:Solyc03g123530.2.1.16;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+SL2.40ch03	ITAG_eugene	three_prime_UTR	64418881	64419085	.	+	.	ID=three_prime_UTR:Solyc03g123530.2.1.0;Parent=mRNA:Solyc03g123530.2.1;from_BOGAS=1
+###
+###
