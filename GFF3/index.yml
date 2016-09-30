@@ -41,11 +41,17 @@
   valid: true
   origin: gff3-pltools
 - filename: spec_match.gff3
-  valid: true
+  valid: false
   origin: gff3-pltools
+  comments: |
+      Positive example in pltools, but it's not clear that the specification
+      allows fields beyond attributes.
 - filename: tomato_chr4_head.gff3
-  valid: true
+  valid: false
   origin: gff3-pltools
+  comments: |
+      Positive example in pltools, but it's not clear that the specification
+      allows trailing tab characters after attributes.
 - filename: tomato_test.gff3
   valid: true
   origin: gff3-pltools
