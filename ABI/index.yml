@@ -1,0 +1,24 @@
+- filename: 310.ab1
+  valid: true
+  origin: biopython
+  tags:
+- filename: 3100.ab1
+  valid: true
+  origin: biopython
+  tags:
+- filename: 3730.ab1
+  valid: true
+  origin: biopython
+  tags:
+- filename: A6_1-DB3.ab1
+  valid: true
+  origin: biopython
+  tags:
+- filename: empty.ab1
+  valid: true
+  origin: biopython
+  tags:
+- filename: fake.ab1
+  valid: false
+  origin: biopython
+  tags:
