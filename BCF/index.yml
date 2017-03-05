@@ -1,0 +1,8 @@
+- filename: example.bcf
+  valid: true
+  origin: SeqAn
+  comment: bcftools view -O b ../VCF/example.vcf >example.bcf
+- filename: empty.bcf
+  valid: true
+  origin: bcftools
+  comment: bcftools view -O b ../VCF/empty.vcf >empty.bcf
