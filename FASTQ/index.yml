@@ -95,6 +95,7 @@
 - filename: longreads_original_sanger.fastq
   origin: Biopython
   valid: true
+  tags: linewrap
 - filename: misc_dna_as_illumina.fastq
   origin: Biopython
   tags: dna ambiguity
@@ -159,6 +160,7 @@
 - filename: tricky.fastq
   origin: Biopython
   valid: true
+  tags: linewrap
 - filename: wrapping_as_illumina.fastq
   origin: Biopython
 - filename: wrapping_as_sanger.fastq
@@ -169,6 +171,7 @@
   valid: true
 - filename: wrapping_original_sanger.fastq
   origin: Biopython
+  tags: linewrap
 - filename: zero_length.fastq
   valid: true
   origin: Biopython
