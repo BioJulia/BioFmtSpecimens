@@ -1,0 +1,8 @@
+- filename: bigWig1.bw
+  valid: true
+  origin: kent
+  tags: bigwig
+- filename: insertionsPrimary.bb
+  valid: true
+  origin: kent
+  tags: bigbed
