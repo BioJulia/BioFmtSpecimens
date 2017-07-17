@@ -57,3 +57,12 @@
   origin: gff3-pltools
 - filename: only_fasta.gff3
   valid: true
+- filename: TAIR10.part.gff.bgz
+  valid: true
+  origin: www.arabidopsis.org
+  tags: gzip
+  comments: |
+      This is a block-compressed file made using bgzip.
+      TAIR10.part.gff.bgz.tbi is an index file of it.
+      Gene records of Chr4, ChrC, ChrM are kept to reduce the file size.
+      See http://www.htslib.org/doc/tabix.html.

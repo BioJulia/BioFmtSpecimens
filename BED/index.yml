@@ -37,3 +37,7 @@
 - filename: overlapSelect-wideSelect.bed
   valid: true
   origin: kent
+- filename: ws245Genes.WBGene.bed.bgz
+  valid: true
+  origin: UCSC
+  tags: gzip
