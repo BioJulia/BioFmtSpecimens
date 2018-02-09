@@ -1,0 +1,9 @@
+ - filename: 1AKE.cif
+   valid: true
+   origin: PDB
+ - filename: 1EN2.cif
+   valid: true
+   origin: PDB
+ - filename: 1SSU.cif
+   valid: true
+   origin: PDB
