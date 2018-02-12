@@ -1,0 +1,84 @@
+data_1AKE_err
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1    N N   . MET A 1 1   ? 26.981 53.977  40.085 1.00 40.83  ? 1   MET A N   1
+ATOM   2    C CA  . MET A 1 1   ? 26.091 52.849  39.889 1.00 37.14  ? 1   MET A CA  1
+ATOM   3    C C   . MET A 1 1   ? 26.679 52.163  38.675 1.00 30.15  ? 1   MET A C   1
+ATOM   4    O O   . MET A 1 1   ? 27.020 52.865  37.715 1.00 27.59  ? 1   MET A O   1
+ATOM   5    C CB  . MET A 1 1   ? 24.677 53.310  39.580 1.00 38.06  ? 1   MET A CB  1
+ATOM   6    C CG  . MET A 1 1   ? 23.624 52.189  39.442 1.00 46.67  ? 1   MET A CG  1
+ATOM   7    S SD  . MET A 1 1   ? 21.917 52.816  39.301 1.00 61.54  ? 1   MET A SD  1
+ATOM   8    C CE  . MET A 1 1   ? 21.930 53.926  37.910 1.00 51.17  ? 1   MET A CE  1
+ATOM   9    N N   . ARG A 1 2   ? 26.861 50.841  38.803 1.00 28.23  ? 2   ARG A N   1
+ATOM   10   C CA  . ARG A 1 2   ? 27.437 49.969  37.786 1.00 25.76  ? 2   ARG A CA  1
+ATOM   11   C C   . ARG A 1 2   ? 26.336 48.959  37.429 1.00 25.85  ? 2   ARG A C   1
+ATOM   12   O O   . ARG A 1 2   ? 25.745 48.313  38.312 1.00 25.74  ? 2   ARG A O   1
+ATOM   13   C CB  . ARG A 1 2   ? 28.653 49.266  38.349 1.00 21.92  ? 2   ARG A CB  1
+ATOM   14   C CG  . ARG A 1 2   ? 29.870 50.188  38.416 1.00 39.05  ? 2   ARG A CG  1
+ATOM   15   C CD  . ARG A 1 2   ? 31.033 49.532  39.173 1.00 51.33  ? 2   ARG A CD  1
+ATOM   16   N NE  . ARG A 1 2   ? 32.318 50.244  39.125 1.00 59.73  ? 2   ARG A NE  1
+ATOM   17   C CZ  . ARG A 1 2   ? 33.462 49.750  39.679 1.00 58.78  ? 2   ARG A CZ  1
+ATOM   18   N NH1 . ARG A 1 2   ? 33.522
+ATOM   19   N NH2 . ARG A 1 2   ? 34.610 50.427  39.597 1.00 59.20  ? 2   ARG A NH2 1
+ATOM   20   N N   . ILE A 1 3   ? 26.039 48.836  36.139 1.00 21.59  ? 3   ILE A N   1
+ATOM   21   C CA  . ILE A 1 3   ? 24.961 47.988  35.671 1.00 23.90  ? 3   ILE A CA  1
+ATOM   22   C C   . ILE A 1 3   ? 25.374 47.080  34.537 1.00 21.12  ? 3   ILE A C   1
+ATOM   23   O O   . ILE A 1 3   ? 26.029 47.614  33.642 1.00 24.59  ? 3   ILE A O   1
+ATOM   24   C CB  . ILE A 1 3   ? 23.802 48.880  35.202 1.00 23.84  ? 3   ILE A CB  1
+ATOM   25   C CG1 . ILE A 1 3   ? 23.317 49.724  36.378 1.00 26.14  ? 3   ILE A CG1 1
+ATOM   26   C CG2 . ILE A 1 3   ? 22.660 48.010  34.642 1.00 19.29  ? 3   ILE A CG2 1
+ATOM   27   C CD1 . ILE A 1 3   ? 22.436 50.890  35.992 1.00 24.97  ? 3   ILE A CD1 1
+ATOM   28   N N   . ILE A 1 4   ? 25.062 45.774  34.541 1.00 20.44  ? 4   ILE A N   1
+ATOM   29   C CA  . ILE A 1 4   ? 25.194 44.925  33.360 1.00 17.83  ? 4   ILE A CA  1
+ATOM   30   C C   . ILE A 1 4   ? 23.804 44.715  32.751 1.00 18.42  ? 4   ILE A C   1
+ATOM   31   O O   . ILE A 1 4   ? 22.824 44.536  33.484 1.00 16.35  ? 4   ILE A O   1
+ATOM   32   C CB  . ILE A 1 4   ? 25.789 43.561  33.720 1.00 16.64  ? 4   ILE A CB  1
+ATOM   33   C CG1 . ILE A 1 4   ? 27.206 43.753  34.233 1.00 17.27  ? 4   ILE A CG1 1
+ATOM   34   C CG2 . ILE A 1 4   ? 25.829 42.650  32.463 1.00 21.39  ? 4   ILE A CG2 1
+ATOM   35   C CD1 . ILE A 1 4   ? 27.967 42.486  34.621 1.00 15.61  ? 4   ILE A CD1 1
+ATOM   36   N N   . LEU A 1 5   ? 23.655 44.874  31.424 1.00 19.74  ? 5   LEU A N   1
+ATOM   37   C CA  . LEU A 1 5   ? 22.428 44.503  30.712 1.00 19.86  ? 5   LEU A CA  1
+ATOM   38   C C   . LEU A 1 5   ? 22.668 43.134  30.012 1.00 18.50  ? 5   LEU A C   1
+ATOM   39   O O   . LEU A 1 5   ? 23.614 42.932  29.232 1.00 17.64  ? 5   LEU A O   1
+ATOM   40   C CB  . LEU A 1 5   ? 22.088 45.547  29.675 1.00 22.23  ? 5   LEU A CB  1
+ATOM   41   C CG  . LEU A 1 5   ? 22.076 47.021  30.069 1.00 27.37  ? 5   LEU A CG  1
+ATOM   42   C CD1 . LEU A 1 5   ? 21.735 47.848  28.817 1.00 19.28  ? 5   LEU A CD1 1
+ATOM   43   C CD2 . LEU A 1 5   ? 21.088 47.249  31.193 1.00 24.82  ? 5   LEU A CD2 1
+ATOM   44   N N   . LEU A 1 6   ? 21.787 42.178  30.248 1.00 14.28  ? 6   LEU A N   1
+ATOM   45   C CA  . LEU A 1 6   ? 21.933 40.811  29.752 1.00 21.75  ? 6   LEU A CA  1
+ATOM   46   C C   . LEU A 1 6   ? 20.711 40.529  28.870 1.00 23.97  ? 6   LEU A C   1
+ATOM   47   O O   . LEU A 1 6   ? 19.602 40.977  29.220 1.00 19.19  ? 6   LEU A O   1
+ATOM   48   C CB  . LEU A 1 6   ? 21.919 39.891  30.945 1.00 27.49  ? 6   LEU A CB  1
+ATOM   49   C CG  . LEU A 1 6   ? 22.847 38.789  31.103 1.00 31.51  ? 6   LEU A CG  1
+ATOM   50   C CD1 . LEU A 1 6   ? 24.254 39.345  31.210 1.00 34.32  ? 6   LEU A CD1 1
+ATOM   51   C CD2 . LEU A 1 6   ? 22.465 38.042  32.355 1.00 24.54  ? 6   LEU A CD2 1
+ATOM   52   N N   . GLY A 1 7   ? 20.800 39.799  27.764 1.00 18.09  ? 7   GLY A N   1
+ATOM   53   C CA  . GLY A 1 7   ? 19.604 39.512  26.973 1.00 20.21  ? 7   GLY A CA  1
+ATOM   54   C C   . GLY A 1 7   ? 19.959 39.035  25.585 1.00 14.48  ? 7   GLY A C   1
+ATOM   55   O O   . GLY A 1 7   ? 21.049 39.324  25.122 1.00 15.84  ? 7   GLY A O   1
+ATOM   56   N N   . ALA A 1 8   ? 19.117 38.232  24.936 1.00 19.71  ? 8   ALA A N   1
+ATOM   57   C CA  . ALA A 1 8   ? 19.324 37.742  23.567 1.00 16.92  ? 8   ALA A CA  1
+ATOM   58   C C   . ALA A 1 8   ? 19.530 38.886  22.568 1.00 17.35  ? 8   ALA A C   1
+ATOM   59   O O   . ALA A 1 8   ? 19.158 40.013  22.889 1.00 15.41  ? 8   ALA A O   1
+ATOM   60   C CB  . ALA A 1 8   ? 18.092 36.960  23.169 1.00 15.12  ? 8   ALA A CB  1
