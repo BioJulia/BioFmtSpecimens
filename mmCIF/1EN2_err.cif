@@ -1,0 +1,33 @@
+data_1EN2_err
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+HETATM 1   N N   . PCA A 1 1  ? 0.525   2.690   13.317 1.00 20.26 ? 1   PCA A N   1
+HETATM 2   C CA  . PCA A 1 1  ? -0.993  2.924   13.160 1.00 21.23 ? 1   PCA A CA  1
+HETATM 3   C CB  . PCA A 1 1  ? -1.783  1.879   14.043 1.00 24.73 ? 1   PCA A CB  1
+HETATM 4   C CG  . PCA A 1 1  ? -0.609  1.208   14.621 1.00 22.31 ? 1   PCA A CG  1
+HETATM 5   C CD  . PCA A 1 1  ? 0.869   1.560   14.229 1.00 23.27 ? 1   PCA A CD  1
+HETATM 5   C CD  . PCA A 1 1  ? 0.869   1.560   14.229 1.00 23.27 ? 1   PCA A CD  1
+HETATM 6   O OE  . PCA A 1 1  ? 2.053   1.323   14.293 1.00 26.24 ? 1   PCA A OE  1
+HETATM 7   C C   . PCA A 1 1  ? -1.375  4.270   13.719 1.00 19.21 ? 1   PCA A C   1
+HETATM 8   O O   . PCA A 1 1  ? -0.389  5.021   14.230 1.00 18.05 ? 1   PCA A O   1

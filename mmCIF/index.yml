@@ -1,0 +1,15 @@
+ - filename: 1AKE.cif
+   valid: true
+   origin: PDB
+ - filename: 1AKE_err.cif
+   valid: false
+   origin: PDB modified
+ - filename: 1EN2.cif
+   valid: true
+   origin: PDB
+ - filename: 1EN2_err.cif
+   valid: false
+   origin: PDB modified
+ - filename: 1SSU.cif
+   valid: true
+   origin: PDB
