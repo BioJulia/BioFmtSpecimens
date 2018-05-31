@@ -48,3 +48,8 @@
   origin: in-house
   tags: bai
   comment: empty BAI
+- filename: cigar-64k.bam
+  valid: true
+  origin: Heng-Li
+  tags: bai
+  comment: records with long-cigar strings (>65535 operations)
