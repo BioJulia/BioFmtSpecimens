@@ -37,3 +37,6 @@
 - filename: ex1_header.sam
   valid: true
   origin: Biopython
+- filename: cigar-64k.sam
+  valid: true
+  origin: Heng Li
