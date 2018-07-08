@@ -66,3 +66,9 @@
       TAIR10.part.gff.bgz.tbi is an index file of it.
       Gene records of Chr4, ChrC, ChrM are kept to reduce the file size.
       See http://www.htslib.org/doc/tabix.html.
+- filename: ERCC92.gff3
+  valid: true
+  origin: https://www.thermofisher.com/order/catalog/product/4456739
+  comments: |
+      Annotations provided for ERCC spike-in controls, converted from GTF to
+      GFF3 with gffread.
