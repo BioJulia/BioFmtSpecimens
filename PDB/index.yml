@@ -19,3 +19,6 @@
  - filename: 1SSU_err.pdb
    valid: false
    origin: PDB modified
+ - filename: d9pcya_.ent
+   valid: true
+   origin: ASTRAL SCOP95
