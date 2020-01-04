@@ -1,0 +1,15 @@
+ - filename: 1AKE.mmtf
+   valid: true
+   origin: PDB
+ - filename: 1AKE.mmtf.gz
+   valid: true
+   origin: PDB
+ - filename: 1AKE_reduced.mmtf
+   valid: true
+   origin: PDB
+ - filename: 1EN2.mmtf
+   valid: true
+   origin: PDB
+ - filename: 1SSU.mmtf
+   valid: true
+   origin: PDB
